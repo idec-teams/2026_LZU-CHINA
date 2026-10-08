@@ -1,0 +1,19 @@
+{% extends "base.html" %}
+{% block content %}
+{% if not page.meta.homepage %}
+<div class="chapter-heading">
+  <span class="eyebrow">{{ page.meta.eyebrow | default("LZU-CHINA · iDEC 2026") }}</span>
+  <span class="reading-time" aria-label="Estimated reading time"></span>
+</div>
+{% endif %}
+{{ super() }}
+{% if not page.meta.homepage %}
+<aside class="chapter-end" aria-label="Continue exploring">
+  <span class="eyebrow">Keep exploring</span>
+  <p>Follow a question. Check the evidence. Meet the people behind it.</p>
+  <a href="{{ 'project/story/' | url }}">The project story <span aria-hidden="true">↗</span></a>
+  <a href="{{ 'project/evidence/' | url }}">Evidence guide <span aria-hidden="true">↗</span></a>
+  <a href="{{ 'human-practices/' | url }}">Our community <span aria-hidden="true">↗</span></a>
+</aside>
+{% endif %}
+{% endblock %}

@@ -1,0 +1,42 @@
+# Better for whom? / 怎样才算更好？
+Version 0.1 — 2026-10-08 — LZU-CHINA
+A 25-minute, no-lab discussion kit. Draft for peer testing; no completed workshop is claimed.
+25 分钟无实验教学活动。供同伴试用的草案，尚不代表活动已实施。
+
+## Materials / 材料
+Paper, pens and four option cards below; no biological material or equipment required.
+纸笔与以下四张选项卡；无需生物材料或实验设备。
+
+| Option / 选项 | Speed / 速度 | Consistency / 一致性 |
+| --- | --- | --- |
+| A | 95 | 30 |
+| B | 76 | 72 |
+| C | 50 | 93 |
+| D | 35 | 99 |
+
+All values are invented teaching scores, not measurements. 所有数值均为虚构教学分数。
+
+## Facilitation / 主持流程
+0–3 min: Ask each learner to define “better” before seeing the cards. 先写下“更好”的定义。
+3–8 min: Compare the cards; justify one choice. 比较选项并解释理由。
+8–13 min: Calculate speed × weight + consistency × (1 − weight). Try weights 0, 0.35, 0.5, 1. 用不同权重重新评价。
+13–18 min: Explain why the preferred option changes. Distinguish changing an evaluation from generating a new variant. 解释评价变化与产生变体的区别。
+18–22 min: Ask what a real comparison would require: a reference, matched conditions, repeat measurements and uncertainty. 讨论真实比较所需证据。
+22–25 min: Write one insight and one unresolved question. 留下一条收获和一条问题。
+
+## Answer guide / 参考答案
+Weights 0 / 0.35 / 0.5 / 1 favour D / C / B / A. No option is universally best.
+上述权重依次选出 D / C / B / A；不存在脱离目标的绝对最优。
+This exercise explains evaluation only. Directed evolution additionally requires actual variation and selection or screening with appropriate records.
+本活动仅解释评价；不能代表实际变异、筛选或完整定向进化实验。
+
+## Access / 无障碍
+Read every card aloud; use letters as well as colours; offer paper and spoken participation. Do not require names, photos or personal medical details.
+读出卡片内容，以字母辅助颜色，允许书面或口头参与，不要求姓名、照片或个人医疗信息。
+
+## Feedback / 反馈
+Record which instruction was unclear, what you changed, and whether the revision helped. Do not infer educational effectiveness from attendance alone.
+记录不清楚的说明、修改内容及修改后反馈；出席人数不等于教学效果。
+
+Reuse under CC BY 4.0. Credit LZU-CHINA, version and adaptations. AI-assisted draft; host review required.
+按 CC BY 4.0 复用，注明团队、版本和改编。AI 辅助草案，使用前由主持人审核。
