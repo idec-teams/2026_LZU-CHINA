@@ -108,7 +108,7 @@ For healthcare-equity-oriented translation: We included low-cost, grassroots-ori
 
 ![2.2 "Stakeholder Dialogue" Project Co‑design & Iteration — Image 5](https://static.igem.wiki/teams/6079/wiki/inclusivity/images/image5.avif){ loading=lazy .hp-photo }
 
-Figure 2-3: Stakeholder-Driven Co-Design & Iteration. No human experimentation and no wet-lab prototype modification were performed in this work. Feedback from ICU nurses, grassroots laboratory physicians and the Gansu Red Cross Society representatives informed four prospective clinical-translation directions for future translation. The [Human Practices overview](index.md) connects these considerations to our community work.
+Figure 2-3: Stakeholder-Driven Co-Design & Iteration. No human experimentation and no wet-lab prototype modification were performed in this work. Feedback from ICU nurses, grassroots laboratory physicians and the Gansu Red Cross Society representatives informed four prospective clinical-translation directions for future translation. The [Community overview](index.md) connects these considerations to our community work.
 
 ### 2.3 "Accessible Science" Barrier‑free Science Communication
 

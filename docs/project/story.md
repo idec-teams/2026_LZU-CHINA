@@ -49,7 +49,7 @@ The same approach matters in directed evolution. Before calling one version “b
 
 ## The people around the question
 
-Technical performance is only part of usefulness. Healthcare staff raised questions about equipment and readability. Community audiences asked about safety and everyday relevance. School students needed an accessible route into unfamiliar ideas. These conversations are recorded in our [Human Practices programme](../human-practices/index.md).
+Technical performance is only part of usefulness. Healthcare staff raised questions about equipment and readability. Community audiences asked about safety and everyday relevance. School students needed an accessible route into unfamiliar ideas. These conversations are recorded in our [Community programme](../human-practices/index.md).
 
 ## Three ideas to take away
 

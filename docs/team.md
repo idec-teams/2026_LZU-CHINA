@@ -10,7 +10,7 @@ Our 68-person LZU-CHINA community brings together principal investigators, instr
 
 Select a portrait to see the original photograph and an introduction adapted for this iDEC website.
 
-[Read our attributions and credits](attributions.md) · [Explore our Human Practices](human-practices/index.md)
+[Read our attributions and credits](attributions.md) · [Explore our Community](human-practices/index.md)
 
 [Primary PIs](#primary-pi) · [Secondary PIs](#secondary-pi) · [Instructors](#instructor) · [Student Leaders](#student-leader) · [Students](#student) · [Advisors](#advisor)
 

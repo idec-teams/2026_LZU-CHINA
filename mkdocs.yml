@@ -60,11 +60,11 @@ nav:
       - System design: project/design.md
       - Experimental results: project/results.md
       - Evidence guide: project/evidence.md
-  - Commons:
+  - Community:
       - Build together: community/index.md
       - Reusable toolkit: community/toolkit.md
       - Contribution status: community/evidence.md
-      - Human Practices: human-practices/index.md
+      - Community overview: human-practices/index.md
       - Education: human-practices/education.md
       - Inclusivity: human-practices/inclusivity.md
       - Collaboration: human-practices/collaboration.md

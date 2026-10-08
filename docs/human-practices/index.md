@@ -1,12 +1,13 @@
 ---
+title: Community
 eyebrow: 04 / Science with people
 ---
 
-# A conversation, not a broadcast
+# Community
 
 <p class="lead">A child asks what a bacterium is. A nurse asks who will read the result. A student asks whether “better” always means faster. Each question changes where the conversation starts.</p>
 
-Our Human Practices work connects education, inclusion, peer exchange and stakeholder dialogue in Lanzhou and beyond. For iDEC, we bring these experiences into a shared question: **how can research become more understandable, more accountable and more useful?**
+Our community work connects education, inclusion, peer exchange and stakeholder dialogue in Lanzhou and beyond. For iDEC, we bring these experiences into a shared question: **how can research become more understandable, more accountable and more useful?**
 
 <div class="photo-pair"><figure><img src="https://static.igem.wiki/teams/6079/wiki/education/images/image19.avif" alt="Community education activity in the LZU-CHINA outreach record" loading="lazy"><figcaption>Local conversations provide a starting point for accessible science.</figcaption></figure><figure><img src="https://static.igem.wiki/teams/6079/wiki/collaboration/images/image9.avif" alt="University peer-team exchange documented in the collaboration record" loading="lazy"><figcaption>Peer exchange makes assumptions and unanswered questions visible.</figcaption></figure></div>
 
@@ -47,3 +48,19 @@ We distinguish people reached from learning demonstrated. We keep proposed activ
 ## Build with the iDEC community
 
 Explore our [community hub](../community/index.md) and [bilingual starter toolkit](../community/toolkit.md): a no-lab learning activity, cross-team clarity review, contribution log and resource handoff. Prepared resources and verified external use are tracked separately.
+
+<section class="community-summary" markdown="1" aria-labelledby="community-summary">
+
+## Looking forward: the iDEC community we want to build {#community-summary}
+
+Our education activities, peer exchanges and stakeholder conversations have shown us why a project needs perspectives beyond its own team. Different people notice different barriers, challenge different assumptions and ask questions that deserve to shape how science is explained and developed.
+
+That is why we are committed to helping build an **open, inclusive and mutually supportive iDEC community**. We want newcomers to feel able to ask their first question, teams to share uncertainties as well as successes, and useful knowledge to remain accessible beyond a single competition season. For us, community building means making it easier for the next person to understand, participate and contribute.
+
+Our contribution begins with the materials we can share: accessible explanations, bilingual learning activities, review prompts and transparent records. We hope these resources become starting points that other teams can adapt, question and improve. Their future use and impact should be documented through feedback, rather than assumed from publication alone.
+
+**The community we hope to help form is one where learning travels between teams, participation is open to more people, and progress becomes something we build together.**
+
+[Explore the shared toolkit](../community/toolkit.md) · [Follow our contribution record](../community/evidence.md)
+
+</section>
