@@ -12,13 +12,13 @@ This assessment connects our iDEC project with sustainable-development questions
 
 ## 1. Introduction
 
-As the LZU-CHINA team exploring an engineered Escherichia coli Nissle 1917 (EcN-1917) platform for real-time intestinal infection monitoring and targeted antimicrobial intervention, we examined our project's alignment with the UN Sustainable Development Goals (SDGs) [1]. Rather than claiming comprehensive coverage across all 17 goals, we focus on **five SDGs with direct, logically traceable links to our technical design**, community engagement activities, and Collaboration outcomes. For each, we specify the relevant target, acknowledge the proof-of-concept stage of our work, and draw on literature where applicable.
+As the LZU-CHINA team exploring an engineered Escherichia coli Nissle 1917 (EcN-1917) platform for real-time intestinal infection monitoring and targeted antimicrobial intervention, we examined our project's alignment with the UN Sustainable Development Goals (SDGs) [1]. Rather than claiming comprehensive coverage across all 17 goals, we focus on **five SDGs relevant to our proposed design**, community engagement activities, and collaboration outcomes. For each, we specify the relevant target, acknowledge the proof-of-concept stage of our work, and draw on literature where applicable.
 
 ## 2. Direct Contributions
 
 ### 2.1 SDG 3: Good Health and Well-being (Target 3.8 — Universal Health Coverage)
 
-Postoperative intestinal infections complicate recovery and drive antibiotic overuse, which accelerates antimicrobial resistance [2]. Our engineered EcN-1917 system uses a dual-input AND gate (AI-2 quorum-sensing signal + tetrathionate) to trigger LacZ colorimetric diagnosis and Microcin J25 therapy only when both pathogen markers are detected. This design **reduces reliance on prophylactic broad-spectrum antibiotics**, offering a biologically targeted alternative for perioperative gut infection management.
+Postoperative intestinal infections complicate recovery and drive antibiotic overuse, which accelerates antimicrobial resistance [2]. Our engineered EcN-1917 system uses a dual-input AND gate (AI-2 quorum-sensing signal + tetrathionate) to trigger LacZ colorimetric diagnosis and Microcin J25 therapy only when both pathogen markers are detected. This design **aims to reduce reliance on prophylactic broad-spectrum antibiotics**, with the goal of offering a biologically targeted alternative for perioperative gut infection management.
 
 We acknowledge that our system remains at the **proof-of-concept stage**; no animal or clinical validation has been conducted. However, the rationale builds on established evidence: engineered commensals can colonize the mammalian gut long-term and function as live diagnostics [3], and probiotic interventions reduce postoperative infection incidence in gastrointestinal surgery [2]. If translated, our approach could support SDG 3.8 by providing a precision alternative to empirical antibiotic prophylaxis.
 
@@ -34,7 +34,7 @@ Our team members conducted surveys in The First Hospital of Lanzhou University
 
 ### 2.2 SDG 4: Quality Education (Target 4.4 — Relevant Skills for Employment)
 
-Our team conducted synthetic biology and intestinal microbiome popularization activities across multiple sites, including interactive lectures and simplified lab demonstrations for secondary school students. These activities align with SDG 4.4 by broadening exposure to life sciences among students who lack access to university-level research resources, cultivating scientific thinking and technical awareness relevant to future STEM engagement.
+Our team conducted outreach activities on synthetic biology and the intestinal microbiome across multiple sites, including interactive lectures and simplified lab demonstrations for secondary school students. These activities align with SDG 4.4 by broadening exposure to life sciences among students who lack access to university-level research resources, cultivating scientific thinking and technical awareness relevant to future STEM engagement.
 
 *Cross-reference: Education materials and activity records are documented in our Education sub-section; collaboration with the University and Gansu Red Cross Society extended our reach to grassroots community audiences.*
 
@@ -48,13 +48,13 @@ Our team conducted synthetic biology and intestinal microbiome popularization ac
 
 ![Image 8](../assets/community-source/sustainability/images/image8.avif){ loading=lazy .hp-photo }
 
-Our team members in the educational activities
+Team members leading education activities.
 
 ### 2.3 SDG 10: Reduced Inequalities (Target 10.2 — Social Inclusion)
 
-Conventional intestinal pathogen detection relies on culture-based methods or microscopy, which require laboratory infrastructure and trained personnel — barriers for primary-care settings in remote areas [4]. Our colorimetric output (LacZ) is designed to be read without specialized equipment, lowering the technical threshold for point-of-care application. While we have not yet validated this in field conditions, the **low production cost of lyophilized engineered probiotics**​and the simplicity of a color-change readout suggest potential for grassroots deployment.
+Conventional intestinal pathogen detection relies on culture-based methods or microscopy, which require laboratory infrastructure and trained personnel — barriers for primary-care settings in remote areas [4]. Our colorimetric output (LacZ) is designed to be read without specialized equipment, lowering the technical threshold for point-of-care application. While we have not yet validated this in field conditions, the **goal of producing affordable lyophilized engineered probiotics** and the simplicity of a color-change readout suggest potential for grassroots deployment.
 
-Furthermore, the targeted popular science and educational public welfare activities carried out in underdeveloped areas of Gansu can balance the distribution of high-quality scientific education resources, make up for the shortage of local educational resources, and reduce the educational development gap between urban and rural areas. While promoting equity in public health and educational resources, our project advocates the concept of inclusive technological innovation, enabling scientific and technological achievements to benefit more social groups, which may effectively alleviate multiple forms of social inequality and practice the core connotation of SDG 10.
+Our outreach in Gansu also addresses access to science education. School visits and shared materials offer opportunities to audiences with fewer local resources. These activities support the intent of SDG 10, although their reach alone does not demonstrate a reduction in educational inequality.
 
 ![Image 9](../assets/community-source/sustainability/images/image9.avif){ loading=lazy .hp-photo }
 
@@ -72,11 +72,11 @@ Furthermore, the targeted popular science and educational public welfare activit
 
 ![Image 16](../assets/community-source/sustainability/images/image16.avif){ loading=lazy .hp-photo }
 
-Our team members working for reducing inequalities
+Team members supporting access to science education.
 
 ### 2.4 SDG 12: Responsible Consumption and Production (Target 12.4 — Chemical Management)
 
-Traditional intestinal infection diagnostics generate chemical waste from reagent kits, culture media, and single-use plastics [4]. Our system uses live engineered bacteria as the sensing and therapeutic agent, replacing most chemical detection steps. After completing their functional cycle, the bacteria are contained by a Hok/Sok killing switch and degrade naturally in the intestinal environment, producing no persistent chemical residues.
+Diagnostic workflows use reagents, culture media and disposable materials [4]. Our proposed biological approach raises questions about whether some of these inputs could be reduced. Its Hok/Sok containment concept still requires validation, and we have not demonstrated reduced waste or an absence of persistent residues.
 
 The fermentation-based production process uses renewable carbon sources (e.g., glucose) rather than petrochemical feedstocks, aligning with green biomanufacturing principles. We recognize that the environmental benefit is conditional on successful containment and degradation validation, which remains a future task.
 
@@ -86,7 +86,7 @@ Our project involved multi-level partnerships across academia, industry, and civ
 
 **Technical exchange** with research teams from six universities (see Collaboration), including cross-review of genetic circuit design and community engagement strategy;
 
-**Industry engagement** with Jinghong health company. Etc (see Entrepreneurship), providing insight into designing business plan;
+**Industry engagement** with Jinghong Health Products Ltd. and other healthcare companies (see Entrepreneurship), informing our business planning;
 
 **Public welfare collaboration** with the Gansu Red Cross Society (see Education and Collaboration), a government-affiliated humanitarian mass organization, for community health outreach;
 
@@ -110,9 +110,7 @@ These partnerships embody SDG 17.6 by facilitating cross-sector knowledge exchan
 
 ## 3. Indirect Contributions
 
-## 3. Indirect Contributions
-
-Beyond the five directly addressed goals, our project has secondary relevance​ to two additional SDGs:
+Beyond the five directly addressed goals, our project has secondary relevance to two additional SDGs:
 
 **SDG 8 (Decent Work and Economic Growth, Target 8.2)**: The engineered probiotic approach, if industrially translated, could contribute to a biomedical value chain spanning strain design, fermentation, formulation, and clinical application. We note this potential without overstating it: technology transfer from student biotechnology projects to industry is rare, and any economic impact would require years of development beyond the competition cycle.
 
@@ -122,7 +120,7 @@ We do not claim contributions to SDGs 1, 5, 6, 7, 9, 11, 13, 14, 15, or 16. As a
 
 ## 4. Conclusions
 
-This project aligns most credibly with SDG **3, 4, 10, 12, and 17**, each supported by traceable links to our experimental design, community engagement activities, and Collaboration outcomes. Secondary relevance to SDG 8 and SDG 2 is acknowledged with appropriate caveats. We have deliberately avoided overclaiming contributions to goals beyond our project's current scope, following our commitment to transparent evidence and realistic scope. All health claims are presented as proof-of-concept possibilities, not clinical validations.
+SDGs **3, 4, 10, 12, and 17** provide a useful framework for examining our design goals and community activities. Education and partnership activities have taken place; health and environmental benefits remain possibilities to assess. Connections to SDG 8 and SDG 2 are more tentative and depend on development beyond the current project.
 
 ## References
 

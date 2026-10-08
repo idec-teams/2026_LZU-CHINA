@@ -7,8 +7,6 @@ eyebrow: Community archive · Full record
 
 Our education programme connects children, school students, university peers and community residents through hands-on activities, dialogue and reusable learning materials. **Explore → Understand → Engage → Connect** provides a route through the full activity record below.
 
-For iDEC, we connect this community experience with a central question: how should a useful improvement be defined, measured and explained? The activities below document our outreach and exchanges; the closing section develops their relevance to directed-evolution education and responsible research.
-
 ## 1 Opening
 
 ### Education Beyond Communication
@@ -21,9 +19,7 @@ We began by listening. Questionnaires, conversations, observation and feedback h
 
 A lecture or public event was therefore one stage in a longer process. Participant feedback informed later activities, effective materials were retained in editable form, and learners were invited to question and interpret scientific ideas rather than receive a finished message.
 
-Therefore, our education work followed a simple progression:
-
-From the learner’s perspective, this progression can be understood as:
+From the learner’s perspective, our programme followed this progression:
 
 **Understand → Participate → Contribute → Pass It On**
 
@@ -33,69 +29,19 @@ This progression linked curiosity with understanding, dialogue with revision, an
 
 ### Lanzhou University in Northwest China
 
-Lanzhou University is located in northwestern China, far from many of the country's most densely developed coastal and metropolitan regions. This geographical position has shaped not only the university itself, but also the way we understand education.
+Lanzhou University is in northwest China, where distance and differences in local resources can limit access to science education. Within the university, we have access to laboratories, teachers and research opportunities. Students in rural schools and residents farther from scientific institutions may have fewer chances to encounter fields such as synthetic biology.
 
-Across western China, distance, uneven regional development, and differences in access to scientific and educational resources remain practical realities. Compared with regions where universities, research institutes, biotechnology companies, science museums, and public engagement platforms are highly concentrated, opportunities to encounter emerging fields such as synthetic biology are often less readily available in the northwest. Even within the same province or region, the distance between a university campus and a rural school, a remote community, or an older population group can be substantial.
+This setting shaped our priorities. Outreach needed to reach beyond campus, use explanations suited to different audiences and leave materials that could be used after a visit. Working with local schools and communities also meant adapting to differences in facilities, prior knowledge and language.
 
-These differences are part of the environment in which we study and work.
+We therefore focused on resources that were easy to share and activities that invited participation. A lecture could introduce an idea, but follow-up questions, editable materials and continued contact were needed to support further learning.
 
-Lanzhou University itself has long developed under conditions shaped by geographical distance and comparatively limited regional resources. The university has repeatedly had to confront the challenges of attracting and retaining high-level talent, building strong research platforms, and maintaining academic competitiveness while being located far from many of China's largest economic and scientific centers. In its own development planning, Lanzhou University has explicitly discussed the need to make the most of limited resources and to transform geographical disadvantage into disciplinary strength.
+These considerations led to three principles for our education programme in 2026: **accessibility, participation and sustainability**. Before choosing activities, we investigated which barriers people in Gansu considered most pressing and where our team could make a useful contribution.
 
-For western universities more broadly, talent has long been one of the central challenges. Lanzhou University has responded by actively building mechanisms to attract, develop, and retain researchers in the west, while continuing to train students who choose to study, work, and contribute in western China.
-
-This institutional background shaped our educational priorities.
-
-As students at Lanzhou University, we are fortunate to have access to laboratories, teachers, and scientific training within the university. At the same time, we are constantly aware that these opportunities do not extend equally beyond the campus. For many people in remote schools, rural communities, or areas with fewer scientific institutions, contact with frontier science may depend on whether someone actively brings it to them.
-
-This contrast made us ask a simple question:
-
-Should where a person lives determine how easily they can encounter science?
-
-We do not believe it should.
-
-That question became a practical starting point for our education work.
-
-Our location also means that many forms of outreach require more effort than they might in a denser scientific ecosystem. Reaching a new audience may mean travelling farther, coordinating with local schools or communities, adapting activities to places with different educational conditions, or creating materials that can continue to be used after we leave. In some settings, there may be limited access to laboratory facilities, specialist teachers, or previous exposure to synthetic biology. Under these circumstances, education cannot rely only on a single lecture or one-time visit.
-
-It has to travel farther.
-
-It has to be easier to understand.
-
-And it has to leave something behind.
-
-This is why accessibility and sustainability became so important to LZU-CHINA.
-
-We wanted our education to reach beyond the people who were already close to universities and scientific institutions. We wanted to engage children, university students, community residents, older adults, people in more remote areas, and audiences separated by differences in language or educational background. We also wanted to create resources that could continue to circulate beyond the places we could physically reach.
-
-Northwest China also gives our work a clear academic and social responsibility.
-
-Lanzhou University has repeatedly sought to turn its geographical position into a source of academic responsibility and strength. The university has built distinctive research directions around the needs and characteristics of western China and has emphasized serving the region while pursuing high-level research and education.
-
-This attitude also influenced us.
-
-We therefore asked how our location could inform the purpose and reach of our work, rather than treating geography only as a constraint.
-
-If the northwest has fewer opportunities to encounter emerging science, then we should work to create more of them.
-
-If distance separates communities from scientific resources, then education should help shorten that distance.
-
-If we cannot bring laboratories and research institutions everywhere, then the materials, methods, and conversations we leave behind should be able to continue after we leave.
-
-In this sense, our educational philosophy grew directly from where we stand.
-
-The realities of northwest China made us more sensitive to unequal access to science.
-
-The experience of Lanzhou University taught us that geographical disadvantage does not have to become intellectual isolation.
-
-And together, they led us toward the three principles that shaped our education work throughout 2026:
-
-Accessibility, Participation, and Sustainability.
-
-### 3 Investigating Educational Equity in Gansu
+## 3 Investigating Educational Equity in Gansu
 
 ![3 Investigating Educational Equity in Gansu — Image 1](../assets/community-source/education/images/image1.avif){ loading=lazy .hp-photo }
 
-#### From Regional Context to Educational Evidence
+### From Regional Context to Educational Evidence
 
 Our location in northwest China made us sensitive to differences in access to science and education. However, geographical context alone was not enough. We did not want to assume which barriers mattered most, or to describe educational inequality only from the perspective of university students.
 
@@ -105,7 +51,7 @@ Before deciding what educational support might be meaningful, we therefore asked
 
 To explore this question, we conducted an education-equity investigation together with LZU-GANSU, combining questionnaires with grassroots conversations and interviews. Rather than treating educational equity as an abstract social issue, we used the investigation to identify barriers that were directly relevant to our own educational work: access to STEM activities, digital resources, localized learning materials, opportunities for scientific participation, and the sustainability of educational support.
 
-#### How We Listened
+### How We Listened
 
 Our investigation used online questionnaires supplemented by offline distribution. A total of **168 questionnaires were distributed, of which 140 valid responses were collected**. We also conducted conversations and interviews with **11 teachers, students, and parents** from urban, county, township, and remote rural settings. Participants included people from Tibetan, Hui, and Dongxiang communities. **This education-equity needs assessment was separate from the participant-feedback questionnaire used to evaluate our Inclusivity activities; the two surveys served different purposes and involved different participant groups.**
 
@@ -117,9 +63,9 @@ We did not use these responses to claim that a relatively small survey could rep
 
 This distinction was important. Educational inequity is shaped by structural issues that cannot be solved by a student team alone. Our role was therefore not to claim that we could “solve” educational inequality, but to identify where scientific education, reusable resources, and sustained outreach could make a practical contribution.
 
-#### What We Found
+### What We Found
 
-The responses did not support a simple narrative that education in Gansu was uniformly unequal. In the overall evaluation, **67.14% of respondents described the current situation as basically fair while still containing localized shortcomings**, while smaller groups perceived either a higher degree of balance or more substantial inequalities. This encouraged us to focus on specific barriers rather than making broad claims about the region as a whole.
+The responses did not support a simple narrative that education in Gansu was uniformly unequal. In the overall evaluation, **67.14% of respondents described the current situation as generally fair, with gaps in some areas**, while smaller groups perceived either a higher degree of balance or more substantial inequalities. This encouraged us to focus on specific barriers rather than making broad claims about the region as a whole.
 
 One of the clearest concerns was **access to STEM and scientific practice**.
 
@@ -137,7 +83,7 @@ These responses suggested an important distinction:
 
 Our grassroots interviews reinforced this interpretation. Teachers and families repeatedly distinguished between basic hardware provision and access to high-quality teaching content, systematic scientific experiments, professional guidance, and localized or bilingual educational resources.
 
-#### From Findings to Educational Design
+### From Findings to Educational Design
 
 The education-equity investigation did not create every part of our education programme from scratch. Several activities were already developing through schools, hospitals, communities, and university outreach. Instead, the investigation helped us **validate, sharpen, and connect these activities around clearer educational needs**.
 
@@ -1475,11 +1421,3 @@ In this sense, the end of LZU-CHINA 2026 is not the end of our education work.
 It is simply another point in the cycle.
 
 **Listen. Design. Engage. Measure. Improve. Share. Continue.**
-
-## Bringing this experience into iDEC
-
-Directed evolution offers a new teaching question: **what does “better” mean, and who chooses the criterion?** Our existing education approach gives us a way to make that question accessible. A future session can begin with familiar examples of variation, let learners choose a measurable goal, and then compare outcomes under different conditions.
-
-We propose a paper-based activity in which learners select cards with different traits, repeat the selection with a changed goal, and explain why the winning trait changes. The debrief would distinguish variation, selection and measurement, and ask what trade-offs a single score might hide. This is a proposed extension for iDEC, rather than an activity claimed in the record above.
-
-The same evaluation framework remains useful: record who could participate, ask learners to explain the idea in their own words, and use their questions to revise the next session. The programme figures above are source-reported activity counts; overlapping audiences should not be added into a unique-participant total.

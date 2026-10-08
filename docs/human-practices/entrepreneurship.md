@@ -13,30 +13,15 @@ Our entrepreneurship work examines the path between a research concept and possi
 
 Healthcare conversations raised questions about equipment, workflow, readability and affordability. Industry exchanges added product development, intellectual property, manufacturing consistency and quality management. [Explore the documented stakeholder conversations →](index.md#clinical-industry-and-community-engagement)
 
-## Four questions for an iDEC project
+## What the business plan examines { #a-staged-view-of-translation }
 
-| Question | Why it matters |
-| --- | --- |
-| What is being improved? | An objective needs a defined property, measurement and baseline |
-| Where does the advantage hold? | Operating conditions determine whether an observation transfers |
-| What is traded off? | A main score may conceal stability, resource or usability costs |
-| Who finds the improvement useful? | Practical value depends on people, access and implementation |
-
-## A staged view of translation
-
-**Research evidence → reproducibility → practical feasibility → appropriate review → possible implementation.**
-
-The stages are questions to resolve, not milestones already completed. The planning document explores market segments, business models, risk assessment and financial scenarios. Its forecasts and product specifications remain assumptions requiring validation.
+The plan examines market segments, business models, development risks and financial scenarios. Its forecasts and proposed product specifications are planning assumptions, not validated commercial outcomes.
 
 ## Explore the detailed planning record
 
-The [complete planning record](entrepreneurship-record.md) preserves **30 illustrations and 45 tables**, including stakeholder exploration, alternative approaches, proposed product concepts, market analysis and financial scenarios. It is available for readers who want to inspect those assumptions in detail.
+The [complete planning record](entrepreneurship-record.md) contains **30 illustrations and 45 tables** covering stakeholder interviews, alternative approaches, proposed products and the assumptions behind our market and financial analysis.
 
 [Read the detailed plan](entrepreneurship-record.md) · [Open the Chinese and English PDF resources](#business-planning-resources)
-
-## Share the reasoning
-
-The most reusable outcome of early translation work may be a better question. We propose using the framework above with future student teams, asking them to state what is known, what is assumed and what would change their decision. This makes a business narrative easier to challenge and a research direction easier to explain.
 
 ## Business planning resources
 

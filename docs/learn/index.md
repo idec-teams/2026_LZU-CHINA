@@ -6,7 +6,7 @@ eyebrow: 02 / The learning lab
 
 <p class="lead">“Better” sounds like a single destination. In research, it begins with a choice about what matters.</p>
 
-Directed evolution involves variation, selection or screening, and comparison. Different variants can have different properties; the criterion used to evaluate them shapes which ones are carried forward. Our simple exercise below isolates one part of that reasoning: how a goal changes a ranking.
+Directed evolution involves variation, selection or screening, and comparison. Different variants can have different properties; the criterion used to evaluate them shapes which ones are carried forward. Our simple exercise below focuses on one part of that reasoning: how a goal changes a ranking.
 
 <figure class="editorial-figure"><img src="../img/cartoon/cartoon-evolution.webp" width="1536" height="1024" alt="A varied group of cartoon microbes branches into two different environments." loading="lazy" decoding="async"><figcaption><strong>Different environments, different advantages</strong><span>AI-generated illustration of variation and environment-dependent selection, not a record of experimental evolution.</span></figcaption></figure>
 
@@ -25,7 +25,7 @@ Imagine four abstract designs that differ in speed and consistency. Their scores
 <div class="variant-card" data-variant="D" data-speed="35" data-consistency="99"><strong>D</strong><span>Speed 35</span><span>Consistency 99</span><span class="variant-score">Equal-weight score: 67.0</span></div>
 </div>
 <div class="signal-result" data-winner-output role="status" aria-live="polite">At equal weights, B has the highest illustrative score.</div>
-<p class="station-explainer">Score = speed × its weight + consistency × the remaining weight. This toy example illustrates evaluation, not mutation, selection rounds, biological prediction or a completed evolution experiment.</p>
+<p class="station-explainer">Score = speed × its weight + consistency × the remaining weight. This example illustrates evaluation, not mutation, selection rounds, biological prediction or a completed evolution experiment.</p>
 </section>
 
 ## What changed—and what did not?
@@ -49,7 +49,7 @@ This is why a single impressive number is not enough. We need to know the baseli
 | Comparison | Performance is checked against a reference | Are the conditions and measurements comparable? |
 | Learning | The outcome informs what happens next | What did we learn, including an unexpected or negative result? |
 
-Our current project files describe design and engineering work. They do not establish a completed directed-evolution campaign. The [evolution perspective](../project/evolution.md) explains what would be needed to make that claim.
+Our current work focuses on design and engineering. We have not yet established a completed directed-evolution campaign. The [evolution perspective](../project/evolution.md) explains what would be needed to make that claim.
 
 ## A quick reflection
 
@@ -64,6 +64,6 @@ Our current project files describe design and engineering work. They do not esta
 
 ## Take this conversation into a classroom
 
-Ask learners to write their definition of “better” before showing the options. Compare choices across the group, then invite them to explain what they would measure. This is a proposed reusable exercise, rather than an activity claimed in our past outreach record.
+Ask learners to write their definition of “better” before showing the options. Compare choices across the group, then invite them to explain what they would measure. This exercise is intended for future teaching sessions and has not yet been used in our outreach programme.
 
 [Our education programme](../human-practices/education.md) · [Project story](../project/story.md) · [Official directed-evolution learning resources](https://wiki.idec.io/)

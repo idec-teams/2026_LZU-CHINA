@@ -18,10 +18,11 @@ Any laboratory work must remain within the containment, training, and disposal c
 
 ## Human and animal research
 
-Our experimental results do not include human-participant or animal-study data. We used the established L-929 cell line for an in-vitro assay. A cell-line result does not establish clinical safety. Do not add human testing, patient samples, self-experimentation, or animal testing as competition work without the required review; iDEC’s current policy prohibits animal testing and self-experimentation.
+Our laboratory results do not include human-participant or animal-study data. We used the established L-929 cell line for an in-vitro assay. A cell-line result does not establish clinical safety. Community interviews and questionnaires are described separately in the Community records; their consent and ethics documentation must also be considered. iDEC prohibits animal testing and self-experimentation, and requires appropriate ethics clearance for research involving people or human samples, including surveys.
 
 ## Policy links
 
 - [iDEC ethics, biosafety, and biosecurity policy](https://idec.io/pages/ethics_biosafety_and_biosecurity.html)
-- [iDEC Responsible Research Form and competition requirements](https://idec.io/pages/requirements.html)
+- [iDEC Responsible Research Form](https://idec.io/pages/ethics_biosafety_and_biosecurity.html)
+- [iDEC submission and documentation requirements](https://idec.io/pages/requirements.html)
 - [iDEC AI policy](https://idec.io/pages/aipolicy.html)

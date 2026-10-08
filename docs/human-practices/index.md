@@ -23,13 +23,13 @@ We organised our Human Practices into three connected phases. Each brings a diff
 
 Preparation Phase. Defining the problem and building the foundations — literature review, expert and front-line interviews, and fieldwork that turned clinical and social needs into engineering objectives.
 
-<figure class="ihp-figure"><img src="../assets/ihp/image1.webp" alt="Cover of the educational equity survey handbook (self-made by the team)" loading="lazy" decoding="async"><figcaption>Cover of the educational equity survey handbook (self-made by the team)</figcaption></figure>
+<figure class="ihp-figure"><img src="../assets/ihp/image1.webp" alt="Cover of the educational equity survey handbook (prepared by the team)" loading="lazy" decoding="async"><figcaption>Cover of the educational equity survey handbook (prepared by the team)</figcaption></figure>
 
 Exploration Phase. Bringing feedback into design — using dialogue with clinicians, peers and experts to refine priorities, and investigating educational equity.
 
-Responsibility Phase. Amplifying societal impact and value dissemination — advancing directed evolution across five dimensions: Education, Collaboration, Entrepreneurship, Inclusivity and Sustainability.
+Responsibility Phase. Sharing what we learn and widening participation across five dimensions: Education, Collaboration, Entrepreneurship, Inclusivity and Sustainability.
 
-The five dimensions mirror the responsibilities every researcher holds toward the field: growing its people and public understanding, building its collaborative network, paving its path from laboratory to market, making its benefits equitable and accessible, and ensuring its development is responsible and sustainable.
+Together, these dimensions help us ask how research is understood, who can participate, how teams learn from one another and what responsible development would require.
 
 ### Community work at a glance
 
@@ -62,13 +62,13 @@ Healthcare. Dialogue with clinicians grounded the diagnostic and therapeutic con
 
 Industry. Conversations with Jinghong Health Products Ltd. (Mr. Liu Jinghong), Shanghai AWON Dental Technology and AWON (Shandong) Medical Technology taught us that a complete product requires formulation, presentation, intellectual-property protection and evidence-based communication — not technology alone.
 
-<figure class="ihp-figure"><img src="../assets/ihp/image4.webp" alt="Conducting an industry interview with Mr. Liu Jinghong to discuss product development, intellectual property rights and commercialization implementation." loading="lazy" decoding="async"><figcaption>Conducting an industry interview with Mr. Liu Jinghong to discuss product development, intellectual property rights and commercialization implementation.</figcaption></figure>
+<figure class="ihp-figure"><img src="../assets/ihp/image4.webp" alt="Conducting an industry interview with Mr. Liu Jinghong to discuss product development, intellectual property rights and commercialisation." loading="lazy" decoding="async"><figcaption>Conducting an industry interview with Mr. Liu Jinghong to discuss product development, intellectual property rights and commercialisation.</figcaption></figure>
 
 Communities. We engaged six Lanzhou subdistricts, hospitals and primary schools to bring biotechnology beyond the campus and hear public concerns about engineered bacteria, disease detection and emerging research.
 
 ### Building the collaboration network
 
-We built our network on a model of “on-campus resource integration + inter-university exchange and resource sharing + off-campus practical engagement.” We exchanged with six university teams — Hunan University (25 May, dual-input AND gate), Shenyang Pharmaceutical University (25 May, dual-signal selection), Southern Medical University (25 May, clinical translation and safety), Fudan University (26 May, integrated diagnosis–treatment), Shenzhen University (29 May, narrow-spectrum targeted therapy) and Huazhong Agricultural University (13 August, Hok/Sok biocontainment) — and presented at the 1st APIC Conference on Synthetic Biology Innovation and Application, where expert feedback on target specificity and in-vivo colonization informed our validation priorities. Our project was approved as a provincial-level innovation project under the 2026 Gansu Provincial College Students' Innovation Training Programme (No. 2026-12, score 76.93/100).
+Our network connected support within the university, exchanges between teams and engagement beyond campus. We exchanged ideas with six university teams — Hunan University (25 May, dual-input AND gate), Shenyang Pharmaceutical University (25 May, dual-signal selection), Southern Medical University (25 May, clinical translation and safety), Fudan University (26 May, integrated diagnosis–treatment), Shenzhen University (29 May, narrow-spectrum targeted therapy) and Huazhong Agricultural University (13 August, Hok/Sok biocontainment) — and presented at the 1st APIC Conference on Synthetic Biology Innovation and Application, where expert feedback on target specificity and in-vivo colonization informed our validation priorities. Our project was approved as a provincial-level innovation project under the 2026 Gansu Provincial College Students' Innovation Training Programme (No. 2026-12, score 76.93/100).
 
 <figure class="ihp-figure"><img src="../assets/ihp/image6.webp" alt="Inter-university online exchange seminar, recorded by the team." loading="lazy" decoding="async"><figcaption>Inter-university online exchange seminar, recorded by the team.</figcaption></figure>
 
@@ -96,9 +96,9 @@ External voices changed the questions we asked, the way we explained the project
 
 ### Investigating educational equity
 
-To ensure our education rested on evidence rather than assumption, we conducted an education-equity investigation with LZU-GANSU — 168 questionnaires (140 valid) and 11 interviews with teachers, students and parents, including Tibetan, Hui and Dongxiang communities. 87.14% of respondents perceived a gap in STEM access between urban and rural areas, and 83.57% called for low-cost, adaptable rural STEM courses and experiment kits. These findings validated and sharpened our commitment to hands-on, reusable and localized science education.
+To ensure our education rested on evidence rather than assumption, we conducted an education-equity investigation with LZU-GANSU — 168 questionnaires (140 valid) and 11 interviews with teachers, students and parents, including Tibetan, Hui and Dongxiang communities. 87.14% of respondents perceived a gap in STEM access between urban and rural areas, and 83.57% called for low-cost, adaptable rural STEM courses and experiment kits. These findings helped us prioritise hands-on activities and reusable materials suited to local audiences.
 
-<figure class="ihp-figure"><img src="../assets/ihp/image8.webp" alt="Survey on demands for educational equity" loading="lazy" decoding="async"><figcaption>Survey on demands for educational equity</figcaption></figure>
+<figure class="ihp-figure"><img src="../assets/ihp/image8.webp" alt="Survey of educational needs and access" loading="lazy" decoding="async"><figcaption>Survey of educational needs and access</figcaption></figure>
 
 ## Responsibility · Five dimensions of practice
 

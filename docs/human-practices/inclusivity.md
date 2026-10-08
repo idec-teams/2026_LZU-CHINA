@@ -5,7 +5,7 @@ eyebrow: Community / Inclusivity
 
 # Who gets to take part?
 
-<p class="lead">An explanation, a research question or a future product can exclude people long before anyone notices. Inclusivity begins by looking for those barriers early.</p>
+<p class="lead">Language, format, cost and access can all prevent people from taking part. Inclusivity begins by asking who faces these barriers and how we can address them.</p>
 
 Our work combines stakeholder dialogue, accessible communication and school outreach. Clinical perspectives were gathered through nursing staff, grassroots laboratory professionals and organisational representatives; the inclusivity programme did not directly interview critically ill patients.
 
@@ -28,17 +28,13 @@ Our programme included captioned online discussions, shared meeting notes, inter
 
 ## What the feedback tells us
 
-The programme reports **187 questionnaires distributed and 154 valid responses**. Participants valued accessible explanations and raised requests for more sustained learning and additional accessibility formats. The record notes that physical Braille materials were still pending and that geographic coverage remained limited.
+We distributed **187 questionnaires and received 154 valid responses**. Participants valued accessible explanations and raised requests for more sustained learning and additional accessibility formats. Physical Braille materials are still pending, and our geographical coverage remains limited.
 
 These responses are useful for improving the programme. They are not a controlled estimate of educational effectiveness.
 
-## Resources for the next conversation
-
-The three downloadable guides below cover healthcare stakeholder interview protocols, stakeholder-investigation templates and inclusivity guidance for biomedical teams. Each can be adapted to the audience and ethical context of a new project.
-
-For this website, our contribution includes keyboard-operable learning activities, readable text, text alternatives and information that remains available without an animation or image.
-
 ## Interview and inclusivity resources
+
+The three guides below provide interview protocols, stakeholder research templates and inclusivity guidance for biomedical teams. Adapt them to your audience and the ethical requirements of your project.
 
 <div class="hp-gallery">
 <a href="../../assets/community-source/inclusivity/documents/01-interview-protocols-for-healthcare-inclusivity-1.pdf"><img src="../../assets/community-source/inclusivity/resource-covers/01-interview-protocols-cover.png" alt="Cover of the healthcare inclusivity interview protocols" loading="lazy"></a>

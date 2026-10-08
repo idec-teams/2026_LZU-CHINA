@@ -76,7 +76,7 @@ This is our proposed decision framework for iDEC. It guides future evaluation an
 
 <p><strong>Key Moment 4 · Industry Engagement: From Scientific Innovation to a Market-Ready Product</strong></p>
 
-<p>As GutSentry evolved from a scientific concept toward a potential healthcare venture, we realized that clinical validation alone could not answer every question surrounding commercialization. We therefore expanded our exploration beyond hospitals and laboratories by engaging with representatives from <strong>Jinghong Health Products Ltd., Shanghai AWON Dental Technology Co., Ltd., and AWON (Shandong) Medical Technology Co., Ltd.</strong> Our goal was to explore a broader entrepreneurial question: <strong>How can a scientifically promising innovation become a credible and market-ready healthcare product?</strong></p>
+<p>As GutSentry evolved from a scientific concept toward a potential healthcare venture, we recognised that eventual commercialisation would require more than clinical validation. We therefore expanded our exploration beyond hospitals and laboratories by engaging with representatives from <strong>Jinghong Health Products Ltd., Shanghai AWON Dental Technology Co., Ltd., and AWON (Shandong) Medical Technology Co., Ltd.</strong> Our goal was to explore a broader entrepreneurial question: <strong>How can a scientifically promising innovation become a credible and market-ready healthcare product?</strong></p>
 
 <p>Our discussion with <strong>Mr. Liu Jinghong, Founder and General Manager of Jinghong Health Products Ltd.</strong>, helped us reconsider what constitutes a complete product. Mr. Liu emphasized that successful product development requires more than technology alone; formulation, product presentation, market communication, corporate identity, and collaboration across different teams must work together. He also highlighted the importance of rigorous product communication and intellectual property protection. These insights encouraged us to view GutSentry not simply as an experimental prototype, but as a future product requiring both scientific credibility and a coherent commercialization strategy. </p>
 
@@ -488,7 +488,7 @@ This is our proposed decision framework for iDEC. It guides future evaluation an
 
 <p>Customers do not buy "a tube of engineered bacteria" but a complete product package: oral enteric-coated capsules (lyophilized engineered bacteria) + a fecal colorimetric test card + user instructions + safety information. The capsule delivers the live bacteria; the test card completes the diagnostic readout; together they form the full theranostic loop.</p>
 
-<p>It should be noted that <b>the above is a conceptual product format.</b> The final commercial formulation (capsule, lyophilized powder, live suspension, etc.) and the dosing regimen will be determined after formulation, stability and dose-finding studies, and are not preset as an established commercial specification at this stage.</p>
+<p><b>This is a conceptual product format.</b> The final commercial formulation (capsule, lyophilized powder, live suspension, etc.) and the dosing regimen will be determined after formulation, stability and dose-finding studies, and are not preset as an established commercial specification at this stage.</p>
 
 #### 3.1.6 Value Proposition: Three Closed Loops { #_Toc22070 }
 
@@ -750,7 +750,7 @@ This is our proposed decision framework for iDEC. It guides future evaluation an
 <table> <tr> <td> <p><b>Segment</b></p> </td> <td> <p><b>Pain point</b></p> </td> <td> <p><b>Core need</b></p> </td> <td> <p><b>Willingness to pay</b></p> </td> <td> <p><b>Priority</b></p> </td> </tr> <tr> <td> <p>Primary care facilities (township health centers, community health service centers)</p> </td> <td> <p>No detection capacity, empirical prescribing, diagnosis–treatment separation</p> </td> <td> <p>Instrument-free, low-cost, 12-hour-result theranostics</p> </td> <td> <p>High (price-sensitive, reliant on centralised procurement)</p> </td> <td> <p>Primary customer (beachhead)</p> </td> </tr> <tr> <td> <p>Secondary and above hospitals (gastroenterology, pediatrics, infectious disease)</p> </td> <td> <p>Long detection cycles, diagnosis–treatment separation, antibiotic misuse</p> </td> <td> <p>Accurate quantification, clinical evidence, compatibility with in-house instruments</p> </td> <td> <p>Relatively high (willing to pay for quality)</p> </td> <td> <p>Primary customer (second stage)</p> </td> </tr> <tr> <td> <p>Home self-testing users (families of at-risk individuals)</p> </td> <td> <p>No at-home testing, inconvenient outpatient visits</p> </td> <td> <p>Safe, convenient, non-invasive</p> </td> <td> <p>Medium (rising with health awareness)</p> </td> <td> <p>Secondary customer</p> </td> </tr> <tr> <td> <p>CDC and public-health institutions</p> </td> <td> <p>Gaps in batch screening and outbreak surveillance</p> </td> <td> <p>Batch testing, digital data reporting</p> </td> <td> <p>Medium (government budget)</p> </td> <td> <p>Secondary customer (third stage)</p> </td> </tr> <tr> <td> <p>Health-conscious consumers (prevention and gut-health maintenance)</p> </td> <td> <p>Lack of early screening tools</p> </td> <td> <p>Prevention, health management</p> </td> <td> <p>Low</p> </td> <td> <p>Future customer</p> </td> </tr> </table>
 </div>
 
-<p>Early adopters are primary-care facility leaders and gastroenterology or infectious disease clinicians already exploring novel diagnostic or therapeutic options, together with health-conscious family users. They share clear pain points and strong willingness to adopt new approaches, making them key nodes for word-of-mouth diffusion in the launch market.</p>
+<p>Early adopters are primary-care facility leaders and gastroenterology or infectious disease clinicians already exploring novel diagnostic or therapeutic options, together with health-conscious family users. They share clear pain points and strong willingness to adopt new approaches, making them potential sources of referrals in an initial market.</p>
 
 ### 4.6 Competitive Landscape and Cost Economics { #_Toc9463 }
 
@@ -884,7 +884,7 @@ This is our proposed decision framework for iDEC. It guides future evaluation an
 
 #### 4.8.5 Marketing Metrics and Validation { #_Toc11859 }
 
-<p>The effectiveness of the marketing strategy is validated through a closed loop of metrics (Table 21), measured during the pilot phase.</p>
+<p>The proposed pilot would use the metrics in Table 21 to assess the marketing strategy.</p>
 
 <p><b>Table </b><b>21.</b><b> Marketing metrics and validation</b></p>
 
@@ -942,7 +942,7 @@ This is our proposed decision framework for iDEC. It guides future evaluation an
 
 #### 5.3.1 Pricing Logic { #_Toc18013 }
 
-<p>Pricing combines cost-based pricing with a competitive orientation. First, the full-chain cost is computed — raw materials, manufacturing, R&amp;D and marketing — to ensure a reasonable margin. Second, the price is benchmarked against comparable products on the market and set roughly 20% below competitors to make the value-for-money case explicit. Third, differentiated prices are set for each product version and each target market, so that demand at every tier is served.</p>
+<p>Pricing combines cost-based pricing with a competitive orientation. First, the total cost is estimated — raw materials, manufacturing, R&amp;D and marketing — to ensure a reasonable margin. Second, the price is benchmarked against comparable products on the market and set roughly 20% below competitors to make the value-for-money case explicit. Third, differentiated prices are set for each product version and each target market, so that demand at every tier is served.</p>
 
 #### 5.3.2 Prices by Product Version { #_Toc20876 }
 
@@ -1010,7 +1010,7 @@ This is our proposed decision framework for iDEC. It guides future evaluation an
 
 #### 5.6.1 Key Metrics { #_Toc11880 }
 
-<p>The effectiveness of the marketing strategy is validated through a closed loop of metrics (Table 24), measured during the pilot phase.</p>
+<p>The proposed pilot would use the metrics in Table 24 to assess the marketing strategy.</p>
 
 <p><b>Table </b><b>24.</b><b> Marketing metrics and validation</b></p>
 
@@ -1024,7 +1024,7 @@ This is our proposed decision framework for iDEC. It guides future evaluation an
 
 ## 6 Risk Assessment and Mitigation { #_Toc31456 }
 
-<p>Risk assessment and mitigation addresses not “what problems might arise”, but whether the team has identified where the venture is most likely to fail and has designed mechanisms to reduce the probability and impact of failure. This chapter follows the closed loop of identify → prioritise → mitigate → contingency → monitor, and takes the staged route of technical de-risking → clinical de-risking → regulatory de-risking → commercial de-risking as its core narrative: risks are not denied but are identifiable, verifiable and progressively reducible.</p>
+<p>Risk assessment asks where the venture is most likely to fail, how those risks could be reduced and what the team would do if they materialised. This chapter follows five steps: identify, prioritise, mitigate, plan contingencies and monitor. It considers technical, clinical, regulatory and commercial uncertainties at successive stages of development.</p>
 
 ### 6.1 Risk Identification { #_Toc704 }
 
@@ -1066,7 +1066,7 @@ This is our proposed decision framework for iDEC. It guides future evaluation an
 
 #### 6.1.5 Financial Risk { #_Toc20796 }
 
-<p>• Heavy R&amp;D and manufacturing investment. Pre-clinical research, clinical trials and construction of a GMP facility all demand large sums; if financing lags, the cash chain breaks.</p>
+<p>• Heavy R&amp;D and manufacturing investment. Pre-clinical research, clinical trials and construction of a GMP facility all demand large sums; delays in financing could cause a cash shortfall.</p>
 
 <p>• Cash-flow pressure. In the early period after launch, sales volume is low while marketing and fixed costs are high, so monthly cash flow is negative and continuity is at risk.</p>
 
@@ -1354,7 +1354,7 @@ This is our proposed decision framework for iDEC. It guides future evaluation an
 
 ### 7.7 Use of Funds and Milestones { #_Toc22473 }
 
-<p>The allocation of initial capital explains not only where the money goes but what milestones it creates, mapped to the staged de-risking roadmap in Section 6.6 (Table 38).</p>
+<p>The allocation of initial capital explains not only where the money goes but which milestones it would fund, mapped to the staged de-risking roadmap in Section 6.6 (Table 38).</p>
 
 <p><b>Table </b><b>38.</b><b> Use of initial capital and corresponding milestones</b></p>
 
@@ -1420,7 +1420,7 @@ This is our proposed decision framework for iDEC. It guides future evaluation an
 
 <p>• Long-term continuity. Resources should remain useful after the current iDEC season and should be designed so that future teams, teachers, and communities can continue improving them.</p>
 
-### 8.2 Who We Aim to Empower { #_Toc2413 }
+### 8.2 Who We Aim to Support { #_Toc2413 }
 
 <p>Different audiences encounter different barriers when approaching synthetic biology and living therapeutics. We therefore avoid a one-size-fits-all education model.</p>
 

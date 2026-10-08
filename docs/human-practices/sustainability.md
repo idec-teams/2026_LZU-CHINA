@@ -5,7 +5,7 @@ eyebrow: Community / Sustainability
 
 # Sustainability: keeping participation possible
 
-<p class="page-deck">Connect documented community work with sustainable-development questions, while keeping future technical benefits separate from demonstrated outcomes.</p>
+<p class="page-deck">We explore how education, access and long-term partnerships can support sustainable development, and what evidence is still needed to assess future technical benefits.</p>
 
 Our sustainability work begins with the people and partnerships around the project. This chapter develops our sustainability perspective for iDEC, focusing on documented education and engagement and on questions that should guide future development.
 
@@ -21,11 +21,9 @@ Conversations at the First Hospital of Lanzhou University encouraged us to consi
 
 Healthcare engagement and needs exploration.
 
-## Quality education that can be reused
+## Teaching resources that remain useful { #quality-education-that-can-be-reused }
 
 School outreach, campus discussions and hands-on community activities support our commitment to widening scientific participation. Under SDG 4, our practical focus is on giving learners a way to understand, question and explain scientific ideas. Reusable resources and feedback-informed revisions help an activity remain useful beyond a single event.
-
-For iDEC, we propose extending these formats to variation, selection and the meaning of an improvement objective. The [Education chapter](education.md) contains the original activities and the proposed extension separately.
 
 <div class="hp-gallery">
 <img src="../../assets/community-source/sustainability/images/image4.avif" alt="Education and outreach activities." loading="lazy" decoding="async">
@@ -62,7 +60,7 @@ SDG 12 prompts us to ask what resources an activity or future technology consume
 
 For future research and translation, material use, containment, waste treatment and disposal require explicit assessment. We do not treat the existence of a proposed biological safeguard as proof of environmental safety or a completed life-cycle evaluation.
 
-## Partnerships that continue learning
+## Learning through partnerships { #partnerships-that-continue-learning }
 
 Peer-team exchanges, APIC discussions, healthcare dialogue and engagement with organisations such as the Gansu Red Cross Society and Jinghong Health Products Ltd. brought different expertise into our planning. These connections support the collaborative intent of SDG 17.
 
@@ -79,10 +77,6 @@ Our next step is to make useful resources easier to reuse, keep the questions ra
 </div>
 
 Partnership and exchange records.
-
-## How we will judge progress
-
-We will distinguish participation from learning, resource availability from resource use, and an intended benefit from a measured outcome. In future activities, we propose recording which materials were reused, which barriers participants reported and which changes followed their feedback. This offers a concrete way to improve our contribution without assuming that a competition project has already achieved an SDG.
 
 ## Detailed assessment
 

@@ -7,17 +7,15 @@ eyebrow: Community archive · Full record
 
 University teams, clinicians, public-health workers and local communities helped us ask better questions about communication, practical needs and responsible development. This chapter preserves the exchanges and photographs behind that process.
 
-For iDEC, we connect this community experience with a central question: how should a useful improvement be defined, measured and explained? The activities below document our outreach and exchanges; the closing section develops their relevance to directed-evolution education and responsible research.
-
 ## 1. Overview
 
-Throughout our project this year, we collaborated with student research teams from different universities, academic and research groups within our university, student organizations, medical institutions, and local communities. These collaborations not only brought valuable knowledge, technical expertise, and social resources to our project, but also fostered meaningful interdisciplinary exchange. Through continuous communication, practice, and feedback, we have refined our project design and explored how synthetic biology can better respond to real-world medical needs.
+We worked with university research teams, student organisations, medical institutions and local communities. Each brought a different perspective: peers questioned our scientific assumptions, healthcare staff discussed practical needs, and community audiences asked us to explain the project clearly. These exchanges helped us refine our questions and priorities.
 
-Throughout our project journey, we actively mobilized resources both within and beyond the campus and gradually established a collaborative model of “on-campus resource integration + inter-university exchange and resource sharing + off-campus practical engagement.” With synthetic biology as our technological foundation and the early detection and intervention of gastrointestinal infectious diseases as our application focus, we explored an engineered system based on the probiotic chassis Escherichia coli Nissle 1917 (EcN-1917), integrating pathogen sensing, signal integration, visual reporting, and antibacterial intervention. By connecting clinical medicine, basic medicine, life sciences, and synthetic biology, we translated clinical needs into engineering objectives and continuously incorporated feedback from our collaborators to advance the project from conceptual design toward practical exploration.
+Our collaborations linked support within Lanzhou University with exchanges between universities and engagement beyond campus. They brought together clinical medicine, basic medicine, life sciences and synthetic biology around our proposed EcN-1917 system for gastrointestinal infection detection and intervention.
 
-We further extended our project into local communities. In collaboration with Jiayuguan Road Subdistrict, Donggang West Road Subdistrict, Baiyin Road Subdistrict, and other communities, we organized science outreach activities and laboratory open days to bring synthetic biology beyond the campus. Through interactive experiments, accessible explanations, and demonstrations of basic experimental techniques, we introduced engineered bacteria, synthetic biology, and biomedical research to primary and secondary school students and community residents. Face-to-face communication also allowed us to understand public concerns regarding the safety of engineered bacteria, disease detection, and emerging biotechnology. These interactions reminded us that a synthetic biology technology with real-world potential must not only be technically feasible in the laboratory, but also be understandable, acceptable, and responsive to genuine social needs.
+With Jiayuguan Road, Donggang West Road and Baiyin Road Subdistricts and other community partners, we organised science outreach and laboratory open days. School students and residents explored synthetic biology through accessible explanations and practical demonstrations. Their questions about safety and disease detection helped us see which parts of our project needed clearer explanation.
 
-For the LZU-CHINA team, collaboration is not an additional activity outside our project. Instead, it is an integral part of our project development. Knowledge, questions, and feedback from different colleges, teams, and members of the public were continuously brought back to our project, encouraging us to reconsider and optimize the design, application scenarios, and social value of our engineered bacterial system. Through this continuous cycle of collaboration and reflection, we hope that EcN-1917 will become more than an engineered bacterial system in the laboratory—it will serve as our exploration of how synthetic biology can connect technological innovation with the real needs of infectious disease prevention and treatment.
+We brought these questions back to team discussions, using them to reconsider the intended application and the assumptions behind our design. The exchanges below describe what we discussed and what we learned.
 
 ![1. Overview — Image 1](../assets/community-source/collaboration/images/image1.avif){ loading=lazy .hp-photo }
 
@@ -35,7 +33,7 @@ For the LZU-CHINA team, collaboration is not an additional activity outside our 
 
 ![1. Overview — Image 8](../assets/community-source/collaboration/images/image8.avif){ loading=lazy .hp-photo }
 
-Figures.1   Project-themed posters, schematic diagrams of perioperative gut microbiota imbalance, Lanzhou University promotional materials, and synthetic biology popular science illustrations.
+Figure 1. Project-themed posters, schematic diagrams of perioperative gut microbiota imbalance, Lanzhou University promotional materials, and synthetic biology popular science illustrations.
 
 ## 2. Inter-University Collaboration: Exchange and Resource Sharing
 
@@ -53,7 +51,7 @@ The two teams discussed how to achieve multi-signal integration, reduce backgrou
 
 ![2.1 Collaboration with Hunan University Research Team — Image 11](../assets/community-source/collaboration/images/image11.avif){ loading=lazy .hp-photo }
 
-Figures.2.1   Communication meeting with Hunan University Research Team
+Figure 2.1. Exchange with Hunan University Research Team
 
 ### 2.2 Exchange with Shenyang Pharmaceutical University Research Team
 
@@ -69,7 +67,7 @@ The two teams discussed biological signal recognition, engineered bacterial resp
 
 ![2.2 Exchange with Shenyang Pharmaceutical University Research Team — Image 14](../assets/community-source/collaboration/images/image14.avif){ loading=lazy .hp-photo }
 
-Figures.2.2  Communication meeting with Shenyang Pharmaceutical University Research Team
+Figure 2.2. Exchange with Shenyang Pharmaceutical University Research Team
 
 ### 2.3 Collaboration with Southern Medical University Research Team
 
@@ -89,7 +87,7 @@ This exchange made us pay greater attention to the gap between “feasibility in
 
 ![2.3 Collaboration with Southern Medical University Research Team — Image 19](../assets/community-source/collaboration/images/image19.avif){ loading=lazy .hp-photo }
 
-Figures.2.3   Communication meeting with Southern Medical University Research Team
+Figure 2.3. Exchange with Southern Medical University Research Team
 
 ### 2.4 Collaboration with Fudan University Research Team
 
@@ -105,7 +103,7 @@ The two teams discussed diagnostic signal output, therapeutic effects, and the c
 
 ![2.4 Collaboration with Fudan University Research Team — Image 22](../assets/community-source/collaboration/images/image22.avif){ loading=lazy .hp-photo }
 
-Figures.2.4   Communication meeting with Fudan University Research Team
+Figure 2.4. Exchange with Fudan University Research Team
 
 ### 2.5 Collaboration with Shenzhen University Research Team
 
@@ -125,7 +123,7 @@ The two teams discussed targeted antibacterial strategies, therapeutic selectivi
 
 ![2.5 Collaboration with Shenzhen University Research Team — Image 27](../assets/community-source/collaboration/images/image27.avif){ loading=lazy .hp-photo }
 
-Figures.2.5 Communication meeting with Shenzhen University Research Team
+Figure 2.5. Exchange with Shenzhen University Research Team
 
 ### 2.6 Collaboration with Huazhong Agricultural University Research Team
 
@@ -145,7 +143,7 @@ Therefore, we further organized the relationship among the four major layers of 
 
 ![2.6 Collaboration with Huazhong Agricultural University Research Team — Image 31](../assets/community-source/collaboration/images/image31.avif){ loading=lazy .hp-photo }
 
-Figures.2.6 Communication meeting with Huazhong Agricultural University Research Team
+Figure 2.6. Exchange with Huazhong Agricultural University Research Team
 
 ### 2.7 The 1st APIC Conference on Synthetic Biology Innovation and Application
 
@@ -163,7 +161,7 @@ Impact on our project: This conference provided a platform to connect with acade
 
 ![2.7 The 1st APIC Conference on Synthetic Biology Innovation and Application — Image 33](../assets/community-source/collaboration/images/image33.avif){ loading=lazy .hp-photo }
 
-Figures.2.7 Our members in the 1st APIC Conference on Synthetic Biology Innovation and Application
+Figure 2.7. Our team at the 1st APIC Conference on Synthetic Biology Innovation and Application
 
 ## 3. Resource Connections and Collaboration with External Organizations
 
@@ -193,7 +191,7 @@ Unlike one-way science communication, we placed greater emphasis on interaction.
 
 ![3.1 Entering the Campus: Bringing Synthetic Biology Closer to University Students — Image 40](../assets/community-source/collaboration/images/image40.avif){ loading=lazy .hp-photo }
 
-Figures.3.1   Our on-campus Synthetic Biological activities
+Figure 3.1. Our on-campus synthetic biology activities
 
 ### 3.2 Entering the Community: Letting Children Experience Life Science
 
@@ -213,7 +211,7 @@ For children, completing an experiment with their own hands can be more intuitiv
 
 ![3.2 Entering the Community: Letting Children Experience Life Science — Image 44](../assets/community-source/collaboration/images/image44.avif){ loading=lazy .hp-photo }
 
-Figures.3.2   Children-focused Hands-on Science Programs
+Figure 3.2. Hands-on science activities for children
 
 ### 3.3 Entering the Hospital: Reconsidering Project Design through Clinical Needs
 
@@ -233,7 +231,7 @@ Thus, our clinical communication was not simply a presentation of project outcom
 
 ![3.3 Entering the Hospital: Reconsidering Project Design through Clinical Needs — Image 48](../assets/community-source/collaboration/images/image48.avif){ loading=lazy .hp-photo }
 
-Figures.3.3  Our members participated in clinical investigations
+Figure 3.3. Our members participated in clinical investigations
 
 ### 3.4 Entering Disease Control: Understanding Applications from a Public Health Perspective
 
@@ -250,7 +248,7 @@ At the same time, communication with public health professionals strengthened ou
 ![3.4 Entering Disease Control: Understanding Applications from a Public Health Perspective — Image 50](../assets/community-source/collaboration/images/image49.avif){ loading=lazy .hp-photo }
 
 
-Figures.3.4   Our science popular brochures
+Figure 3.4. Our science outreach leaflets
 
 ### 3.5 Bringing Social Feedback Back to the Laboratory
 
@@ -260,9 +258,9 @@ Questions from university students encouraged us to pay greater attention to pub
 
 The voices of these different groups have become important windows through which we understand our project. We hope that through continuous engagement, scientific research can move beyond experimental data in the laboratory, interact with society, identify real needs, and continuously reconsider the boundaries of technological application.
 
-For LZU-CHINA, true collaboration is not simply about communicating science to society. It is about creating a two-way dialogue between science and society. We step outside the laboratory to listen, and then bring these voices back into the laboratory, continuously improving our project through a cycle of “communication–understanding–reflection–optimization.”
+These activities made communication a two-way process: we explained our work, listened to questions and used the feedback to revisit our assumptions.
 
-From campuses to communities, from hospitals to disease control institutions, we hope to build more than a series of temporary activities. We hope to establish a bridge between science and society. Through these practices, we aim not only to help more people understand synthetic biology, but also to ensure that our engineered bacterial project remains grounded in genuine social needs.
+We want these relationships to continue beyond individual events, so that future research discussions remain connected to the needs of healthcare staff and local communities.
 
 ![3.5 Bringing Social Feedback Back to the Laboratory — Image 51](../assets/community-source/collaboration/images/image50.avif){ loading=lazy .hp-photo }
 
@@ -274,15 +272,15 @@ From campuses to communities, from hospitals to disease control institutions, we
 
 ![3.5 Bringing Social Feedback Back to the Laboratory — Image 55](../assets/community-source/collaboration/images/image54.avif){ loading=lazy .hp-photo }
 
-Figures.3.5   Our members brought feedbacks from the activitites.
+Figure 3.5. Feedback from community activities informed our project discussions.
 
 ### 3.6 Institutional Support from Lanzhou University
 
 Our project was selected as a provincial-level innovation project under the 2026 Gansu Provincial College Students' Innovation Training Program (No. 2026-12, score 76.93/100), following a competitive university-wide review of 119 candidate projects.  This selection was administered through Lanzhou University's official innovation and entrepreneurship cultivation system.
 
-As a provincial-level project, our project receives:
+This support includes:
 
-Standardized project management​ covering application, mid-term review, and final acceptance through the university's innovation program portal;
+Standardized project management covering application, mid-term review, and final acceptance through the university's innovation program portal;
 
 Stable funding support for experimental consumables, strain construction, and prototype validation;
 
@@ -294,18 +292,12 @@ This institutional backing provides a formal framework for our team to conduct w
 
 ![3.6 Institutional Support from Lanzhou University — Image 57](../assets/community-source/collaboration/images/image56.avif){ loading=lazy .hp-photo }
 
-Figures.3.6   Our project was successfully approved as a provincial-level project
+Figure 3.6. Our project was successfully approved as a provincial-level project
 
 ## 4. Conclusion
 
-Through these collaborations, the LZU-CHINA team has not only advanced the scientific goals of our project, but also explored how synthetic biology can create meaningful connections with local communities and broader global challenges. Collaboration has allowed us to learn from different disciplines, understand diverse perspectives, and continuously refine our project while keeping social responsibility and real-world needs in mind.
+Collaboration helped us identify questions that our team could not answer alone. University peers contributed scientific perspectives, healthcare partners raised practical constraints, and community participants showed us where our explanations were unclear.
 
-We believe that meaningful progress in synthetic biology depends on collective effort. By bringing together different teams, disciplines, institutions, and communities, we can transform individual ideas into shared possibilities and contribute our perspectives as young scientists to the future of healthcare.
+These contributions shaped how we discuss the project and its possible applications. They also reinforced the need to distinguish promising ideas from outcomes that have been demonstrated.
 
-Looking ahead, we will continue to deepen our collaborations with research teams and organizations around the world, contribute our experiences to the iDEC community, and remain open to new perspectives and possibilities. Through continued communication and collective action, we hope to further explore how synthetic biology can connect scientific innovation with human health and contribute to a healthier future.
-
-## What we carry into the iDEC community
-
-Our strongest collaborations made assumptions visible. Peer teams questioned specificity and background response; healthcare workers asked about usability; community audiences asked how an engineered organism would be controlled. These are useful questions when defining an improvement objective for directed evolution as well.
-
-For future iDEC exchanges, we propose sharing the objective, comparison baseline, operating conditions and limitations together. A collaborator can then challenge whether an apparent improvement matters in the intended setting. This approach grows out of the exchange record above; the listed meetings retain their documented dates, partners and discussion topics.
+We plan to continue these exchanges and share what we learn with the iDEC community. Our priority is to make discussions useful to both sides by sharing questions, limitations and feedback alongside project ideas.
