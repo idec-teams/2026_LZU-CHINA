@@ -33,7 +33,7 @@ The five dimensions mirror the responsibilities every researcher holds toward th
 
 ### Community work at a glance
 
-The document brings together the following activity counts and resources. These figures describe different programmes and may include overlapping participants; they are not a combined count of unique people or proof that another iDEC team adopted a resource.
+Our community work includes the following activities and resources. These figures describe different programmes and may include overlapping participants; they are not a combined count of unique people or proof that another iDEC team adopted a resource.
 
 | Area | Activities and resources reported | Purpose for the community |
 | --- | --- | --- |
@@ -104,7 +104,7 @@ To ensure our education rested on evidence rather than assumption, we conducted 
 
 ### Education
 
-Our tiered education programme reached children, secondary-school students, university students, older adults, community residents and county-level youth. Activities included 48 pupils aged 8–11 in the “Micro-World on a Petri Dish” art challenge, about 64 older residents in Jiayuguan Road and Baiyin Road subdistricts, community participants in Weiyuan Road subdistrict, and two university campus audiences. A cross-regional secondary-school network connected Northwest, Central, South and Southwest China; seven rural and county-level schools received lectures reaching 423 students. The report describes a 15-language trifold series and an education toolkit intended for reuse. Participant feedback encouraged clearer comparisons between directed evolution and genetic engineering, and separate explanations of signal recognition and biological response. These formats provide starting points for other iDEC educators to adapt. [Explore Education →](education.md)
+Our tiered education programme reached children, secondary-school students, university students, older adults, community residents and county-level youth. Activities included 48 pupils aged 8–11 in the “Micro-World on a Petri Dish” art challenge, about 64 older residents in Jiayuguan Road and Baiyin Road subdistricts, community participants in Weiyuan Road subdistrict, and two university campus audiences. A cross-regional secondary-school network connected Northwest, Central, South and Southwest China; seven rural and county-level schools received lectures reaching 423 students. We developed a 15-language trifold series and an education toolkit intended for reuse. Participant feedback encouraged clearer comparisons between directed evolution and genetic engineering, and separate explanations of signal recognition and biological response. These formats provide starting points for other iDEC educators to adapt. [Explore Education →](education.md)
 
 <figure class="ihp-figure"><img src="../assets/ihp/image9.webp" alt="Communication and interaction with elderly residents in the community" loading="lazy" decoding="async"><figcaption>Communication and interaction with elderly residents in the community</figcaption></figure>
 
@@ -120,7 +120,7 @@ We explored translation through business plans, industry reports, innovation for
 
 ### Inclusivity
 
-Literature and proxy interviews with ICU geriatric nurses, grassroots laboratory physicians and the Gansu Red Cross Society identified barriers in sample handling, equipment availability, colour-only interpretation and cost. They informed prospective directions: high-contrast outputs, simpler workflows, complementary non-visual interfaces and affordable formats. The programme records four community booths (286 participants), six exchange meetings (128 participants and 78 suggestions), five themed workshops (164 participants), and seven county-level school lectures (423 students). The report states that more than 85% of county-level students were encountering directed evolution for the first time. It also describes audio scripts for visually impaired audiences. Of 187 questionnaires distributed, 154 were valid (82.4%). Interview protocols, investigation templates and an inclusivity guide are available for others to adapt. [Explore Inclusivity and its resources →](inclusivity.md)
+Literature and proxy interviews with ICU geriatric nurses, grassroots laboratory physicians and the Gansu Red Cross Society identified barriers in sample handling, equipment availability, colour-only interpretation and cost. They informed prospective directions: high-contrast outputs, simpler workflows, complementary non-visual interfaces and affordable formats. The programme records four community booths (286 participants), six exchange meetings (128 participants and 78 suggestions), five themed workshops (164 participants), and seven county-level school lectures (423 students). Our outreach record indicates that more than 85% of county-level students were encountering directed evolution for the first time. It also describes audio scripts for visually impaired audiences. Of 187 questionnaires distributed, 154 were valid (82.4%). Interview protocols, investigation templates and an inclusivity guide are available for others to adapt. [Explore Inclusivity and its resources →](inclusivity.md)
 
 ### Sustainability
 
@@ -128,7 +128,7 @@ Our sustainability discussion focuses on SDGs 3, 4, 10, 12 and 17, with secondar
 
 ## Responsible research
 
-The Human Practices report describes informed consent and anonymisation for questionnaires, interviews and public engagement. Patient-centred needs were gathered indirectly through professional and organisational representatives; the programme did not directly interview patients. Biosafety also shaped peer discussions and the proposed Hok/Sok containment architecture. The intended containment behaviour still requires experimental assessment under relevant conditions. Our [responsible research page](../responsible-research.md) connects the project with its review and safety responsibilities.
+Our Human Practices approach includes informed consent and anonymisation for questionnaires, interviews and public engagement. Patient-centred needs were gathered indirectly through professional and organisational representatives; the programme did not directly interview patients. Biosafety also shaped peer discussions and the proposed Hok/Sok containment architecture. The intended containment behaviour still requires experimental assessment under relevant conditions. Our [responsible research page](../responsible-research.md) connects the project with its review and safety responsibilities.
 
 ## Building the iDEC community together {#community-summary}
 

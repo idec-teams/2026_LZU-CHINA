@@ -13,7 +13,6 @@ hide:
 <button type="button" data-atlas-filter="research" aria-pressed="false">Research</button>
 <button type="button" data-atlas-filter="community" aria-pressed="false">Community</button>
 <button type="button" data-atlas-filter="records" aria-pressed="false">Records</button>
-<button type="button" data-atlas-filter="people" aria-pressed="false">People</button>
 </div><p class="atlas-count" data-atlas-count aria-live="polite"></p><button type="button" data-atlas-reset class="atlas-text-link">Reset search & filters</button></div>
 <p class="atlas-empty" data-atlas-empty hidden>No paths match yet. Try a broader word or reset the filters.</p>
 <div class="atlas-directory">
@@ -42,7 +41,6 @@ hide:
 <a class="atlas-entry" href="../human-practices/inclusivity-record/" data-atlas-entry data-category="records"><span>Records / ↗</span><strong>Read the inclusivity archive</strong><p>Detailed inclusion work and supporting material.</p></a>
 <a class="atlas-entry" href="../human-practices/entrepreneurship-record/" data-atlas-entry data-category="records"><span>Records / ↗</span><strong>Inspect the planning detail</strong><p>Full planning tables, assumptions and supporting images.</p></a>
 <a class="atlas-entry" href="../human-practices/sustainability-record/" data-atlas-entry data-category="records"><span>Records / ↗</span><strong>Read the sustainability assessment</strong><p>Detailed SDG discussion and activity context.</p></a>
-<a class="atlas-entry" href="../team/" data-atlas-entry data-category="people"><span>People / ↗</span><strong>Who is behind the project?</strong><p>Meet the team through its member profiles.</p></a>
-<a class="atlas-entry" href="../attributions/" data-atlas-entry data-category="people"><span>People / ↗</span><strong>Who contributed what?</strong><p>Credits, roles, sources and acknowledgements.</p></a>
+<a class="atlas-entry" href="../attributions/" data-atlas-entry data-category="records"><span>Records / ↗</span><strong>Who contributed what?</strong><p>Credits, roles, sources and acknowledgements.</p></a>
 <a class="atlas-entry" href="../documentation/diary/" data-atlas-entry data-category="records"><span>Records / ↗</span><strong>How did our engineering work progress?</strong><p>A retrospective journal with source links, interpretation limits and missing dates explicitly marked.</p></a>
 </div>

@@ -14,7 +14,7 @@ Our experimental work focuses on in-vitro assays with EcN, *Salmonella enterica*
 
 The project includes genetically modified bacteria and a proposed Hok/Sok containment switch. Institutional biosafety approvals, a containment validation record and the completed iDEC Responsible Research Form are not yet available in our public documentation. We therefore do not claim that the work was approved or that the switch guarantees environmental safety.
 
-Any laboratory work must remain within the containment, training, and disposal conditions approved by the responsible institution. The iDEC ethics and biosafety requirements state that GMOs and their products must not leave the laboratory. We still need to attach the applicable approvals and submit the required competition form before final submission.
+Any laboratory work must remain within the containment, training, and disposal conditions approved by the responsible institution. The iDEC ethics and biosafety requirements state that GMOs and their products must not leave the laboratory. The public record of institutional approvals and competition-form submission remains incomplete.
 
 ## Human and animal research
 

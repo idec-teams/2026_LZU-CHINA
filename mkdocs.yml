@@ -74,13 +74,11 @@ nav:
       - Retrospective journal: documentation/diary.md
       - Responsible research: responsible-research.md
       - Data and references: resources.md
+      - Attributions: attributions.md
       - Complete activity records:
           - Education record: human-practices/education-record.md
           - Collaboration record: human-practices/collaboration-record.md
           - Inclusivity record: human-practices/inclusivity-record.md
           - Detailed planning: human-practices/entrepreneurship-record.md
           - SDG assessment: human-practices/sustainability-record.md
-  - People:
-      - Members: team.md
-      - Attributions: attributions.md
   - All paths: atlas/index.md

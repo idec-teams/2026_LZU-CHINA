@@ -24,7 +24,7 @@ These are prospective priorities, not validated features of a clinical product.
 
 ## Participation inside and outside the team
 
-The source record describes captioned online discussions, shared meeting notes, internal inclusivity training, community booths, workshops and county-level school lectures. [Read the complete practice record →](inclusivity-record.md)
+Our programme included captioned online discussions, shared meeting notes, internal inclusivity training, community booths, workshops and county-level school lectures. [Read the complete practice record →](inclusivity-record.md)
 
 ## What the feedback tells us
 
