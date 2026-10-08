@@ -1,6 +1,6 @@
 # iDEC 内容整合核对（2026-10-08）
 
-源目录：`D:\项目\赚钱\IGEM2026\lzu-china`。源项目只读；目的地为当前 iDEC 仓库。
+源目录：原始 LZU-CHINA 网站工作副本（路径保存在本地迁移记录中）。源项目只读；目的地为当前 iDEC 仓库。
 
 | 原页面 | 有效内容与迁移位置 |
 | --- | --- |
@@ -11,7 +11,7 @@
 | Inclusivity | 全文、22 处图片引用、3 个 PDF → `docs/human-practices/inclusivity-record.md`（另保留简明导览页） |
 | Entrepreneurship | 完整实质报告、30 张图片、45 张表格、2 个 PDF → `docs/human-practices/entrepreneurship-record.md`（另保留简明导览页）；另有 `stakeholders.md` 的 iDEC 解读 |
 | Sustainability | 全文、23 张图片及参考文献 → `docs/human-practices/sustainability-record.md`；另有 `sustainability.md` 的 iDEC 解读 |
-| Integrated Human Practices | 源文件只有模板；已有的活动被组织为 `docs/human-practices/index.md` |
+| Community source chapter | 源文件只有模板；已有的活动被组织为 `docs/human-practices/index.md` |
 | Home / Description / Contribution | 源文件是官方填写提示和示例链接，没有队伍实际正文，不搬入为成果 |
 | Design / Implementation / Safety / Engineering / Notebook / Protocol / Results / Parts / Proof of Concept | 源文件均为模板或填写指导，不作为已有研究内容迁移；目的站先前文档整理页面保留 |
 

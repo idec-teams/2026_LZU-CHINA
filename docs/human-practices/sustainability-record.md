@@ -4,6 +4,10 @@ eyebrow: Community archive / SDGs
 
 # Sustainability: detailed SDG assessment
 
+!!! note "Historical activity record"
+    This archive preserves earlier LZU-CHINA activities and original photographs. Event branding in the source material does not establish that an activity was organised by iDEC or that a partner was an iDEC team.
+
+
 <p class="page-deck">The detailed SDG assessment and original activity illustrations remain available for closer inspection.</p>
 
 This assessment connects our iDEC project with sustainable-development questions through its full SDG discussion, activity photographs and bibliography. It complements our [sustainability overview](sustainability.md).
@@ -13,7 +17,7 @@ This assessment connects our iDEC project with sustainable-development questions
 
 ## 1. Introduction
 
-As the LZU-CHINA team exploring an engineered Escherichia coli Nissle 1917 (EcN-1917) platform for real-time intestinal infection monitoring and targeted antimicrobial intervention, we examined our project's alignment with the UN Sustainable Development Goals (SDGs) [1]. Rather than claiming comprehensive coverage across all 17 goals, we focus on **five SDGs with direct, logically traceable links to our technical design**, Human Practices activities, and Collaboration outcomes. For each, we specify the relevant target, acknowledge the proof-of-concept stage of our work, and draw on literature where applicable.
+As the LZU-CHINA team exploring an engineered Escherichia coli Nissle 1917 (EcN-1917) platform for real-time intestinal infection monitoring and targeted antimicrobial intervention, we examined our project's alignment with the UN Sustainable Development Goals (SDGs) [1]. Rather than claiming comprehensive coverage across all 17 goals, we focus on **five SDGs with direct, logically traceable links to our technical design**, community engagement activities, and Collaboration outcomes. For each, we specify the relevant target, acknowledge the proof-of-concept stage of our work, and draw on literature where applicable.
 
 ## 2. Direct Contributions
 
@@ -25,11 +29,11 @@ We acknowledge that our system remains at the **proof-of-concept stage**; no ani
 
 *Cross-reference: This clinical rationale was refined following expert feedback at the 1st APIC Conference (see Collaboration 2.7), where clinicians raised questions on target specificity and in-vivo colonization that informed our revised module priorities.*
 
-![Image 1](https://static.igem.wiki/teams/6079/wiki/sustainability/images/image1.avif){ loading=lazy .hp-photo }
+![Image 1](../assets/community-source/sustainability/images/image1.avif){ loading=lazy .hp-photo }
 
-![Image 2](https://static.igem.wiki/teams/6079/wiki/sustainability/images/image2.avif){ loading=lazy .hp-photo }
+![Image 2](../assets/community-source/sustainability/images/image2.avif){ loading=lazy .hp-photo }
 
-![Image 3](https://static.igem.wiki/teams/6079/wiki/sustainability/images/image3.avif){ loading=lazy .hp-photo }
+![Image 3](../assets/community-source/sustainability/images/image3.avif){ loading=lazy .hp-photo }
 
 Our team members conducted surveys in The First Hospital of Lanzhou University
 
@@ -39,15 +43,15 @@ Our team conducted synthetic biology and intestinal microbiome popularization ac
 
 *Cross-reference: Education materials and activity records are documented in our Education sub-section; collaboration with the University and Gansu Red Cross Society extended our reach to grassroots community audiences.*
 
-![Image 4](https://static.igem.wiki/teams/6079/wiki/sustainability/images/image4.avif){ loading=lazy .hp-photo }
+![Image 4](../assets/community-source/sustainability/images/image4.avif){ loading=lazy .hp-photo }
 
-![Image 5](https://static.igem.wiki/teams/6079/wiki/sustainability/images/image5.avif){ loading=lazy .hp-photo }
+![Image 5](../assets/community-source/sustainability/images/image5.avif){ loading=lazy .hp-photo }
 
-![Image 6](https://static.igem.wiki/teams/6079/wiki/sustainability/images/image6.avif){ loading=lazy .hp-photo }
+![Image 6](../assets/community-source/sustainability/images/image6.avif){ loading=lazy .hp-photo }
 
-![Image 7](https://static.igem.wiki/teams/6079/wiki/sustainability/images/image7.avif){ loading=lazy .hp-photo }
+![Image 7](../assets/community-source/sustainability/images/image7.avif){ loading=lazy .hp-photo }
 
-![Image 8](https://static.igem.wiki/teams/6079/wiki/sustainability/images/image8.avif){ loading=lazy .hp-photo }
+![Image 8](../assets/community-source/sustainability/images/image8.avif){ loading=lazy .hp-photo }
 
 Our team members in the educational activities
 
@@ -57,21 +61,21 @@ Conventional intestinal pathogen detection relies on culture-based methods or mi
 
 Furthermore, the targeted popular science and educational public welfare activities carried out in underdeveloped areas of Gansu can balance the distribution of high-quality scientific education resources, make up for the shortage of local educational resources, and reduce the educational development gap between urban and rural areas. While promoting equity in public health and educational resources, our project advocates the concept of inclusive technological innovation, enabling scientific and technological achievements to benefit more social groups, which may effectively alleviate multiple forms of social inequality and practice the core connotation of SDG 10.
 
-![Image 9](https://static.igem.wiki/teams/6079/wiki/sustainability/images/image9.avif){ loading=lazy .hp-photo }
+![Image 9](../assets/community-source/sustainability/images/image9.avif){ loading=lazy .hp-photo }
 
-![Image 10](https://static.igem.wiki/teams/6079/wiki/sustainability/images/image10.avif){ loading=lazy .hp-photo }
+![Image 10](../assets/community-source/sustainability/images/image10.avif){ loading=lazy .hp-photo }
 
-![Image 11](https://static.igem.wiki/teams/6079/wiki/sustainability/images/image11.avif){ loading=lazy .hp-photo }
+![Image 11](../assets/community-source/sustainability/images/image11.avif){ loading=lazy .hp-photo }
 
-![Image 12](https://static.igem.wiki/teams/6079/wiki/sustainability/images/image12.avif){ loading=lazy .hp-photo }
+![Image 12](../assets/community-source/sustainability/images/image12.avif){ loading=lazy .hp-photo }
 
-![Image 13](https://static.igem.wiki/teams/6079/wiki/sustainability/images/image13.avif){ loading=lazy .hp-photo }
+![Image 13](../assets/community-source/sustainability/images/image13.avif){ loading=lazy .hp-photo }
 
-![Image 14](https://static.igem.wiki/teams/6079/wiki/sustainability/images/image14.avif){ loading=lazy .hp-photo }
+![Image 14](../assets/community-source/sustainability/images/image14.avif){ loading=lazy .hp-photo }
 
-![Image 15](https://static.igem.wiki/teams/6079/wiki/sustainability/images/image15.avif){ loading=lazy .hp-photo }
+![Image 15](../assets/community-source/sustainability/images/image15.avif){ loading=lazy .hp-photo }
 
-![Image 16](https://static.igem.wiki/teams/6079/wiki/sustainability/images/image16.avif){ loading=lazy .hp-photo }
+![Image 16](../assets/community-source/sustainability/images/image16.avif){ loading=lazy .hp-photo }
 
 Our team members working for reducing inequalities
 
@@ -85,7 +89,7 @@ The fermentation-based production process uses renewable carbon sources (e.g., g
 
 Our project involved multi-level partnerships across academia, industry, and civil society:
 
-**Technical exchange** with research teams from six universities (see Collaboration), including cross-review of genetic circuit design and Human Practices strategy;
+**Technical exchange** with research teams from six universities (see Collaboration), including cross-review of genetic circuit design and community engagement strategy;
 
 **Industry engagement** with Jinghong health company. Etc (see Entrepreneurship), providing insight into designing business plan;
 
@@ -95,19 +99,19 @@ Our project involved multi-level partnerships across academia, industry, and civ
 
 These partnerships embody SDG 17.6 by facilitating cross-sector knowledge exchange among youth innovators, industry, and public service organizations.
 
-![Image 17](https://static.igem.wiki/teams/6079/wiki/sustainability/images/image17.avif){ loading=lazy .hp-photo }
+![Image 17](../assets/community-source/sustainability/images/image17.avif){ loading=lazy .hp-photo }
 
-![Image 18](https://static.igem.wiki/teams/6079/wiki/sustainability/images/image18.avif){ loading=lazy .hp-photo }
+![Image 18](../assets/community-source/sustainability/images/image18.avif){ loading=lazy .hp-photo }
 
-![Image 19](https://static.igem.wiki/teams/6079/wiki/sustainability/images/image19.avif){ loading=lazy .hp-photo }
+![Image 19](../assets/community-source/sustainability/images/image19.avif){ loading=lazy .hp-photo }
 
-![Image 20](https://static.igem.wiki/teams/6079/wiki/sustainability/images/image20.avif){ loading=lazy .hp-photo }
+![Image 20](../assets/community-source/sustainability/images/image20.avif){ loading=lazy .hp-photo }
 
-![Image 21](https://static.igem.wiki/teams/6079/wiki/sustainability/images/image21.avif){ loading=lazy .hp-photo }
+![Image 21](../assets/community-source/sustainability/images/image21.avif){ loading=lazy .hp-photo }
 
-![Image 22](https://static.igem.wiki/teams/6079/wiki/sustainability/images/image22.avif){ loading=lazy .hp-photo }
+![Image 22](../assets/community-source/sustainability/images/image22.avif){ loading=lazy .hp-photo }
 
-![Image 23](https://static.igem.wiki/teams/6079/wiki/sustainability/images/image23.avif){ loading=lazy .hp-photo }
+![Image 23](../assets/community-source/sustainability/images/image23.avif){ loading=lazy .hp-photo }
 
 ## 3. Indirect Contributions
 
@@ -123,7 +127,7 @@ We do not claim contributions to SDGs 1, 5, 6, 7, 9, 11, 13, 14, 15, or 16. As a
 
 ## 4. Conclusions
 
-This project aligns most credibly with SDG **3, 4, 10, 12, and 17**, each supported by traceable links to our experimental design, Human Practices activities, and Collaboration outcomes. Secondary relevance to SDG 8 and SDG 2 is acknowledged with appropriate caveats. We have deliberately avoided overclaiming contributions to goals beyond our project's current scope, following our commitment to transparent evidence and realistic scope. All health claims are presented as proof-of-concept possibilities, not clinical validations.
+This project aligns most credibly with SDG **3, 4, 10, 12, and 17**, each supported by traceable links to our experimental design, community engagement activities, and Collaboration outcomes. Secondary relevance to SDG 8 and SDG 2 is acknowledged with appropriate caveats. We have deliberately avoided overclaiming contributions to goals beyond our project's current scope, following our commitment to transparent evidence and realistic scope. All health claims are presented as proof-of-concept possibilities, not clinical validations.
 
 ## References
 

@@ -9,7 +9,7 @@ eyebrow: 04 / Science with people
 
 Our community work connects education, inclusion, peer exchange and stakeholder dialogue in Lanzhou and beyond. For iDEC, we bring these experiences into a shared question: **how can research become more understandable, more accountable and more useful?**
 
-<div class="photo-pair"><figure><img src="https://static.igem.wiki/teams/6079/wiki/education/images/image19.avif" alt="Community education activity in the LZU-CHINA outreach record" loading="lazy"><figcaption>Local conversations provide a starting point for accessible science.</figcaption></figure><figure><img src="https://static.igem.wiki/teams/6079/wiki/collaboration/images/image9.avif" alt="University peer-team exchange documented in the collaboration record" loading="lazy"><figcaption>Peer exchange makes assumptions and unanswered questions visible.</figcaption></figure></div>
+<div class="photo-pair"><figure><img src="../assets/community-source/education/images/image19.avif" alt="Community education activity in the LZU-CHINA outreach record" loading="lazy"><figcaption>Local conversations provide a starting point for accessible science.</figcaption></figure><figure><img src="../assets/community-source/collaboration/images/image9.avif" alt="University peer-team exchange documented in the collaboration record" loading="lazy"><figcaption>Peer exchange makes assumptions and unanswered questions visible.</figcaption></figure></div>
 
 ## Four ways we listen
 

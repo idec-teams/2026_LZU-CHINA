@@ -27,4 +27,4 @@ The concise pages introduce each theme. These archives retain the detailed narra
 | Entrepreneurship | [Overview](../human-practices/entrepreneurship.md) | [Detailed planning assumptions](../human-practices/entrepreneurship-record.md) |
 | Sustainability | [Overview](../human-practices/sustainability.md) | [Full SDG discussion](../human-practices/sustainability-record.md) |
 
-[Engineering index](../documentation/notebook.md) · [Responsible research](../responsible-research.md) · [Attributions](../attributions.md)
+[Engineering index](../documentation/notebook.md) · [Retrospective journal](../documentation/diary.md) · [Responsible research](../responsible-research.md) · [Attributions](../attributions.md)

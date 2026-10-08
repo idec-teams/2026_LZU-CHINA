@@ -6,26 +6,29 @@ eyebrow: Community / Shared resources
 
 <p class="page-deck">Open reusable interview guides and planning documents directly. PDF links work independently of an embedded viewer.</p>
 
-These resources accompany our education, inclusivity and entrepreneurship work. The page labels describe each resource’s purpose; the downloadable documents retain their original wording and languages.
+These resources accompany our education, inclusivity and entrepreneurship work. The page labels describe each resource’s purpose; the downloadable documents have been adapted for the iDEC audience, retaining their original languages.
+
+!!! note "iDEC editions — reference and planning drafts"
+    These are team adaptations, not official iDEC guidance or proof of completed work. Planning assumptions and scientific claims still require team verification. Original documents are retained separately. See also the [iDEC community toolkit](../community/toolkit.md).
 
 ## Interview and inclusivity resources
 
 <div class="hp-gallery">
-<a href="https://static.igem.wiki/teams/6079/wiki/inclusivity/documents/01-interview-protocols-for-healthcare-inclusivity-1.pdf"><img src="https://static.igem.wiki/teams/6079/wiki/inclusivity/resource-covers/01-interview-protocols-cover.avif" alt="Cover of the healthcare inclusivity interview protocols" loading="lazy"></a>
-<a href="https://static.igem.wiki/teams/6079/wiki/inclusivity/documents/02-stakeholder-investigation-templates.pdf"><img src="https://static.igem.wiki/teams/6079/wiki/inclusivity/resource-covers/02-stakeholder-templates-cover.avif" alt="Cover of the stakeholder-investigation templates" loading="lazy"></a>
-<a href="https://static.igem.wiki/teams/6079/wiki/inclusivity/documents/03-guideline-for-biomedical-igem-inclusivity-work.pdf"><img src="https://static.igem.wiki/teams/6079/wiki/inclusivity/resource-covers/03-biomedical-inclusivity-guide-cover.avif" alt="Cover of the biomedical inclusivity guide" loading="lazy"></a>
+<a href="../../assets/community-source/inclusivity/documents/01-interview-protocols-for-healthcare-inclusivity-1.pdf"><img src="../../assets/community-source/inclusivity/resource-covers/01-interview-protocols-cover.png" alt="Cover of the healthcare inclusivity interview protocols" loading="lazy"></a>
+<a href="../../assets/community-source/inclusivity/documents/02-stakeholder-investigation-templates.pdf"><img src="../../assets/community-source/inclusivity/resource-covers/02-stakeholder-templates-cover.png" alt="Cover of the stakeholder-investigation templates" loading="lazy"></a>
+<a href="../../assets/community-source/inclusivity/documents/03-guideline-for-biomedical-idec-inclusivity-work.pdf"><img src="../../assets/community-source/inclusivity/resource-covers/03-biomedical-inclusivity-guide-cover.png" alt="Cover of the biomedical inclusivity guide" loading="lazy"></a>
 </div>
 
 | Resource | Read | Save |
 | --- | --- | --- |
-| Healthcare stakeholder interview protocols | [Open PDF](https://static.igem.wiki/teams/6079/wiki/inclusivity/documents/01-interview-protocols-for-healthcare-inclusivity-1.pdf) | [Download](https://static.igem.wiki/teams/6079/wiki/inclusivity/documents/01-interview-protocols-for-healthcare-inclusivity-1.pdf){ download } |
-| General stakeholder-investigation templates | [Open PDF](https://static.igem.wiki/teams/6079/wiki/inclusivity/documents/02-stakeholder-investigation-templates.pdf) | [Download](https://static.igem.wiki/teams/6079/wiki/inclusivity/documents/02-stakeholder-investigation-templates.pdf){ download } |
-| Inclusivity guidance for student biomedical research teams | [Open PDF](https://static.igem.wiki/teams/6079/wiki/inclusivity/documents/03-guideline-for-biomedical-igem-inclusivity-work.pdf) | [Download](https://static.igem.wiki/teams/6079/wiki/inclusivity/documents/03-guideline-for-biomedical-igem-inclusivity-work.pdf){ download } |
+| Healthcare stakeholder interview protocols | [Open PDF](../assets/community-source/inclusivity/documents/01-interview-protocols-for-healthcare-inclusivity-1.pdf) | [Download](../assets/community-source/inclusivity/documents/01-interview-protocols-for-healthcare-inclusivity-1.pdf){ download } |
+| General stakeholder-investigation templates | [Open PDF](../assets/community-source/inclusivity/documents/02-stakeholder-investigation-templates.pdf) | [Download](../assets/community-source/inclusivity/documents/02-stakeholder-investigation-templates.pdf){ download } |
+| Inclusivity guidance for student biomedical research teams | [Open PDF](../assets/community-source/inclusivity/documents/03-guideline-for-biomedical-idec-inclusivity-work.pdf) | [Download](../assets/community-source/inclusivity/documents/03-guideline-for-biomedical-idec-inclusivity-work.pdf){ download } |
 
 ## Business planning resources
 
-- Chinese business plan: [Open PDF](https://static.igem.wiki/teams/6079/wiki/entrepreneurship/pdf/business-plan-cn.pdf) · [Download](https://static.igem.wiki/teams/6079/wiki/entrepreneurship/pdf/business-plan-cn.pdf){ download }
-- English business plan: [Open PDF](https://static.igem.wiki/teams/6079/wiki/entrepreneurship/pdf/business-plan-en.pdf) · [Download](https://static.igem.wiki/teams/6079/wiki/entrepreneurship/pdf/business-plan-en.pdf){ download }
+- Chinese business plan: [Open PDF](../assets/community-source/entrepreneurship/pdf/business-plan-cn.pdf) · [Download](../assets/community-source/entrepreneurship/pdf/business-plan-cn.pdf){ download }
+- English business plan: [Open PDF](../assets/community-source/entrepreneurship/pdf/business-plan-en.pdf) · [Download](../assets/community-source/entrepreneurship/pdf/business-plan-en.pdf){ download }
 - [Read the full Entrepreneurship report on this website](entrepreneurship.md), including its tables and illustrations.
 
 If your browser does not display a PDF, open its link in a separate tab and use the browser’s Save/Download control.

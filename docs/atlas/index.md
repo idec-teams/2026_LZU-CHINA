@@ -49,4 +49,5 @@ hide:
 <a class="atlas-entry" href="../human-practices/sustainability-record/" data-atlas-entry data-category="records"><span>Records / ↗</span><strong>Read the sustainability assessment</strong><p>Detailed SDG discussion and activity context.</p></a>
 <a class="atlas-entry" href="../team/" data-atlas-entry data-category="people"><span>People / ↗</span><strong>Who is behind the project?</strong><p>Meet the team through its member profiles.</p></a>
 <a class="atlas-entry" href="../attributions/" data-atlas-entry data-category="people"><span>People / ↗</span><strong>Who contributed what?</strong><p>Credits, roles, sources and acknowledgements.</p></a>
+<a class="atlas-entry" href="../documentation/diary/" data-atlas-entry data-category="records"><span>Records / ↗</span><strong>What can the supplied records tell us?</strong><p>A retrospective journal with source links, interpretation limits and missing dates explicitly marked.</p></a>
 </div>

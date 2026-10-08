@@ -13,9 +13,9 @@ Our sustainability work begins with the people and partnerships around the proje
 Conversations at the First Hospital of Lanzhou University encouraged us to consider the practical context of health innovation: staff time, available equipment, understandable explanations and the burdens placed on patients. These discussions connect our work to the aspiration of SDG 3, good health and well-being. They identify needs and development priorities; they do not demonstrate a health benefit from the prototype.
 
 <div class="hp-gallery">
-<img src="https://static.igem.wiki/teams/6079/wiki/sustainability/images/image1.avif" alt="Healthcare engagement and needs exploration, retained from the original sustainability record. — source image 1" loading="lazy" decoding="async">
-<img src="https://static.igem.wiki/teams/6079/wiki/sustainability/images/image2.avif" alt="Healthcare engagement and needs exploration, retained from the original sustainability record. — source image 2" loading="lazy" decoding="async">
-<img src="https://static.igem.wiki/teams/6079/wiki/sustainability/images/image3.avif" alt="Healthcare engagement and needs exploration, retained from the original sustainability record. — source image 3" loading="lazy" decoding="async">
+<img src="../../assets/community-source/sustainability/images/image1.avif" alt="Healthcare engagement and needs exploration, retained from the original sustainability record. — source image 1" loading="lazy" decoding="async">
+<img src="../../assets/community-source/sustainability/images/image2.avif" alt="Healthcare engagement and needs exploration, retained from the original sustainability record. — source image 2" loading="lazy" decoding="async">
+<img src="../../assets/community-source/sustainability/images/image3.avif" alt="Healthcare engagement and needs exploration, retained from the original sustainability record. — source image 3" loading="lazy" decoding="async">
 </div>
 
 Healthcare engagement and needs exploration, retained from the original sustainability record.
@@ -27,11 +27,11 @@ School outreach, campus discussions and hands-on community activities support ou
 For iDEC, we propose extending these formats to variation, selection and the meaning of an improvement objective. The [Education chapter](education.md) contains the original activities and the proposed extension separately.
 
 <div class="hp-gallery">
-<img src="https://static.igem.wiki/teams/6079/wiki/sustainability/images/image4.avif" alt="Education and outreach activities from the original programme. — source image 4" loading="lazy" decoding="async">
-<img src="https://static.igem.wiki/teams/6079/wiki/sustainability/images/image5.avif" alt="Education and outreach activities from the original programme. — source image 5" loading="lazy" decoding="async">
-<img src="https://static.igem.wiki/teams/6079/wiki/sustainability/images/image6.avif" alt="Education and outreach activities from the original programme. — source image 6" loading="lazy" decoding="async">
-<img src="https://static.igem.wiki/teams/6079/wiki/sustainability/images/image7.avif" alt="Education and outreach activities from the original programme. — source image 7" loading="lazy" decoding="async">
-<img src="https://static.igem.wiki/teams/6079/wiki/sustainability/images/image8.avif" alt="Education and outreach activities from the original programme. — source image 8" loading="lazy" decoding="async">
+<img src="../../assets/community-source/sustainability/images/image4.avif" alt="Education and outreach activities from the original programme. — source image 4" loading="lazy" decoding="async">
+<img src="../../assets/community-source/sustainability/images/image5.avif" alt="Education and outreach activities from the original programme. — source image 5" loading="lazy" decoding="async">
+<img src="../../assets/community-source/sustainability/images/image6.avif" alt="Education and outreach activities from the original programme. — source image 6" loading="lazy" decoding="async">
+<img src="../../assets/community-source/sustainability/images/image7.avif" alt="Education and outreach activities from the original programme. — source image 7" loading="lazy" decoding="async">
+<img src="../../assets/community-source/sustainability/images/image8.avif" alt="Education and outreach activities from the original programme. — source image 8" loading="lazy" decoding="async">
 </div>
 
 Education and outreach activities from the original programme.
@@ -43,14 +43,14 @@ Our work in Gansu brought access into focus: distance from university resources,
 Healthcare affordability and accessible readouts remain future development questions. A low-cost goal needs a cost assessment, and a proposed accessible format needs feedback from the people expected to use it. The [Inclusivity chapter](inclusivity.md) records the stakeholder dialogue and current limitations.
 
 <div class="hp-gallery">
-<img src="https://static.igem.wiki/teams/6079/wiki/sustainability/images/image9.avif" alt="Community engagement and inclusive participation documented in the source material. — source image 9" loading="lazy" decoding="async">
-<img src="https://static.igem.wiki/teams/6079/wiki/sustainability/images/image10.avif" alt="Community engagement and inclusive participation documented in the source material. — source image 10" loading="lazy" decoding="async">
-<img src="https://static.igem.wiki/teams/6079/wiki/sustainability/images/image11.avif" alt="Community engagement and inclusive participation documented in the source material. — source image 11" loading="lazy" decoding="async">
-<img src="https://static.igem.wiki/teams/6079/wiki/sustainability/images/image12.avif" alt="Community engagement and inclusive participation documented in the source material. — source image 12" loading="lazy" decoding="async">
-<img src="https://static.igem.wiki/teams/6079/wiki/sustainability/images/image13.avif" alt="Community engagement and inclusive participation documented in the source material. — source image 13" loading="lazy" decoding="async">
-<img src="https://static.igem.wiki/teams/6079/wiki/sustainability/images/image14.avif" alt="Community engagement and inclusive participation documented in the source material. — source image 14" loading="lazy" decoding="async">
-<img src="https://static.igem.wiki/teams/6079/wiki/sustainability/images/image15.avif" alt="Community engagement and inclusive participation documented in the source material. — source image 15" loading="lazy" decoding="async">
-<img src="https://static.igem.wiki/teams/6079/wiki/sustainability/images/image16.avif" alt="Community engagement and inclusive participation documented in the source material. — source image 16" loading="lazy" decoding="async">
+<img src="../../assets/community-source/sustainability/images/image9.avif" alt="Community engagement and inclusive participation documented in the source material. — source image 9" loading="lazy" decoding="async">
+<img src="../../assets/community-source/sustainability/images/image10.avif" alt="Community engagement and inclusive participation documented in the source material. — source image 10" loading="lazy" decoding="async">
+<img src="../../assets/community-source/sustainability/images/image11.avif" alt="Community engagement and inclusive participation documented in the source material. — source image 11" loading="lazy" decoding="async">
+<img src="../../assets/community-source/sustainability/images/image12.avif" alt="Community engagement and inclusive participation documented in the source material. — source image 12" loading="lazy" decoding="async">
+<img src="../../assets/community-source/sustainability/images/image13.avif" alt="Community engagement and inclusive participation documented in the source material. — source image 13" loading="lazy" decoding="async">
+<img src="../../assets/community-source/sustainability/images/image14.avif" alt="Community engagement and inclusive participation documented in the source material. — source image 14" loading="lazy" decoding="async">
+<img src="../../assets/community-source/sustainability/images/image15.avif" alt="Community engagement and inclusive participation documented in the source material. — source image 15" loading="lazy" decoding="async">
+<img src="../../assets/community-source/sustainability/images/image16.avif" alt="Community engagement and inclusive participation documented in the source material. — source image 16" loading="lazy" decoding="async">
 </div>
 
 Community engagement and inclusive participation documented in the source material.
@@ -68,13 +68,13 @@ Peer-team exchanges, APIC discussions, healthcare dialogue and engagement with o
 Our next step is to make useful resources easier to reuse, keep the questions raised by partners visible, and invite further feedback. The [Collaboration chapter](collaboration.md) preserves the detailed record of the original exchanges.
 
 <div class="hp-gallery">
-<img src="https://static.igem.wiki/teams/6079/wiki/sustainability/images/image17.avif" alt="Partnership and exchange records from the original sustainability chapter. — source image 17" loading="lazy" decoding="async">
-<img src="https://static.igem.wiki/teams/6079/wiki/sustainability/images/image18.avif" alt="Partnership and exchange records from the original sustainability chapter. — source image 18" loading="lazy" decoding="async">
-<img src="https://static.igem.wiki/teams/6079/wiki/sustainability/images/image19.avif" alt="Partnership and exchange records from the original sustainability chapter. — source image 19" loading="lazy" decoding="async">
-<img src="https://static.igem.wiki/teams/6079/wiki/sustainability/images/image20.avif" alt="Partnership and exchange records from the original sustainability chapter. — source image 20" loading="lazy" decoding="async">
-<img src="https://static.igem.wiki/teams/6079/wiki/sustainability/images/image21.avif" alt="Partnership and exchange records from the original sustainability chapter. — source image 21" loading="lazy" decoding="async">
-<img src="https://static.igem.wiki/teams/6079/wiki/sustainability/images/image22.avif" alt="Partnership and exchange records from the original sustainability chapter. — source image 22" loading="lazy" decoding="async">
-<img src="https://static.igem.wiki/teams/6079/wiki/sustainability/images/image23.avif" alt="Partnership and exchange records from the original sustainability chapter. — source image 23" loading="lazy" decoding="async">
+<img src="../../assets/community-source/sustainability/images/image17.avif" alt="Partnership and exchange records from the original sustainability chapter. — source image 17" loading="lazy" decoding="async">
+<img src="../../assets/community-source/sustainability/images/image18.avif" alt="Partnership and exchange records from the original sustainability chapter. — source image 18" loading="lazy" decoding="async">
+<img src="../../assets/community-source/sustainability/images/image19.avif" alt="Partnership and exchange records from the original sustainability chapter. — source image 19" loading="lazy" decoding="async">
+<img src="../../assets/community-source/sustainability/images/image20.avif" alt="Partnership and exchange records from the original sustainability chapter. — source image 20" loading="lazy" decoding="async">
+<img src="../../assets/community-source/sustainability/images/image21.avif" alt="Partnership and exchange records from the original sustainability chapter. — source image 21" loading="lazy" decoding="async">
+<img src="../../assets/community-source/sustainability/images/image22.avif" alt="Partnership and exchange records from the original sustainability chapter. — source image 22" loading="lazy" decoding="async">
+<img src="../../assets/community-source/sustainability/images/image23.avif" alt="Partnership and exchange records from the original sustainability chapter. — source image 23" loading="lazy" decoding="async">
 </div>
 
 Partnership and exchange records from the original sustainability chapter.

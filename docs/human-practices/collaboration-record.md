@@ -4,6 +4,10 @@ eyebrow: Community archive · Full record
 
 # Collaboration: the complete exchange record
 
+!!! note "Historical activity record"
+    This archive preserves earlier LZU-CHINA activities and original photographs. Event branding in the source material does not establish that an activity was organised by iDEC or that a partner was an iDEC team.
+
+
 University teams, clinicians, public-health workers and local communities helped us ask better questions about communication, practical needs and responsible development. This chapter preserves the exchanges and photographs behind that process.
 
 For iDEC, we connect this community experience with a central question: how should a useful improvement be defined, measured and explained? The activities below document our outreach and exchanges; the closing section develops their relevance to directed-evolution education and responsible research.
@@ -18,21 +22,21 @@ We further extended our project into local communities. In collaboration with Ji
 
 For the LZU-CHINA team, collaboration is not an additional activity outside our project. Instead, it is an integral part of our project development. Knowledge, questions, and feedback from different colleges, teams, and members of the public were continuously brought back to our project, encouraging us to reconsider and optimize the design, application scenarios, and social value of our engineered bacterial system. Through this continuous cycle of collaboration and reflection, we hope that EcN-1917 will become more than an engineered bacterial system in the laboratory—it will serve as our exploration of how synthetic biology can connect technological innovation with the real needs of infectious disease prevention and treatment.
 
-![1. Overview — Image 1](https://static.igem.wiki/teams/6079/wiki/collaboration/images/image1.avif){ loading=lazy .hp-photo }
+![1. Overview — Image 1](../assets/community-source/collaboration/images/image1.avif){ loading=lazy .hp-photo }
 
-![1. Overview — Image 2](https://static.igem.wiki/teams/6079/wiki/collaboration/images/image2.avif){ loading=lazy .hp-photo }
+![1. Overview — Image 2](../assets/community-source/collaboration/images/image2.avif){ loading=lazy .hp-photo }
 
-![1. Overview — Image 3](https://static.igem.wiki/teams/6079/wiki/collaboration/images/image3.avif){ loading=lazy .hp-photo }
+![1. Overview — Image 3](../assets/community-source/collaboration/images/image3.avif){ loading=lazy .hp-photo }
 
-![1. Overview — Image 4](https://static.igem.wiki/teams/6079/wiki/collaboration/images/image4.avif){ loading=lazy .hp-photo }
+![1. Overview — Image 4](../assets/community-source/collaboration/images/image4.avif){ loading=lazy .hp-photo }
 
-![1. Overview — Image 5](https://static.igem.wiki/teams/6079/wiki/collaboration/images/image5.avif){ loading=lazy .hp-photo }
+![1. Overview — Image 5](../assets/community-source/collaboration/images/image5.avif){ loading=lazy .hp-photo }
 
-![1. Overview — Image 6](https://static.igem.wiki/teams/6079/wiki/collaboration/images/image6.avif){ loading=lazy .hp-photo }
+![1. Overview — Image 6](../assets/community-source/collaboration/images/image6.avif){ loading=lazy .hp-photo }
 
-![1. Overview — Image 7](https://static.igem.wiki/teams/6079/wiki/collaboration/images/image7.avif){ loading=lazy .hp-photo }
+![1. Overview — Image 7](../assets/community-source/collaboration/images/image7.avif){ loading=lazy .hp-photo }
 
-![1. Overview — Image 8](https://static.igem.wiki/teams/6079/wiki/collaboration/images/image8.avif){ loading=lazy .hp-photo }
+![1. Overview — Image 8](../assets/community-source/collaboration/images/image8.avif){ loading=lazy .hp-photo }
 
 Figures.1   Project-themed posters, schematic diagrams of perioperative gut microbiota imbalance, Lanzhou University promotional materials, and synthetic biology popular science illustrations.
 
@@ -46,11 +50,11 @@ We introduced our dual-input AND gate, in which the simultaneous presence of rel
 
 The two teams discussed how to achieve multi-signal integration, reduce background expression, and maintain stable responses from downstream output modules. This discussion helped us further recognize that the strength of synthetic biology lies not only in enabling cells to perform specific functions, but also in giving cells signal-processing capabilities resembling those of computational systems. By processing multiple environmental signals, engineered bacteria may respond more precisely to complex biological conditions.
 
-![2.1 Collaboration with Hunan University Research Team — Image 9](https://static.igem.wiki/teams/6079/wiki/collaboration/images/image9.avif){ loading=lazy .hp-photo }
+![2.1 Collaboration with Hunan University Research Team — Image 9](../assets/community-source/collaboration/images/image9.avif){ loading=lazy .hp-photo }
 
-![2.1 Collaboration with Hunan University Research Team — Image 10](https://static.igem.wiki/teams/6079/wiki/collaboration/images/image10.avif){ loading=lazy .hp-photo }
+![2.1 Collaboration with Hunan University Research Team — Image 10](../assets/community-source/collaboration/images/image10.avif){ loading=lazy .hp-photo }
 
-![2.1 Collaboration with Hunan University Research Team — Image 11](https://static.igem.wiki/teams/6079/wiki/collaboration/images/image11.avif){ loading=lazy .hp-photo }
+![2.1 Collaboration with Hunan University Research Team — Image 11](../assets/community-source/collaboration/images/image11.avif){ loading=lazy .hp-photo }
 
 Figures.2.1   Communication meeting with Hunan University Research Team
 
@@ -62,11 +66,11 @@ We considered that a single signal may be affected by normal intestinal physiolo
 
 The two teams discussed biological signal recognition, engineered bacterial response mechanisms, and strategies for improving detection specificity. Through this exchange, we further realized that an effective synthetic biology system requires not only appropriate biomarkers, but also a complete engineering chain connecting “signal recognition” to “functional output.” This discussion helped us systematically reconsider how the different modules of our project should be connected.
 
-![2.2 Exchange with Shenyang Pharmaceutical University Research Team — Image 12](https://static.igem.wiki/teams/6079/wiki/collaboration/images/image12.avif){ loading=lazy .hp-photo }
+![2.2 Exchange with Shenyang Pharmaceutical University Research Team — Image 12](../assets/community-source/collaboration/images/image12.avif){ loading=lazy .hp-photo }
 
-![2.2 Exchange with Shenyang Pharmaceutical University Research Team — Image 13](https://static.igem.wiki/teams/6079/wiki/collaboration/images/image13.avif){ loading=lazy .hp-photo }
+![2.2 Exchange with Shenyang Pharmaceutical University Research Team — Image 13](../assets/community-source/collaboration/images/image13.avif){ loading=lazy .hp-photo }
 
-![2.2 Exchange with Shenyang Pharmaceutical University Research Team — Image 14](https://static.igem.wiki/teams/6079/wiki/collaboration/images/image14.avif){ loading=lazy .hp-photo }
+![2.2 Exchange with Shenyang Pharmaceutical University Research Team — Image 14](../assets/community-source/collaboration/images/image14.avif){ loading=lazy .hp-photo }
 
 Figures.2.2  Communication meeting with Shenyang Pharmaceutical University Research Team
 
@@ -78,15 +82,15 @@ We focused on our design concept of using E. coli Nissle 1917 (EcN) as the chass
 
 This exchange made us pay greater attention to the gap between “feasibility in the laboratory” and “applicability in clinical practice.” It also encouraged us to reconsider our project from the perspective of actual patient use scenarios, providing new ideas for further improving the diagnostic functions and safety controls of our engineered bacterial system.
 
-![2.3 Collaboration with Southern Medical University Research Team — Image 15](https://static.igem.wiki/teams/6079/wiki/collaboration/images/image15.avif){ loading=lazy .hp-photo }
+![2.3 Collaboration with Southern Medical University Research Team — Image 15](../assets/community-source/collaboration/images/image15.avif){ loading=lazy .hp-photo }
 
-![2.3 Collaboration with Southern Medical University Research Team — Image 16](https://static.igem.wiki/teams/6079/wiki/collaboration/images/image16.avif){ loading=lazy .hp-photo }
+![2.3 Collaboration with Southern Medical University Research Team — Image 16](../assets/community-source/collaboration/images/image16.avif){ loading=lazy .hp-photo }
 
-![2.3 Collaboration with Southern Medical University Research Team — Image 17](https://static.igem.wiki/teams/6079/wiki/collaboration/images/image17.avif){ loading=lazy .hp-photo }
+![2.3 Collaboration with Southern Medical University Research Team — Image 17](../assets/community-source/collaboration/images/image17.avif){ loading=lazy .hp-photo }
 
-![2.3 Collaboration with Southern Medical University Research Team — Image 18](https://static.igem.wiki/teams/6079/wiki/collaboration/images/image18.avif){ loading=lazy .hp-photo }
+![2.3 Collaboration with Southern Medical University Research Team — Image 18](../assets/community-source/collaboration/images/image18.avif){ loading=lazy .hp-photo }
 
-![2.3 Collaboration with Southern Medical University Research Team — Image 19](https://static.igem.wiki/teams/6079/wiki/collaboration/images/image19.avif){ loading=lazy .hp-photo }
+![2.3 Collaboration with Southern Medical University Research Team — Image 19](../assets/community-source/collaboration/images/image19.avif){ loading=lazy .hp-photo }
 
 Figures.2.3   Communication meeting with Southern Medical University Research Team
 
@@ -98,11 +102,11 @@ After detecting the two infection-associated signals, AI-2 and tetrathionate, ou
 
 The two teams discussed diagnostic signal output, therapeutic effects, and the coordination between different functional modules. This exchange encouraged us to further consider the distance between “identifying a problem” and “solving a problem.” We became more convinced that our project should not merely function as a pathogen detection tool. Instead, we aim to enable engineered bacteria to sense, interpret, and respond to infection at an early stage, thereby creating a more integrated diagnostic and therapeutic loop.
 
-![2.4 Collaboration with Fudan University Research Team — Image 20](https://static.igem.wiki/teams/6079/wiki/collaboration/images/image20.avif){ loading=lazy .hp-photo }
+![2.4 Collaboration with Fudan University Research Team — Image 20](../assets/community-source/collaboration/images/image20.avif){ loading=lazy .hp-photo }
 
-![2.4 Collaboration with Fudan University Research Team — Image 21](https://static.igem.wiki/teams/6079/wiki/collaboration/images/image21.avif){ loading=lazy .hp-photo }
+![2.4 Collaboration with Fudan University Research Team — Image 21](../assets/community-source/collaboration/images/image21.avif){ loading=lazy .hp-photo }
 
-![2.4 Collaboration with Fudan University Research Team — Image 22](https://static.igem.wiki/teams/6079/wiki/collaboration/images/image22.avif){ loading=lazy .hp-photo }
+![2.4 Collaboration with Fudan University Research Team — Image 22](../assets/community-source/collaboration/images/image22.avif){ loading=lazy .hp-photo }
 
 Figures.2.4   Communication meeting with Fudan University Research Team
 
@@ -114,15 +118,15 @@ Traditional antibiotics can affect beneficial commensal bacteria while eliminati
 
 The two teams discussed targeted antibacterial strategies, therapeutic selectivity, and the potential effects of engineered bacteria on the intestinal microbiota. This discussion encouraged us to pay greater attention to the precision and boundaries of the therapeutic module. We further recognized that future living biotherapeutics should not only eliminate pathogens, but also minimize unnecessary disturbance to the surrounding microbial ecosystem.
 
-![2.5 Collaboration with Shenzhen University Research Team — Image 23](https://static.igem.wiki/teams/6079/wiki/collaboration/images/image23.avif){ loading=lazy .hp-photo }
+![2.5 Collaboration with Shenzhen University Research Team — Image 23](../assets/community-source/collaboration/images/image23.avif){ loading=lazy .hp-photo }
 
-![2.5 Collaboration with Shenzhen University Research Team — Image 24](https://static.igem.wiki/teams/6079/wiki/collaboration/images/image24.avif){ loading=lazy .hp-photo }
+![2.5 Collaboration with Shenzhen University Research Team — Image 24](../assets/community-source/collaboration/images/image24.avif){ loading=lazy .hp-photo }
 
-![2.5 Collaboration with Shenzhen University Research Team — Image 25](https://static.igem.wiki/teams/6079/wiki/collaboration/images/image25.avif){ loading=lazy .hp-photo }
+![2.5 Collaboration with Shenzhen University Research Team — Image 25](../assets/community-source/collaboration/images/image25.avif){ loading=lazy .hp-photo }
 
-![2.5 Collaboration with Shenzhen University Research Team — Image 26](https://static.igem.wiki/teams/6079/wiki/collaboration/images/image26.avif){ loading=lazy .hp-photo }
+![2.5 Collaboration with Shenzhen University Research Team — Image 26](../assets/community-source/collaboration/images/image26.avif){ loading=lazy .hp-photo }
 
-![2.5 Collaboration with Shenzhen University Research Team — Image 27](https://static.igem.wiki/teams/6079/wiki/collaboration/images/image27.avif){ loading=lazy .hp-photo }
+![2.5 Collaboration with Shenzhen University Research Team — Image 27](../assets/community-source/collaboration/images/image27.avif){ loading=lazy .hp-photo }
 
 Figures.2.5 Communication meeting with Shenzhen University Research Team
 
@@ -136,13 +140,13 @@ The two teams discussed environmental release, biological containment, and safet
 
 Therefore, we further organized the relationship among the four major layers of our system: “sensing–computation–therapy–self-limitation.” While pursuing diagnostic and therapeutic functions, we also aim to establish a more reliable safety barrier for the future application of engineered bacteria.
 
-![2.6 Collaboration with Huazhong Agricultural University Research Team — Image 28](https://static.igem.wiki/teams/6079/wiki/collaboration/images/image28.avif){ loading=lazy .hp-photo }
+![2.6 Collaboration with Huazhong Agricultural University Research Team — Image 28](../assets/community-source/collaboration/images/image28.avif){ loading=lazy .hp-photo }
 
-![2.6 Collaboration with Huazhong Agricultural University Research Team — Image 29](https://static.igem.wiki/teams/6079/wiki/collaboration/images/image29.avif){ loading=lazy .hp-photo }
+![2.6 Collaboration with Huazhong Agricultural University Research Team — Image 29](../assets/community-source/collaboration/images/image29.avif){ loading=lazy .hp-photo }
 
-![2.6 Collaboration with Huazhong Agricultural University Research Team — Image 30](https://static.igem.wiki/teams/6079/wiki/collaboration/images/image30.avif){ loading=lazy .hp-photo }
+![2.6 Collaboration with Huazhong Agricultural University Research Team — Image 30](../assets/community-source/collaboration/images/image30.avif){ loading=lazy .hp-photo }
 
-![2.6 Collaboration with Huazhong Agricultural University Research Team — Image 31](https://static.igem.wiki/teams/6079/wiki/collaboration/images/image31.avif){ loading=lazy .hp-photo }
+![2.6 Collaboration with Huazhong Agricultural University Research Team — Image 31](../assets/community-source/collaboration/images/image31.avif){ loading=lazy .hp-photo }
 
 Figures.2.6 Communication meeting with Huazhong Agricultural University Research Team
 
@@ -154,19 +158,19 @@ Poster presentation: Our team presented our 2026 project "Engineered EcN-1917 Pr
 
 Oral presentation: In the parallel session, our team representative delivered an oral presentation. Starting from real clinical pain points, the report outlined the epidemiological status and clinical hazards of perioperative gut microbiota dysbiosis, compared limitations of existing solutions (traditional antibiotics, FMT), and presented the full technical pathway from signal perception and logical judgment to in-situ diagnosis and treatment. The Q&A session that followed generated active discussion: clinical experts and synthetic biology scholars raised questions about target specificity, in-vivo colonization stability, and effectiveness verification pathways.  These suggestions were brought back to our team and informed our subsequent reconsideration of module design priorities, particularly the need to strengthen in-vivo colonization data before claiming therapeutic efficacy.
 
-Cross-team exchange: We visited booths of multiple university research teams with diverse research directions (microbial detection, viral biosensors, environmental synthetic biology). Both sides shared experimental schemes, project design ideas, and Human Practices experience. We exchanged views on engineered strain construction, gene circuit optimization, and science communication strategies, identified details that could be improved in each other's designs, and agreed on continued online communication and resource sharing.
+Cross-team exchange: We visited booths of multiple university research teams with diverse research directions (microbial detection, viral biosensors, environmental synthetic biology). Both sides shared experimental schemes, project design ideas, and community engagement experience. We exchanged views on engineered strain construction, gene circuit optimization, and science communication strategies, identified details that could be improved in each other's designs, and agreed on continued online communication and resource sharing.
 
-Impact on our project: This conference provided a platform to connect with academic and industrial frontiers. Beyond absorbing cutting-edge perspectives on synthetic biology translation, the expert feedback we received—particularly on colonization stability and verification design—directly shaped our revised project narrative and informed the inclusivity considerations documented in our Human Practices section. The inter-university network established here also laid groundwork for future collaboration beyond the 2026 project season.
+Impact on our project: This conference provided a platform to connect with academic and industrial frontiers. Beyond absorbing cutting-edge perspectives on synthetic biology translation, the expert feedback we received—particularly on colonization stability and verification design—directly shaped our revised project narrative and informed the inclusivity considerations documented in our Community section. The inter-university network established here also laid groundwork for future collaboration beyond the 2026 project season.
 
-![2.7 The 1st APIC Conference on Synthetic Biology Innovation and Application — Image 32](https://static.igem.wiki/teams/6079/wiki/collaboration/images/image32.avif){ loading=lazy .hp-photo }
+![2.7 The 1st APIC Conference on Synthetic Biology Innovation and Application — Image 32](../assets/community-source/collaboration/images/image32.avif){ loading=lazy .hp-photo }
 
-![2.7 The 1st APIC Conference on Synthetic Biology Innovation and Application — Image 33](https://static.igem.wiki/teams/6079/wiki/collaboration/images/image33.avif){ loading=lazy .hp-photo }
+![2.7 The 1st APIC Conference on Synthetic Biology Innovation and Application — Image 33](../assets/community-source/collaboration/images/image33.avif){ loading=lazy .hp-photo }
 
 Figures.2.7 Our members in the 1st APIC Conference on Synthetic Biology Innovation and Application
 
 ## 3. Resource Connections and Collaboration with External Organizations
 
-The value of synthetic biology does not exist solely within the laboratory. It also needs to be understood, discussed, and examined in real social contexts. For LZU-CHINA, Human Practices is not simply about introducing our project to the public. It is about actively engaging with different communities, understanding their perceptions and needs regarding intestinal health, infectious diseases, and engineered bacterial technologies, and considering how synthetic biology can genuinely serve society through these interactions.
+The value of synthetic biology does not exist solely within the laboratory. It also needs to be understood, discussed, and examined in real social contexts. For LZU-CHINA, Community engagement is not simply about introducing our project to the public. It is about actively engaging with different communities, understanding their perceptions and needs regarding intestinal health, infectious diseases, and engineered bacterial technologies, and considering how synthetic biology can genuinely serve society through these interactions.
 
 This year, we organized a series of activities across four dimensions: campus, community, healthcare, and public health. From project promotion among university students and life science education for children to professional exchanges with clinical institutions and public health agencies, we sought to build a bridge between the laboratory and society, allowing different groups to participate in our project in their own ways.
 
@@ -178,19 +182,19 @@ On May 28, we further organized an offline outreach activity at the Medical Camp
 
 Unlike one-way science communication, we placed greater emphasis on interaction. Students asked questions such as how engineered bacteria recognize pathogens, how the colorimetric signal is generated, and whether engineered bacteria could affect the normal intestinal microbiota. We responded based on the biological principles and design of our project. These questions also encouraged us to reconsider how to communicate engineered bacterial technologies in a clearer, more accurate, and more accessible way.
 
-![3.1 Entering the Campus: Bringing Synthetic Biology Closer to University Students — Image 34](https://static.igem.wiki/teams/6079/wiki/collaboration/images/image34.avif){ loading=lazy .hp-photo }
+![3.1 Entering the Campus: Bringing Synthetic Biology Closer to University Students — Image 34](../assets/community-source/collaboration/images/image34.avif){ loading=lazy .hp-photo }
 
-![3.1 Entering the Campus: Bringing Synthetic Biology Closer to University Students — Image 35](https://static.igem.wiki/teams/6079/wiki/collaboration/images/image35.avif){ loading=lazy .hp-photo }
+![3.1 Entering the Campus: Bringing Synthetic Biology Closer to University Students — Image 35](../assets/community-source/collaboration/images/image35.avif){ loading=lazy .hp-photo }
 
-![3.1 Entering the Campus: Bringing Synthetic Biology Closer to University Students — Image 36](https://static.igem.wiki/teams/6079/wiki/collaboration/images/image36.avif){ loading=lazy .hp-photo }
+![3.1 Entering the Campus: Bringing Synthetic Biology Closer to University Students — Image 36](../assets/community-source/collaboration/images/image36.avif){ loading=lazy .hp-photo }
 
-![3.1 Entering the Campus: Bringing Synthetic Biology Closer to University Students — Image 37](https://static.igem.wiki/teams/6079/wiki/collaboration/images/image37.avif){ loading=lazy .hp-photo }
+![3.1 Entering the Campus: Bringing Synthetic Biology Closer to University Students — Image 37](../assets/community-source/collaboration/images/image37.avif){ loading=lazy .hp-photo }
 
-![3.1 Entering the Campus: Bringing Synthetic Biology Closer to University Students — Image 38](https://static.igem.wiki/teams/6079/wiki/collaboration/images/image38.avif){ loading=lazy .hp-photo }
+![3.1 Entering the Campus: Bringing Synthetic Biology Closer to University Students — Image 38](../assets/community-source/collaboration/images/image38.avif){ loading=lazy .hp-photo }
 
-![3.1 Entering the Campus: Bringing Synthetic Biology Closer to University Students — Image 39](https://static.igem.wiki/teams/6079/wiki/collaboration/images/image39.avif){ loading=lazy .hp-photo }
+![3.1 Entering the Campus: Bringing Synthetic Biology Closer to University Students — Image 39](../assets/community-source/collaboration/images/image39.avif){ loading=lazy .hp-photo }
 
-![3.1 Entering the Campus: Bringing Synthetic Biology Closer to University Students — Image 40](https://static.igem.wiki/teams/6079/wiki/collaboration/images/image40.avif){ loading=lazy .hp-photo }
+![3.1 Entering the Campus: Bringing Synthetic Biology Closer to University Students — Image 40](../assets/community-source/collaboration/images/image40.avif){ loading=lazy .hp-photo }
 
 Figures.3.1   Our on-campus Synthetic Biological activities
 
@@ -204,13 +208,13 @@ During laboratory open-day activities, team members introduced the laboratory en
 
 For children, completing an experiment with their own hands can be more intuitive than simply attending a lecture. Through “observation–understanding–practice,” we aimed to lower the cognitive barriers to life science and make complex biological knowledge more concrete and engaging. At the same time, these activities reminded us that science communication needs to be adapted to different age groups. Finding the balance between scientific accuracy and accessibility became an important consideration throughout our outreach.
 
-![3.2 Entering the Community: Letting Children Experience Life Science — Image 41](https://static.igem.wiki/teams/6079/wiki/collaboration/images/image41.avif){ loading=lazy .hp-photo }
+![3.2 Entering the Community: Letting Children Experience Life Science — Image 41](../assets/community-source/collaboration/images/image41.avif){ loading=lazy .hp-photo }
 
-![3.2 Entering the Community: Letting Children Experience Life Science — Image 42](https://static.igem.wiki/teams/6079/wiki/collaboration/images/image42.avif){ loading=lazy .hp-photo }
+![3.2 Entering the Community: Letting Children Experience Life Science — Image 42](../assets/community-source/collaboration/images/image42.avif){ loading=lazy .hp-photo }
 
-![3.2 Entering the Community: Letting Children Experience Life Science — Image 43](https://static.igem.wiki/teams/6079/wiki/collaboration/images/image43.avif){ loading=lazy .hp-photo }
+![3.2 Entering the Community: Letting Children Experience Life Science — Image 43](../assets/community-source/collaboration/images/image43.avif){ loading=lazy .hp-photo }
 
-![3.2 Entering the Community: Letting Children Experience Life Science — Image 44](https://static.igem.wiki/teams/6079/wiki/collaboration/images/image44.avif){ loading=lazy .hp-photo }
+![3.2 Entering the Community: Letting Children Experience Life Science — Image 44](../assets/community-source/collaboration/images/image44.avif){ loading=lazy .hp-photo }
 
 Figures.3.2   Children-focused Hands-on Science Programs
 
@@ -224,13 +228,13 @@ These discussions led us to consider a further question: if engineered bacteria 
 
 Thus, our clinical communication was not simply a presentation of project outcomes. It became an important part of understanding real medical needs and exploring potential application scenarios. We also became more aware that before engineered bacterial platforms can move toward practical applications, their biological functions must be evaluated alongside detection convenience, therapeutic response, biosafety, and clinical applicability.
 
-![3.3 Entering the Hospital: Reconsidering Project Design through Clinical Needs — Image 45](https://static.igem.wiki/teams/6079/wiki/collaboration/images/image45.avif){ loading=lazy .hp-photo }
+![3.3 Entering the Hospital: Reconsidering Project Design through Clinical Needs — Image 45](../assets/community-source/collaboration/images/image45.avif){ loading=lazy .hp-photo }
 
-![3.3 Entering the Hospital: Reconsidering Project Design through Clinical Needs — Image 46](https://static.igem.wiki/teams/6079/wiki/collaboration/images/image46.avif){ loading=lazy .hp-photo }
+![3.3 Entering the Hospital: Reconsidering Project Design through Clinical Needs — Image 46](../assets/community-source/collaboration/images/image46.avif){ loading=lazy .hp-photo }
 
-![3.3 Entering the Hospital: Reconsidering Project Design through Clinical Needs — Image 47](https://static.igem.wiki/teams/6079/wiki/collaboration/images/image47.avif){ loading=lazy .hp-photo }
+![3.3 Entering the Hospital: Reconsidering Project Design through Clinical Needs — Image 47](../assets/community-source/collaboration/images/image47.avif){ loading=lazy .hp-photo }
 
-![3.3 Entering the Hospital: Reconsidering Project Design through Clinical Needs — Image 48](https://static.igem.wiki/teams/6079/wiki/collaboration/images/image48.avif){ loading=lazy .hp-photo }
+![3.3 Entering the Hospital: Reconsidering Project Design through Clinical Needs — Image 48](../assets/community-source/collaboration/images/image48.avif){ loading=lazy .hp-photo }
 
 Figures.3.3  Our members participated in clinical investigations
 
@@ -244,16 +248,16 @@ This perspective further broadened our understanding of the potential value of o
 
 At the same time, communication with public health professionals strengthened our awareness of biosafety, environmental release, and public acceptance. For an engineered microorganism that may enter the human body and interact with the intestinal microbiota, scientific feasibility is only the first step. Future applications must also consider safety evaluation, risk control, and social acceptance.
 
-![3.4 Entering Disease Control: Understanding Applications from a Public Health Perspective — Image 49](https://static.igem.wiki/teams/6079/wiki/collaboration/images/image49.avif){ loading=lazy .hp-photo }
+![3.4 Entering Disease Control: Understanding Applications from a Public Health Perspective — Image 49](../assets/community-source/collaboration/images/image49.avif){ loading=lazy .hp-photo }
 
-![3.4 Entering Disease Control: Understanding Applications from a Public Health Perspective — Image 50](https://static.igem.wiki/teams/6079/wiki/collaboration/images/image49.avif){ loading=lazy .hp-photo }
+![3.4 Entering Disease Control: Understanding Applications from a Public Health Perspective — Image 50](../assets/community-source/collaboration/images/image49.avif){ loading=lazy .hp-photo }
 
 
 Figures.3.4   Our science popular brochures
 
 ### 3.5 Bringing Social Feedback Back to the Laboratory
 
-From university campuses to local communities, from science education for children to clinical and public health discussions, we gradually realized that Human Practices is not simply about “going out and organizing activities.” It is a continuous process of communication, understanding, and reflection.
+From university campuses to local communities, from science education for children to clinical and public health discussions, we gradually realized that Community engagement is not simply about “going out and organizing activities.” It is a continuous process of communication, understanding, and reflection.
 
 Questions from university students encouraged us to pay greater attention to public perceptions of engineered bacterial safety. Outreach activities with children made us reconsider how to lower the barriers to understanding life sciences. Clinical perspectives helped us evaluate the potential value of our project from real medical needs, while public health discussions further highlighted the importance of biosafety and population-level considerations.
 
@@ -263,15 +267,15 @@ For LZU-CHINA, true collaboration is not simply about communicating science to s
 
 From campuses to communities, from hospitals to disease control institutions, we hope to build more than a series of temporary activities. We hope to establish a bridge between science and society. Through these practices, we aim not only to help more people understand synthetic biology, but also to ensure that our engineered bacterial project remains grounded in genuine social needs.
 
-![3.5 Bringing Social Feedback Back to the Laboratory — Image 51](https://static.igem.wiki/teams/6079/wiki/collaboration/images/image50.avif){ loading=lazy .hp-photo }
+![3.5 Bringing Social Feedback Back to the Laboratory — Image 51](../assets/community-source/collaboration/images/image50.avif){ loading=lazy .hp-photo }
 
-![3.5 Bringing Social Feedback Back to the Laboratory — Image 52](https://static.igem.wiki/teams/6079/wiki/collaboration/images/image51.avif){ loading=lazy .hp-photo }
+![3.5 Bringing Social Feedback Back to the Laboratory — Image 52](../assets/community-source/collaboration/images/image51.avif){ loading=lazy .hp-photo }
 
-![3.5 Bringing Social Feedback Back to the Laboratory — Image 53](https://static.igem.wiki/teams/6079/wiki/collaboration/images/image52.avif){ loading=lazy .hp-photo }
+![3.5 Bringing Social Feedback Back to the Laboratory — Image 53](../assets/community-source/collaboration/images/image52.avif){ loading=lazy .hp-photo }
 
-![3.5 Bringing Social Feedback Back to the Laboratory — Image 54](https://static.igem.wiki/teams/6079/wiki/collaboration/images/image53.avif){ loading=lazy .hp-photo }
+![3.5 Bringing Social Feedback Back to the Laboratory — Image 54](../assets/community-source/collaboration/images/image53.avif){ loading=lazy .hp-photo }
 
-![3.5 Bringing Social Feedback Back to the Laboratory — Image 55](https://static.igem.wiki/teams/6079/wiki/collaboration/images/image54.avif){ loading=lazy .hp-photo }
+![3.5 Bringing Social Feedback Back to the Laboratory — Image 55](../assets/community-source/collaboration/images/image54.avif){ loading=lazy .hp-photo }
 
 Figures.3.5   Our members brought feedbacks from the activitites.
 
@@ -289,9 +293,9 @@ Institutional endorsement that facilitates inter-university collaboration, labor
 
 This institutional backing provides a formal framework for our team to conduct wet-lab research, engage in stakeholder outreach, and pursue real-world translation of our EcN-based diagnostic-therapeutic system.
 
-![3.6 Institutional Support from Lanzhou University — Image 56](https://static.igem.wiki/teams/6079/wiki/collaboration/images/image55.avif){ loading=lazy .hp-photo }
+![3.6 Institutional Support from Lanzhou University — Image 56](../assets/community-source/collaboration/images/image55.avif){ loading=lazy .hp-photo }
 
-![3.6 Institutional Support from Lanzhou University — Image 57](https://static.igem.wiki/teams/6079/wiki/collaboration/images/image56.avif){ loading=lazy .hp-photo }
+![3.6 Institutional Support from Lanzhou University — Image 57](../assets/community-source/collaboration/images/image56.avif){ loading=lazy .hp-photo }
 
 Figures.3.6   Our project was successfully approved as a provincial-level project
 

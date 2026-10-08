@@ -4,6 +4,10 @@ eyebrow: Community archive · Full record
 
 # Entrepreneurship: detailed planning assumptions
 
+!!! note "Historical activity record"
+    This archive preserves earlier LZU-CHINA activities and original photographs. Event branding in the source material does not establish that an activity was organised by iDEC or that a partner was an iDEC team. Linked PDFs are now labelled iDEC adaptations for reference and planning, not final submission documents.
+
+
 Our iDEC translation roadmap asks how a research idea could become useful beyond an initial demonstration. It brings together stakeholder exploration, proposed applications, market analysis, development risks and community resources. The planning record below provides the detailed assumptions and context behind that roadmap.
 
 !!! note "Reading the original plan"
@@ -37,7 +41,7 @@ This is our proposed decision framework for iDEC. It guides future evaluation an
 
 <p>Reviewing the landscape of existing engineered-probiotic research, we found that most current designs respond to QS signals from either Gram-positive or Gram-negative bacteria only, and very few integrate a diagnostic reporter with expression of a therapeutic effector in a single base strain. Rather than building separate engineered strains for detection and treatment, our team chose to construct a chimeric transmembrane protein that breaks this limitation, enabling a single probiotic strain to sense signals, report output, and activate therapy simultaneously.</p>
 
-<p><img src="https://static.igem.wiki/teams/6079/wiki/entrepreneurship/images/image001.avif" loading="lazy" class="report-photo" alt="Illustration from the original entrepreneurship report"></p>
+<p><img src="../../assets/community-source/entrepreneurship/images/image001.avif" loading="lazy" class="report-photo" alt="Illustration from the original entrepreneurship report"></p>
 
 <p><b>Figure 1 </b><b>.</b><b> The clinical burden of intestinal infections and the diagnostic gap: why GutSentry.</b></p>
 
@@ -47,7 +51,7 @@ This is our proposed decision framework for iDEC. It guides future evaluation an
 
 <p>Starting from first principles, we systematically studied the business plans of previous award-winning teams and multiple in-depth industry reports, building a foundation in commercial logic, market dynamics, and what makes ventures succeed. We then progressed through team workshops, innovation forums and competitions, field research, and stakeholder interviews, finally closing the loop with interview feedback through design iteration. The timeline below and the “key moments” that follow record this convergence.</p>
 
-<p><img src="https://static.igem.wiki/teams/6079/wiki/entrepreneurship/images/image002.avif" loading="lazy" class="report-photo" alt="Illustration from the original entrepreneurship report"></p>
+<p><img src="../../assets/community-source/entrepreneurship/images/image002.avif" loading="lazy" class="report-photo" alt="Illustration from the original entrepreneurship report"></p>
 
 <p><b>Figure 2</b><b>.</b><b> Our exploration journey: from first principles to design iteration.</b></p>
 
@@ -55,7 +59,7 @@ This is our proposed decision framework for iDEC. It guides future evaluation an
 
 <p>Early in the design process, the team split into two camps: one favored prioritizing a clinical product for hospitals; the other argued for pushing the primary-care scenario first. Subsequent interviews with frontline physicians provided the decisive evidence — primary-care doctors told us plainly that they “can’t afford the instruments and can’t wait two days for stool culture; they need a result readable by eye within half a day” — which directly supported entering the market with the primary-care version first. Only after multiple rounds of deliberation and evidence collection did we finalize the market-entry sequence in the business plan: it was not laboratory preference that shaped the product, but the real constraints of the target setting.</p>
 
-<p><img src="https://static.igem.wiki/teams/6079/wiki/entrepreneurship/images/image003.avif" loading="lazy" class="report-photo" alt="Illustration from the original entrepreneurship report"></p>
+<p><img src="../../assets/community-source/entrepreneurship/images/image003.avif" loading="lazy" class="report-photo" alt="Illustration from the original entrepreneurship report"></p>
 
 <p><b>Figure 3 </b><b>.</b><b> Team workshop: building the commercial framework.</b></p>
 
@@ -63,7 +67,7 @@ This is our proposed decision framework for iDEC. It guides future evaluation an
 
 <p>As the commercial framework took shape, the team was invited to multiple innovation forums and startup competitions. These were not just showcases but stress tests: judges and peer teams raised extensive, targeted feedback on our commercial logic, differentiation, and presentation of evidence, and that feedback fed directly into the next round of iteration of the plan and core strategy. We gradually learned that a proposal is worth continuing to invest in only if it withstands external scrutiny. </p>
 
-<p><img src="https://static.igem.wiki/teams/6079/wiki/entrepreneurship/images/image004.avif" loading="lazy" class="report-photo" alt="Illustration from the original entrepreneurship report"></p>
+<p><img src="../../assets/community-source/entrepreneurship/images/image004.avif" loading="lazy" class="report-photo" alt="Illustration from the original entrepreneurship report"></p>
 
 <p><b>Figure 4</b><b>.</b><b> Presenting at the inaugural Grand APiC.</b></p>
 
@@ -71,7 +75,7 @@ This is our proposed decision framework for iDEC. It guides future evaluation an
 
 <p>We went to the front line to test the assumption that “real market demand exists”, and engaged in in-depth exchanges with several outstanding startup teams. These conversations gave us a far more concrete understanding than desk research of which business models fit this industry, what key resources the project needs, and which competitive and operational risks lie ahead — and they validated the executability of our plan, moving us from “we believe there is demand” to “we have seen real demand and real obstacles”.</p>
 
-<p><img src="https://static.igem.wiki/teams/6079/wiki/entrepreneurship/images/image005.avif" loading="lazy" class="report-photo" alt="Illustration from the original entrepreneurship report"></p>
+<p><img src="../../assets/community-source/entrepreneurship/images/image005.avif" loading="lazy" class="report-photo" alt="Illustration from the original entrepreneurship report"></p>
 
 <p><b>Figure 5 </b><b>.</b><b> Exchanging with the entrepreneurship community during field research.</b></p>
 
@@ -81,17 +85,17 @@ This is our proposed decision framework for iDEC. It guides future evaluation an
 
 <p>Our discussion with <strong>Mr. Liu Jinghong, Founder and General Manager of Jinghong Health Products Ltd.</strong>, helped us reconsider what constitutes a complete product. Mr. Liu emphasized that successful product development requires more than technology alone; formulation, product presentation, market communication, corporate identity, and collaboration across different teams must work together. He also highlighted the importance of rigorous product communication and intellectual property protection. These insights encouraged us to view GutSentry not simply as an experimental prototype, but as a future product requiring both scientific credibility and a coherent commercialization strategy. </p>
 
-<p><img src="https://static.igem.wiki/teams/6079/wiki/entrepreneurship/images/image006.avif" alt="25 采访图" loading="lazy" class="report-photo"></p>
+<p><img src="../../assets/community-source/entrepreneurship/images/image006.avif" alt="25 采访图" loading="lazy" class="report-photo"></p>
 
 <p><strong>Figure 6. Industry interview with Mr. Liu Jinghong, discussing product development, intellectual property, and commercialization.</strong></p>
 
 <p>We further communicated with <strong>Shanghai AWON Dental Technology Co., Ltd.</strong> and <strong>AWON (Shandong) Medical Technology Co., Ltd.</strong> Through online discussions and introductions to their facilities and operations, we explored how medical products move beyond initial design toward organized production and real-world delivery. The exchange drew our attention to the importance of considering production processes, operational coordination, product consistency, and quality management alongside technological development.</p>
 
-<p><img src="https://static.igem.wiki/teams/6079/wiki/entrepreneurship/images/image007.avif" alt="公司1" loading="lazy" class="report-photo"></p>
+<p><img src="../../assets/community-source/entrepreneurship/images/image007.avif" alt="公司1" loading="lazy" class="report-photo"></p>
 
 <p><strong>Figure 7. Online industry exchange with Shanghai AWON Dental Technology Co., Ltd., exploring medical-product operations and commercialization.</strong></p>
 
-<p><strong><img src="https://static.igem.wiki/teams/6079/wiki/entrepreneurship/images/image008.avif" alt="公司2" loading="lazy" class="report-photo"></strong></p>
+<p><strong><img src="../../assets/community-source/entrepreneurship/images/image008.avif" alt="公司2" loading="lazy" class="report-photo"></strong></p>
 
 <p><strong>Figure 8. Industry exchange with AWON (Shandong) Medical Technology Co., Ltd., exploring medical-product manufacturing and production operations.</strong></p>
 
@@ -129,11 +133,11 @@ This is our proposed decision framework for iDEC. It guides future evaluation an
 
 <p>This patient feedback came from one representative respondent (n=1) and counts as a directional early signal; it cannot represent the attitudes of all high-risk patient groups. We plan to run larger-scale user interviews and surveys to validate acceptability across ages, geographies, and disease severities.</p>
 
-<p><img src="https://static.igem.wiki/teams/6079/wiki/entrepreneurship/images/image009.avif" loading="lazy" class="report-photo" alt="Illustration from the original entrepreneurship report"></p>
+<p><img src="../../assets/community-source/entrepreneurship/images/image009.avif" loading="lazy" class="report-photo" alt="Illustration from the original entrepreneurship report"></p>
 
 <p><b>Figure </b><b>9</b><b> </b><b>.</b><b>Hospital site visit.</b></p>
 
-<p><img src="https://static.igem.wiki/teams/6079/wiki/entrepreneurship/images/image010.avif" loading="lazy" class="report-photo" alt="Illustration from the original entrepreneurship report"></p>
+<p><img src="../../assets/community-source/entrepreneurship/images/image010.avif" loading="lazy" class="report-photo" alt="Illustration from the original entrepreneurship report"></p>
 
 <p><b>Figure </b><b>10</b><b> </b><b>.</b><b> Discussing with practicing physicians.</b></p>
 
@@ -149,11 +153,11 @@ This is our proposed decision framework for iDEC. It guides future evaluation an
 
 <p>None of these rejections was a matter of theoretical preference; each was a decision based on interview evidence. We would rather give up a solution that “looks better” and choose one that the front line can truly afford and actually use.</p>
 
-<p><img src="https://static.igem.wiki/teams/6079/wiki/entrepreneurship/images/image011.avif" alt="兰大医院检验室" loading="lazy" class="report-photo"></p>
+<p><img src="../../assets/community-source/entrepreneurship/images/image011.avif" alt="兰大医院检验室" loading="lazy" class="report-photo"></p>
 
 <p><b>Figure 11. Clinical laboratory of a tertiary hospital: large automated analyzers (e.g., Beckman Coulter DxI 5000), illustrating the instrument dependence of conventional diagnostics.</b></p>
 
-<p><b><img src="https://static.igem.wiki/teams/6079/wiki/entrepreneurship/images/image012.avif" alt="微信图片_20260922224940_309_11" loading="lazy" class="report-photo"></b></p>
+<p><b><img src="../../assets/community-source/entrepreneurship/images/image012.avif" alt="微信图片_20260922224940_309_11" loading="lazy" class="report-photo"></b></p>
 
 <p><b>Figure </b><b>12</b><b> </b><b>.</b><b> Laboratory of a primary-care facility: only small routine instruments and no pathogen-identification capability, supporting our finding that primary care lacks specialized testing, where blind antibiotic use reaches 51%.</b></p>
 
@@ -209,7 +213,7 @@ This is our proposed decision framework for iDEC. It guides future evaluation an
 
 <p>• <b>No theranostic product exists — a substantial gap in the market. </b>Multiple academic laboratories have reported proof-of-concept prototypes for engineered-probiotic theranostics in published papers, but none have completed systematic pre-clinical verification, registration transformation, and formal commercial launch, so finished market-available products remain absent. The intestinal infection market lacks any product that integrates detection, treatment decision-making, and follow-up.</p>
 
-<p><img src="https://static.igem.wiki/teams/6079/wiki/entrepreneurship/images/image013.avif" loading="lazy" class="report-photo" alt="Illustration from the original entrepreneurship report"></p>
+<p><img src="../../assets/community-source/entrepreneurship/images/image013.avif" loading="lazy" class="report-photo" alt="Illustration from the original entrepreneurship report"></p>
 
 <p><b>Figure </b><b>13</b><b> </b><b>.</b><b> The burden of intestinal infection across the care pathway.</b></p>
 
@@ -241,13 +245,13 @@ This is our proposed decision framework for iDEC. It guides future evaluation an
 
 <p>Enteric pathogens achieve quorum sensing by secreting and sensing small signalling molecules. Once cell density passes a threshold, they switch on virulence gene expression and biofilm formation in concert, then breach the intestinal barrier and establish infection. Conventional diagnostics engage only after this point, when the optimal window for intervention has usually closed. The core logic of this project is to target the quorum-sensing signal itself: to identify infection risk 24 to 48 hours before clinical symptoms appear and to trigger diagnosis and treatment in the same moment — detection becomes intervention.</p>
 
-<p><img src="https://static.igem.wiki/teams/6079/wiki/entrepreneurship/images/image014.avif" loading="lazy" class="report-photo" alt="Illustration from the original entrepreneurship report"></p>
+<p><img src="../../assets/community-source/entrepreneurship/images/image014.avif" loading="lazy" class="report-photo" alt="Illustration from the original entrepreneurship report"></p>
 
 <p><b>Figure </b><b>14.</b><b> Host–microbiota interaction in intestinal disease.</b></p>
 
 <p>It is worth clarifying that this advance-detection effect is conditional: the engineered probiotic can work only after target pathogens proliferate to a certain population threshold and secrete detectable QS signal molecules. When pathogens exist in extremely low quantities without releasing enough signalling molecules, our system cannot generate effective activation signals — just like other QS-based detection strategies.</p>
 
-<p><img src="https://static.igem.wiki/teams/6079/wiki/entrepreneurship/images/image015.avif" loading="lazy" class="report-photo" alt="Illustration from the original entrepreneurship report"></p>
+<p><img src="../../assets/community-source/entrepreneurship/images/image015.avif" loading="lazy" class="report-photo" alt="Illustration from the original entrepreneurship report"></p>
 
 <p><b>Figure </b><b>15.</b><b> Bacterial quorum sensing and biofilm formation.</b></p>
 
@@ -257,7 +261,7 @@ This is our proposed decision framework for iDEC. It guides future evaluation an
 
 ### 1.4 Our Approach: Why Synthetic Biology, Why Us { #_Toc30458 }
 
-<p><img src="https://static.igem.wiki/teams/6079/wiki/entrepreneurship/images/image016.avif" loading="lazy" class="report-photo" alt="Illustration from the original entrepreneurship report"></p>
+<p><img src="../../assets/community-source/entrepreneurship/images/image016.avif" loading="lazy" class="report-photo" alt="Illustration from the original entrepreneurship report"></p>
 
 <p><b>Figure </b><b>16.</b><b> Dual-input AND logic: one signal is not enough.</b></p>
 
@@ -347,7 +351,7 @@ This is our proposed decision framework for iDEC. It guides future evaluation an
 
 <p>The gut is one of the largest micro-ecological environments in the human body and a major barrier against external pathogens. When the intestinal barrier is intact and the microbiota is stable, commensal bacteria suppress the colonization and expansion of opportunistic pathogens through nutritional competition, niche occupation and multiple antagonistic mechanisms. However, under severe infection, major surgery, shock, intestinal barrier injury, or prolonged exposure to broad-spectrum antimicrobials, the gut microbiota can be markedly perturbed: colonization resistance declines, pathogens and opportunistic bacteria gain room to expand, and they may breach the compromised mucosal barrier, triggering local infection or even systemic inflammatory responses (SIRS → sepsis → MODS). Children under 5 years and adults over 65 years are the highest-risk groups. The central question of infection management is therefore shifting from "how to kill pathogens" toward "how to identify the infection-associated state more accurately while minimizing disturbance to the normal microbiota"; the earlier infection is recognized, the wider the window for intervention.</p>
 
-<p><img src="https://static.igem.wiki/teams/6079/wiki/entrepreneurship/images/image017.avif" loading="lazy" class="report-photo" alt="Illustration from the original entrepreneurship report"></p>
+<p><img src="../../assets/community-source/entrepreneurship/images/image017.avif" loading="lazy" class="report-photo" alt="Illustration from the original entrepreneurship report"></p>
 
 <p><b>Figure</b><b> 17. </b><b>Intestinal homeostasis versus dysbiosis: ANG-mediated control of gut microbiota and susceptibility to inflammatory bowel disease, illustrating how loss of microbial balance predisposes to disease.</b></p>
 
@@ -371,7 +375,7 @@ This is our proposed decision framework for iDEC. It guides future evaluation an
 
 <p>AI-2 is a signal molecule of quorum-sensing systems in many bacteria, linked to population density and population-level behavior. When pathogens proliferate to high density, intestinal AI-2 rises and can serve as an input reflecting high-density microbial activity / pathogen proliferation; our chassis Escherichia coli Nissle 1917 (EcN) natively carries AI-2 sensing components (LsrACDB / LsrK / LsrR). Yet AI-2 is not an infection-specific switch — the normal gut microbiota also produces AI-2. AI-2 ≠ infection-specific.</p>
 
-<p><img src="https://static.igem.wiki/teams/6079/wiki/entrepreneurship/images/image018.avif" loading="lazy" class="report-photo" alt="Illustration from the original entrepreneurship report"></p>
+<p><img src="../../assets/community-source/entrepreneurship/images/image018.avif" loading="lazy" class="report-photo" alt="Illustration from the original entrepreneurship report"></p>
 
 <p><b>Figure</b><b> 18.</b><b> General mechanisms of bacterial quorum sensing: (a) AHL-mediated; (b) AIP-mediated; (c) cell-density-dependent AI-2 signalling via the LuxPQ–LuxU/O–sRNAs pathway. GutSentry detects AI-2 through the endogenous LsrACDB/LsrR system of EcN.</b></p>
 
@@ -431,7 +435,7 @@ This is our proposed decision framework for iDEC. It guides future evaluation an
 
 <p>• What: An oral intelligent live biotherapeutic — an enteric-coated capsule loaded with lyophilized engineered bacteria, paired with an ex-vivo fecal colorimetric test card — realizing the five-in-one theranostic loop of in-situ environmental sensing, dual-input logic computation, point-of-care colorimetric diagnosis, targeted in-situ elimination and programmed ex-vivo self-limitation.</p>
 
-<p><img src="https://static.igem.wiki/teams/6079/wiki/entrepreneurship/images/image019.avif" loading="lazy" class="report-photo" alt="Illustration from the original entrepreneurship report"></p>
+<p><img src="../../assets/community-source/entrepreneurship/images/image019.avif" loading="lazy" class="report-photo" alt="Illustration from the original entrepreneurship report"></p>
 
 <p><b>Figure </b><b>19</b><b>. Product overview of GutSentry (product-perspective). A patient takes an enteric-coated oral capsule; engineered EcN is released into the gut and colonizes the intestinal mucosa as a sentinel; AI-2 and tetrathionate feed into an AND logic gate; dual outputs — a point-of-care colorimetric stool readout and targeted local elimination by a narrow-spectrum antimicrobial peptide — are activated, followed by programmed self-lysis once the bacteria leave the gut.</b></p>
 
@@ -471,7 +475,7 @@ This is our proposed decision framework for iDEC. It guides future evaluation an
 
 <p>• Stage 6 Safe exit: once the bacteria are excreted outside the body, the bile-salt concentration falls below the response threshold and the Hok/Sok system triggers programmed lysis, preventing the spread of genetic elements into the environment.</p>
 
-<p><img src="https://static.igem.wiki/teams/6079/wiki/entrepreneurship/images/image020.avif" alt="10" loading="lazy" class="report-photo"></p>
+<p><img src="../../assets/community-source/entrepreneurship/images/image020.avif" alt="10" loading="lazy" class="report-photo"></p>
 
 <p><b>Figure </b><b>20</b><b>. From oral administration to safe elimination: the product lifecycle of GutSentry. Six stages — oral administration, gut residence, continuous surveillance, logical decision, dual response (diagnosis + therapy), and biocontainment.</b></p>
 
@@ -605,13 +609,13 @@ This is our proposed decision framework for iDEC. It guides future evaluation an
 
 <p>The global intestinal infection diagnostics and therapeutics market has grown steadily in recent years. A QYResearch report published in March 2025 puts global sales of bacterial intestinal disease detection at USD 3.239 billion in 2024, projected to reach USD 4.162 billion by 2031, a compound annual growth rate (CAGR) of about 3.7% (Fig. 18). Data from Bain &amp; Company consulting indicate that the global intestinal infection diagnostics market was about USD 1.95 billion in 2023, with a 2023–2028 CAGR of about 6.4%. China has one of the highest incidences of intestinal infection worldwide, is growing faster than the global average, and accounted for roughly 20%–25% of the global market in 2024.</p>
 
-<p><img src="https://static.igem.wiki/teams/6079/wiki/entrepreneurship/images/image021.avif" loading="lazy" class="report-photo" alt="Illustration from the original entrepreneurship report"></p>
+<p><img src="../../assets/community-source/entrepreneurship/images/image021.avif" loading="lazy" class="report-photo" alt="Illustration from the original entrepreneurship report"></p>
 
 <p><b>Figure</b><b> 21</b><b>. Global bacterial intestinal disease detection market size (2024–2031). Sales of approximately USD 3.239 billion in 2024, projected to reach USD 4.162 billion by 2031, CAGR of about 3.7% (Source: QYResearch, March 2025).</b></p>
 
 <p>By product structure, colloidal-gold rapid test reagents account for about 60% of the diagnostic segment, PCR reagents about 30%, and other assays about 10%; on the therapeutic side, broad-spectrum antibiotics dominate (about 90%), with probiotics and other microbiome products at about 10% (Fig.22). Integrated diagnostic-therapeutic engineered probiotics represent a wholly new segment with no mature commercial product worldwide — a significant market gap.</p>
 
-<p><img src="https://static.igem.wiki/teams/6079/wiki/entrepreneurship/images/image022.avif" loading="lazy" class="report-photo" alt="Illustration from the original entrepreneurship report"></p>
+<p><img src="../../assets/community-source/entrepreneurship/images/image022.avif" loading="lazy" class="report-photo" alt="Illustration from the original entrepreneurship report"></p>
 
 <p><b>Figure</b><b> 22. </b><b>Product structure of the intestinal infection diagnostics and therapeutics market. Diagnostics: colloidal-gold rapid tests about 60%, PCR about 30%, others about 10%; therapeutics: antibiotics about 90%, probiotics and other microbiome products about 10% (Source: team estimates based on QYResearch and Bain &amp; Company data).</b></p>
 
@@ -675,7 +679,7 @@ This is our proposed decision framework for iDEC. It guides future evaluation an
 
 <p>This yields the initial segmentation funnel (Fig. 23): intestinal infection → bacterial intestinal infection → target pathogen group → high-risk populations requiring rapid diagnosis and precision intervention → first launch population. Subsequent SAM and SOM estimates are based on this launch population rather than on all intestinal infection cases.</p>
 
-<p><img src="https://static.igem.wiki/teams/6079/wiki/entrepreneurship/images/image023.avif" loading="lazy" class="report-photo" alt="Illustration from the original entrepreneurship report"></p>
+<p><img src="../../assets/community-source/entrepreneurship/images/image023.avif" loading="lazy" class="report-photo" alt="Illustration from the original entrepreneurship report"></p>
 
 <p><b>Figure</b><b> 23</b><b>. Market segmentation funnel from all intestinal infection cases to the first launch population. Levels: intestinal infection → bacterial intestinal infection → GutSentry-addressable pathogens → high-need patients requiring rapid diagnosis and precision intervention → first launch population (beachhead market). Population figures are team estimates, to be calibrated with epidemiological and procurement data.</b></p>
 
@@ -803,7 +807,7 @@ This is our proposed decision framework for iDEC. It guides future evaluation an
 
 <p>On the two dimensions of “whether treatment is simultaneously provided” and “whether sensing is continuous”, most existing solutions fall into the “diagnosis-only” or “treatment-only” quadrants, while GutSentry sits in the “continuous sensing + autonomous intervention” quadrant (Fig. 24) — a position not covered by any of the four categories of alternatives. It should be noted that these capabilities are product design objectives to be progressively validated by experiments and clinical evidence, and are not presented as verified commercial facts.</p>
 
-<p><img src="https://static.igem.wiki/teams/6079/wiki/entrepreneurship/images/image024.avif" loading="lazy" class="report-photo" alt="Illustration from the original entrepreneurship report"></p>
+<p><img src="../../assets/community-source/entrepreneurship/images/image024.avif" loading="lazy" class="report-photo" alt="Illustration from the original entrepreneurship report"></p>
 
 <p><b>Figure</b><b> 24</b><b>. Competitive positioning map: diagnostic continuity (x-axis, from single-point testing to continuous in-situ sensing) versus functional integration (y-axis, from diagnosis-only or treatment-only to integrated diagnosis and intervention). Conventional alternatives cluster in the diagnosis-only or treatment-only quadrants, whereas GutSentry occupies the continuous-sensing-and-autonomous-intervention quadrant. Positions reflect product-design objectives to be validated by experimental and clinical evidence.</b></p>
 
@@ -819,7 +823,7 @@ This is our proposed decision framework for iDEC. It guides future evaluation an
 <table> <tr> <td> <p><b>Option</b></p> </td> <td> <p><b>Detection/intervention cycle</b></p> </td> <td> <p><b>Per-use cost</b></p> </td> <td> <p><b>Instrument dependence</b></p> </td> <td> <p><b>Additional impact</b></p> </td> </tr> <tr> <td> <p>Stool culture</p> </td> <td> <p>48–72 hours</p> </td> <td> <p>About RMB 50–100 [estimate]</p> </td> <td> <p>Culture equipment and trained personnel required</p> </td> <td> <p>Diagnosis and treatment separated; reliance on empirical prescribing while waiting</p> </td> </tr> <tr> <td> <p>PCR</p> </td> <td> <p>1–2 hours</p> </td> <td> <p>RMB 100–200</p> </td> <td> <p>Dedicated instruments and laboratory conditions required</p> </td> <td> <p>Inaccessible in primary care; cannot distinguish live/dead bacteria</p> </td> </tr> <tr> <td> <p>Colloidal-gold rapid test</p> </td> <td> <p>15–20 minutes</p> </td> <td> <p>RMB 10–30 [estimate]</p> </td> <td> <p>No instruments required</p> </td> <td> <p>Single pathogen only; low sensitivity</p> </td> </tr> <tr> <td> <p>Empirical broad-spectrum antibiotics</p> </td> <td> <p>Immediate prescribing</p> </td> <td> <p>Depends on course length</p> </td> <td> <p>No equipment required</p> </td> <td> <p>Empirical prescribing rate as high as 51%; disrupts the microbiota and aggravates resistance</p> </td> </tr> <tr> <td> <p>GutSentry primary-care version</p> </td> <td> <p>Results in 12 hours; detection window advanced 24–48 hours vs. conventional methods</p> </td> <td> <p>Production cost about RMB 10; price RMB 35–45 (concept form, to be validated)</p> </td> <td> <p>Instrument-free, no sample transport</p> </td> <td> <p>Integrated: simultaneous colorimetric diagnosis and narrow-spectrum antimicrobial intervention, reducing empirical prescribing</p> </td> </tr> </table>
 </div>
 
-<p><img src="https://static.igem.wiki/teams/6079/wiki/entrepreneurship/images/image025.avif" loading="lazy" class="report-photo" alt="Illustration from the original entrepreneurship report"></p>
+<p><img src="../../assets/community-source/entrepreneurship/images/image025.avif" loading="lazy" class="report-photo" alt="Illustration from the original entrepreneurship report"></p>
 
 <p><b>Figure</b><b> 25</b><b>. Per-use cost comparison: alternative pathways vs. the GutSentry primary-care version (labels inside the figure are in English). Stool culture RMB 50–100, PCR RMB 100–200, colloidal-gold rapid test RMB 10–30; GutSentry RMB 35–45 (production cost ≈ RMB 10, concept form, to be validated), matching rapid-test price while integrating diagnosis with local intervention. Alternative-pathway costs are industry estimate ranges referenced to public market prices.</b></p>
 
@@ -959,7 +963,7 @@ This is our proposed decision framework for iDEC. It guides future evaluation an
 
 <p>Figure 12 compares unit production cost with market price across the three product versions. The price-to-cost ratio supports the value-for-money proposition while leaving headroom for tiered discounts under centralised procurement.</p>
 
-<p><img src="https://static.igem.wiki/teams/6079/wiki/entrepreneurship/images/image026.avif" loading="lazy" class="report-photo" alt="Illustration from the original entrepreneurship report"></p>
+<p><img src="../../assets/community-source/entrepreneurship/images/image026.avif" loading="lazy" class="report-photo" alt="Illustration from the original entrepreneurship report"></p>
 
 <p><b>Figure</b><b> 26</b><b>. Unit production cost and market price by product version (concept form, to be validated). Production cost: primary-care RMB 10, clinical RMB 40, home RMB 8 per test; market price ranges: RMB 35–45, 160–180 and 25–35 per test. Source: team product-design scope.</b></p>
 
@@ -983,7 +987,7 @@ This is our proposed decision framework for iDEC. It guides future evaluation an
 
 ### 5.5 Competitive Landscape: Porter’s Five Forces { #_Toc4241 }
 
-<p>A five-force analysis summarises the competitive environment (Figure 27).<img src="https://static.igem.wiki/teams/6079/wiki/entrepreneurship/images/image027.avif" loading="lazy" class="report-photo" alt="Illustration from the original entrepreneurship report"></p>
+<p>A five-force analysis summarises the competitive environment (Figure 27).<img src="../../assets/community-source/entrepreneurship/images/image027.avif" loading="lazy" class="report-photo" alt="Illustration from the original entrepreneurship report"></p>
 
 <p><b>Figure</b><b> 27</b><b>. Porter’s Five Forces analysis for the GutSentry primary-care segment. Supplier power: weak — ample supply, mature processes, low dependence on any single supplier. Buyer power: moderate — centralised procurement negotiates hard while retail buyers have little leverage. Threat of new entrants: low — high technical, financial and regulatory barriers. Threat of substitutes: weak but to be monitored — conventional reagents and antibiotics cannot meet early, precise, antibiotic-free care. Intensity of existing rivalry: low today, rising — no theranostic engineered probiotic is on the market, and more entrants are expected as the industry develops.</b></p>
 
@@ -1085,7 +1089,7 @@ This is our proposed decision framework for iDEC. It guides future evaluation an
 
 <p>Risks rated critical or high are the focus of management and resource allocation: one critical risk (R4.1 unclear regulatory standards) and nine high risks (R1.1, R1.2, R2.2, R2.3, R2.4, R3.2, R4.2, R5.1, R5.2). The risk distribution is visualised in Fig. 28.</p>
 
-<p><img src="https://static.igem.wiki/teams/6079/wiki/entrepreneurship/images/image028.avif" alt="16" loading="lazy" class="report-photo"></p>
+<p><img src="../../assets/community-source/entrepreneurship/images/image028.avif" alt="16" loading="lazy" class="report-photo"></p>
 
 <p>Figure 28. Risk matrix: likelihood (x-axis, low to high) versus impact (y-axis, low to high), with five-level colour bands indicating priority zones and the 15 identified risks (R1.1–R5.3) plotted. R4.1 (unclear regulatory standards) is highlighted in the upper-right high-priority zone. Ratings are team assessments to be updated with R&amp;D and pilot data.</p>
 
@@ -1173,7 +1177,7 @@ This is our proposed decision framework for iDEC. It guides future evaluation an
 
 <p>• Stage 4 — Commercial de-risking: prove whether the venture can scale sustainably. Manufacturing validation, unit-economics review, supplier diversification and distribution partnerships — answering “can it be delivered consistently at affordable cost”.</p>
 
-<p><img src="https://static.igem.wiki/teams/6079/wiki/entrepreneurship/images/image029.avif" alt="17" loading="lazy" class="report-photo"></p>
+<p><img src="../../assets/community-source/entrepreneurship/images/image029.avif" alt="17" loading="lazy" class="report-photo"></p>
 
 <p><b>Figure</b><b> 29</b><b>. De-risking roadmap: technical de-risking → clinical de-risking → regulatory de-risking → commercial de-risking. Each stage targets the largest remaining uncertainty before further capital deployment: technology reliability, real-gut effectiveness, regulatory pathway feasibility, and sustainable scaling.</b></p>
 
@@ -1289,7 +1293,7 @@ This is our proposed decision framework for iDEC. It guides future evaluation an
 
 <p>• 2030 (scaled commercialisation): primary care 300 × 400 units/month; clinical 120 × 300 units/month; home 450,000 units.</p>
 
-<p><img src="https://static.igem.wiki/teams/6079/wiki/entrepreneurship/images/image030.avif" loading="lazy" class="report-photo" alt="Illustration from the original entrepreneurship report"></p>
+<p><img src="../../assets/community-source/entrepreneurship/images/image030.avif" loading="lazy" class="report-photo" alt="Illustration from the original entrepreneurship report"></p>
 
 <p><b>Figure</b><b> 30</b><b>. Five-year product revenue forecast (2026–2030, total of the primary-care, clinical and home versions). RMB 0.948 million in 2026, rising to RMB 144.54 million (≈ RMB 145 million) in 2030. Source: team baseline financial model.</b></p>
 
@@ -1615,8 +1619,8 @@ This is our proposed decision framework for iDEC. It guides future evaluation an
 
 ## Chinese Business Plan { #_TocBusinessPlanCn }
 
-[Open original PDF](https://static.igem.wiki/teams/6079/wiki/entrepreneurship/pdf/business-plan-cn.pdf) · [Download PDF](https://static.igem.wiki/teams/6079/wiki/entrepreneurship/pdf/business-plan-cn.pdf){ download }
+[Open original PDF](../assets/community-source/entrepreneurship/pdf/business-plan-cn.pdf) · [Download PDF](../assets/community-source/entrepreneurship/pdf/business-plan-cn.pdf){ download }
 
 ## English Business Plan { #_TocBusinessPlanEn }
 
-[Open original PDF](https://static.igem.wiki/teams/6079/wiki/entrepreneurship/pdf/business-plan-en.pdf) · [Download PDF](https://static.igem.wiki/teams/6079/wiki/entrepreneurship/pdf/business-plan-en.pdf){ download }
+[Open original PDF](../assets/community-source/entrepreneurship/pdf/business-plan-en.pdf) · [Download PDF](../assets/community-source/entrepreneurship/pdf/business-plan-en.pdf){ download }

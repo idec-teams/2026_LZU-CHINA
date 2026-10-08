@@ -25,7 +25,7 @@ Our programme connects children, school students, university peers and community
 | Engage | What do I think about it? | Questions, quick voting, discussion and feedback |
 | Connect | How can I keep learning or share it? | Reusable materials, multilingual leaflets and peer exchange |
 
-<div class="photo-pair"><figure><img src="https://static.igem.wiki/teams/6079/wiki/education/images/image15.avif" alt="Petri-dish micro-world activity from the education record" loading="lazy"><figcaption>Explore: a hands-on entry point into unfamiliar ideas.</figcaption></figure><figure><img src="https://static.igem.wiki/teams/6079/wiki/education/images/image30.avif" alt="School outreach at Lanzhou No. 1 High School" loading="lazy"><figcaption>Understand: connect explanations with learners’ questions.</figcaption></figure></div>
+<div class="photo-pair"><figure><img src="../../assets/community-source/education/images/image15.avif" alt="Petri-dish micro-world activity from the education record" loading="lazy"><figcaption>Explore: a hands-on entry point into unfamiliar ideas.</figcaption></figure><figure><img src="../../assets/community-source/education/images/image30.avif" alt="School outreach at Lanzhou No. 1 High School" loading="lazy"><figcaption>Understand: connect explanations with learners’ questions.</figcaption></figure></div>
 
 ## What the programme records
 

@@ -76,6 +76,7 @@ nav:
       - Open library: library/index.md
       - Methods: documentation/protocols.md
       - Engineering index: documentation/notebook.md
+      - Retrospective journal: documentation/diary.md
       - Responsible research: responsible-research.md
       - Data and references: resources.md
       - Complete activity records:

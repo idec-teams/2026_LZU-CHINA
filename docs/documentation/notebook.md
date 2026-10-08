@@ -24,6 +24,8 @@ The Engineering document presents eleven Design–Build–Test–Learn cycles. T
 
 ## Record linking for the final wiki
 
+The [retrospective research journal](diary.md) expands these entries into source-based summaries, interpretation limits and missing-record checks. It is an editorial draft, not a dated laboratory notebook.
+
 iDEC asks teams to make experimental progress traceable to report figures and records. The supplied documents allow the following figure links:
 
 | Manuscript figure | Related record on this wiki |

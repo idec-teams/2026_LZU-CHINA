@@ -44,7 +44,7 @@ body { font-family: Inter, "Segoe UI", system-ui, -apple-system, sans-serif; }
   *, *::before, *::after { scroll-behavior: auto !important; transition-duration: .01ms !important; }
 }
 
-/* Human Practices activity photographs retain their full frame. */
+/* Community activity photographs retain their full frame. */
 .md-typeset img.hp-photo { display: block; max-height: 640px; width: auto; max-width: 100%; margin: 1.25rem auto .7rem; border-radius: 10px; border: 1px solid #dce7e9; }
 .hp-gallery { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: .75rem; margin: 1.2rem 0 .6rem; align-items: start; }
 .hp-gallery img { width: 100%; height: auto; border-radius: 10px; border: 1px solid #dce7e9; }

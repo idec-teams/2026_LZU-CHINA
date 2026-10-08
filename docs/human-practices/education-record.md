@@ -4,6 +4,10 @@ eyebrow: Community archive · Full record
 
 # Education: the complete activity record
 
+!!! note "Historical activity record"
+    This archive preserves earlier LZU-CHINA activities and original photographs. Event branding in the source material does not establish that an activity was organised by iDEC or that a partner was an iDEC team.
+
+
 Our education programme connects children, school students, university peers and community residents through hands-on activities, dialogue and reusable learning materials. **Explore → Understand → Engage → Connect** provides a route through the full activity record below.
 
 For iDEC, we connect this community experience with a central question: how should a useful improvement be defined, measured and explained? The activities below document our outreach and exchanges; the closing section develops their relevance to directed-evolution education and responsible research.
@@ -92,7 +96,7 @@ Accessibility, Participation, and Sustainability.
 
 ### 3 Investigating Educational Equity in Gansu
 
-![3 Investigating Educational Equity in Gansu — Image 1](https://static.igem.wiki/teams/6079/wiki/education/images/image1.avif){ loading=lazy .hp-photo }
+![3 Investigating Educational Equity in Gansu — Image 1](../assets/community-source/education/images/image1.avif){ loading=lazy .hp-photo }
 
 #### From Regional Context to Educational Evidence
 
@@ -108,7 +112,7 @@ To explore this question, we conducted an education-equity investigation togethe
 
 Our investigation used online questionnaires supplemented by offline distribution. A total of **168 questionnaires were distributed, of which 140 valid responses were collected**. We also conducted conversations and interviews with **11 teachers, students, and parents** from urban, county, township, and remote rural settings. Participants included people from Tibetan, Hui, and Dongxiang communities. **This education-equity needs assessment was separate from the participant-feedback questionnaire used to evaluate our Inclusivity activities; the two surveys served different purposes and involved different participant groups.**
 
-![How We Listened — Image 2](https://static.igem.wiki/teams/6079/wiki/education/images/image2.avif){ loading=lazy .hp-photo }
+![How We Listened — Image 2](../assets/community-source/education/images/image2.avif){ loading=lazy .hp-photo }
 
 The questionnaire examined several dimensions of educational equity, including hardware and digital resources, teacher distribution, STEM education, opportunities for further education, family educational resources, ethnic and linguistic inclusion, and expectations for public-interest educational projects.
 
@@ -124,11 +128,11 @@ One of the clearest concerns was **access to STEM and scientific practice**.
 
 Only 12.86% of respondents considered urban and rural opportunities for scientific experiments, innovation activities, and popular-science education to be basically equal. In contrast, 61.43% perceived a small gap, 20.71% perceived a clear gap, and 5.00% perceived an extreme disparity. In other words, **87.14% of respondents perceived some degree of difference in access to STEM education**.
 
-![What We Found — Image 3](https://static.igem.wiki/teams/6079/wiki/education/images/image3.avif){ loading=lazy .hp-photo }
+![What We Found — Image 3](../assets/community-source/education/images/image3.avif){ loading=lazy .hp-photo }
 
 When participants were asked how grassroots STEM education could be improved, the most frequently supported approach was the development of **low-cost and adaptable rural STEM courses and experimental kits (83.57%)**. **60.00%** also supported university student research teams providing public science education, while **51.43%** supported integrating inclusive STEM education into after-school programmes. Digital access revealed a similar pattern. Participants did not focus only on whether schools possessed equipment. They also raised the question of whether useful, high-quality educational content could actually reach learners. In responses concerning digital and hardware inequality, **77.14% supported a public online resource platform for sharing high-quality courses**, while **40.71% supported the development of bilingual digital resources adapted to ethnic-region educational needs**.
 
-![What We Found — Image 4](https://static.igem.wiki/teams/6079/wiki/education/images/image4.avif){ loading=lazy .hp-photo }
+![What We Found — Image 4](../assets/community-source/education/images/image4.avif){ loading=lazy .hp-photo }
 
 These responses suggested an important distinction:
 
@@ -233,9 +237,9 @@ Rather than asking people to adapt to the way we explained science, we tried to 
 
 Our education programme grew from the same clinical and scientific setting as our project. In hospital laboratories, team members worked on an engineered Escherichia coli Nissle 1917 system designed to recognise pathogen-associated quorum-sensing signals, provide a visible indication of infection risk and express antimicrobial components in situ. This work showed us which ideas needed careful explanation before a public audience could evaluate the project: the difference between beneficial and pathogenic microorganisms, the role of bacterial signalling, the meaning of biological sensing and response, and the limits separating an experimental design from a clinical product.
 
-![Listen First, Educate Second — Image 5](https://static.igem.wiki/teams/6079/wiki/education/images/image5.avif){ loading=lazy .hp-photo }
+![Listen First, Educate Second — Image 5](../assets/community-source/education/images/image5.avif){ loading=lazy .hp-photo }
 
-![Listen First, Educate Second — Image 6](https://static.igem.wiki/teams/6079/wiki/education/images/image6.avif){ loading=lazy .hp-photo }
+![Listen First, Educate Second — Image 6](../assets/community-source/education/images/image6.avif){ loading=lazy .hp-photo }
 
 #### Questionnaires and Conversations in the Hospital
 
@@ -245,9 +249,9 @@ We used these responses to decide what later educational sessions needed to expl
 
 Activities conducted in clinical settings or involving minors were carried out with appropriate supervision and attention to privacy. Educational discussions remained separate from individual medical advice, and identifying information is not reproduced in material prepared for public display.
 
-![Questionnaires and Conversations in the Hospital — Image 7](https://static.igem.wiki/teams/6079/wiki/education/images/image7.avif){ loading=lazy .hp-photo }
+![Questionnaires and Conversations in the Hospital — Image 7](../assets/community-source/education/images/image7.avif){ loading=lazy .hp-photo }
 
-![Questionnaires and Conversations in the Hospital — Image 8](https://static.igem.wiki/teams/6079/wiki/education/images/image8.avif){ loading=lazy .hp-photo }
+![Questionnaires and Conversations in the Hospital — Image 8](../assets/community-source/education/images/image8.avif){ loading=lazy .hp-photo }
 
 ## 6 A Layered Education Framework
 
@@ -319,13 +323,13 @@ Our first encounters with children in the hospital began with familiar questions
 
 Their questions often began with colour, shape, movement or an object they could see. These observations were valuable because they showed how children were organising new information. When a child asked why microorganisms on culture plates could appear in different colours and forms, the discussion opened naturally into microbial diversity and the distinction between harmful, harmless and beneficial organisms.
 
-![Science Outreach with Children in the Hospital — Image 9](https://static.igem.wiki/teams/6079/wiki/education/images/image9.avif){ loading=lazy .hp-photo }
+![Science Outreach with Children in the Hospital — Image 9](../assets/community-source/education/images/image9.avif){ loading=lazy .hp-photo }
 
-![Science Outreach with Children in the Hospital — Image 10](https://static.igem.wiki/teams/6079/wiki/education/images/image10.avif){ loading=lazy .hp-photo }
+![Science Outreach with Children in the Hospital — Image 10](../assets/community-source/education/images/image10.avif){ loading=lazy .hp-photo }
 
-![Science Outreach with Children in the Hospital — Image 11](https://static.igem.wiki/teams/6079/wiki/education/images/image11.avif){ loading=lazy .hp-photo }
+![Science Outreach with Children in the Hospital — Image 11](../assets/community-source/education/images/image11.avif){ loading=lazy .hp-photo }
 
-![Science Outreach with Children in the Hospital — Image 12](https://static.igem.wiki/teams/6079/wiki/education/images/image12.avif){ loading=lazy .hp-photo }
+![Science Outreach with Children in the Hospital — Image 12](../assets/community-source/education/images/image12.avif){ loading=lazy .hp-photo }
 
 The hospital setting required particular care in both tone and pace. Some children were immediately curious, while others were cautious or tired. We therefore treated participation as optional and flexible. A child could listen, point to an image, answer a single question, or remain for a longer exchange. This approach allowed the activity to remain educational without turning the clinical environment into a formal classroom.
 
@@ -337,9 +341,9 @@ We then invited children into a supervised laboratory environment. Team members 
 
 This experience also changed our teaching. Early explanations placed too much emphasis on the names of instruments. We revised the sequence to observe, predict, try and explain. Technical sentences became shorter, demonstrations were divided into visible steps, and children were asked to describe what they noticed before a team member supplied the relevant scientific term.
 
-![A Guided Laboratory Experience — Image 13](https://static.igem.wiki/teams/6079/wiki/education/images/image13.avif){ loading=lazy .hp-photo }
+![A Guided Laboratory Experience — Image 13](../assets/community-source/education/images/image13.avif){ loading=lazy .hp-photo }
 
-![A Guided Laboratory Experience — Image 14](https://static.igem.wiki/teams/6079/wiki/education/images/image14.avif){ loading=lazy .hp-photo }
+![A Guided Laboratory Experience — Image 14](../assets/community-source/education/images/image14.avif){ loading=lazy .hp-photo }
 
 Before the laboratory visit, we explained that the children would enter a working scientific environment and that safety rules were part of scientific practice rather than restrictions added to the activity. Team members demonstrated where to stand, what could be touched and why certain materials remained under adult control. This made laboratory safety visible as a form of shared responsibility.
 
@@ -355,11 +359,11 @@ All 48 pupils completed an artwork, and 40 voluntarily explained their design or
 
 Our first explanation relied too heavily on naming laboratory equipment. We therefore revised the child-facing sequence to "observe - imagine - draw - explain", shortened technical sentences, added colour-and-shape prompt cards, and introduced the idea that not all bacteria are harmful before discussing synthetic biology. This change allowed children to build an explanation from their own artwork rather than repeat vocabulary supplied by us.
 
-![Micro World on a Petri Dish — Image 15](https://static.igem.wiki/teams/6079/wiki/education/images/image15.avif){ loading=lazy .hp-photo }
+![Micro World on a Petri Dish — Image 15](../assets/community-source/education/images/image15.avif){ loading=lazy .hp-photo }
 
-![Micro World on a Petri Dish — Image 16](https://static.igem.wiki/teams/6079/wiki/education/images/image16.avif){ loading=lazy .hp-photo }
+![Micro World on a Petri Dish — Image 16](../assets/community-source/education/images/image16.avif){ loading=lazy .hp-photo }
 
-![Micro World on a Petri Dish — Image 17](https://static.igem.wiki/teams/6079/wiki/education/images/image17.avif){ loading=lazy .hp-photo }
+![Micro World on a Petri Dish — Image 17](../assets/community-source/education/images/image17.avif){ loading=lazy .hp-photo }
 
 The Petri-dish drawing activity gave children a way to externalise what they had understood. Their drawings did not function as decorative products added after the explanation; they allowed us to see which ideas had become memorable. Some pupils focused on microbial shapes, some drew imagined laboratory scenes, and others linked microorganisms with the intestine, food or the body.
 
@@ -381,7 +385,7 @@ This activity also reminded us that accessibility is not only a matter of simpli
 
 Across Jiayuguan Road and Baiyin Road subdistricts, we engaged approximately 64 older adults, mainly aged 58-82. The most frequent questions concerned whether probiotics could be taken with other medicines, whether long-term constipation always indicated intestinal disease, and why antibiotics should not be used whenever abdominal discomfort occurred. Participants told us that the health-based starting point made the science feel relevant, but several found dense text and technical diagrams tiring to follow. We therefore replaced text-heavy explanations with larger type, step-by-step pictures, food and medication examples, and a clear distinction between general science education and individual medical advice.
 
-![Making Science Approachable for Older Adults — Image 18](https://static.igem.wiki/teams/6079/wiki/education/images/image18.avif){ loading=lazy .hp-photo }
+![Making Science Approachable for Older Adults — Image 18](../assets/community-source/education/images/image18.avif){ loading=lazy .hp-photo }
 
 ---
 
@@ -393,7 +397,7 @@ We used these experiences to distinguish three questions that are often merged t
 
 The most useful change was to slow the transition from health discussion to synthetic biology. Once participants had described familiar decisions and concerns, we introduced sensing, response and biological control as possible design functions. Questions about interactions with other medicines and long-term safety were recorded for later explanation rather than answered with unsupported certainty.
 
-![Jiayuguan Road Subdistrict — Image 19](https://static.igem.wiki/teams/6079/wiki/education/images/image19.avif){ loading=lazy .hp-photo }
+![Jiayuguan Road Subdistrict — Image 19](../assets/community-source/education/images/image19.avif){ loading=lazy .hp-photo }
 
 ##### Baiyin Road Subdistrict
 
@@ -403,9 +407,9 @@ We therefore used larger visual material, fewer concepts on each page and a repe
 
 These conversations showed that accessibility depends on more than readable text. It also depends on whether participants feel that their questions are legitimate. By allowing time for repetition and inviting family members or caregivers to join the discussion, the activity became less like a lecture and more like a guided health-and-science conversation.
 
-![Baiyin Road Subdistrict — Image 20](https://static.igem.wiki/teams/6079/wiki/education/images/image20.avif){ loading=lazy .hp-photo }
+![Baiyin Road Subdistrict — Image 20](../assets/community-source/education/images/image20.avif){ loading=lazy .hp-photo }
 
-![Baiyin Road Subdistrict — Image 21](https://static.igem.wiki/teams/6079/wiki/education/images/image21.avif){ loading=lazy .hp-photo }
+![Baiyin Road Subdistrict — Image 21](../assets/community-source/education/images/image21.avif){ loading=lazy .hp-photo }
 
 #### Science Through Hands-on Experience
 
@@ -415,9 +419,9 @@ The demonstrations were paired with visual explanations that connected the obser
 
 At Weiyuan Road Subdistrict, 42 residents and family caregivers took part, including people concerned about postoperative recovery, probiotic use, and chronic intestinal discomfort. Using droppers, transparent sample cups, coloured model solutions, observation cards, and a simplified signal-response worksheet, participants compared visible changes, recorded what they observed, and arranged the steps of a biological sensing process. A common question was whether a colour change represented the number of bacteria or the signal produced by them. In response, we added a control example and separated "signal recognition" from "biological response" into two clearly labelled stages.
 
-![Science Through Hands-on Experience — Image 22](https://static.igem.wiki/teams/6079/wiki/education/images/image22.avif){ loading=lazy .hp-photo }
+![Science Through Hands-on Experience — Image 22](../assets/community-source/education/images/image22.avif){ loading=lazy .hp-photo }
 
-![Science Through Hands-on Experience — Image 23](https://static.igem.wiki/teams/6079/wiki/education/images/image23.avif){ loading=lazy .hp-photo }
+![Science Through Hands-on Experience — Image 23](../assets/community-source/education/images/image23.avif){ loading=lazy .hp-photo }
 
 The Weiyuan Road activity was designed around seeing before explaining. Participants first handled safe materials, compared visible changes and wrote or stated what they observed. Only then did facilitators connect the demonstration with the idea that a biological system may receive a signal and produce a response. This ordering made an abstract design principle easier to follow.
 
@@ -474,11 +478,11 @@ We also connected these concepts to real applications in medicine, environmental
 
 Instead of presenting isolated definitions, we organized the content around questions and examples that allowed participants to connect new concepts with knowledge they already possessed.
 
-![Science Outreach at the Medical Campus — Image 24](https://static.igem.wiki/teams/6079/wiki/education/images/image24.avif){ loading=lazy .hp-photo }
+![Science Outreach at the Medical Campus — Image 24](../assets/community-source/education/images/image24.avif){ loading=lazy .hp-photo }
 
-![Science Outreach at the Medical Campus — Image 25](https://static.igem.wiki/teams/6079/wiki/education/images/image25.avif){ loading=lazy .hp-photo }
+![Science Outreach at the Medical Campus — Image 25](../assets/community-source/education/images/image25.avif){ loading=lazy .hp-photo }
 
-![Science Outreach at the Medical Campus — Image 26](https://static.igem.wiki/teams/6079/wiki/education/images/image26.avif){ loading=lazy .hp-photo }
+![Science Outreach at the Medical Campus — Image 26](../assets/community-source/education/images/image26.avif){ loading=lazy .hp-photo }
 
 The Medical Campus booth was organised in layers. A brief explanation introduced our team and the clinical problem; a second layer used a visual pathway to connect pathogen signals with detection and response; and a longer conversation addressed specificity, antimicrobial action, biosafety and the distinction between a research prototype and a clinical product. Participants could therefore enter and leave the activity without being forced into one fixed duration.
 
@@ -496,11 +500,11 @@ At this second campus event, we used an outdoor booth with poster displays, tabl
 
 The outdoor, drop-in format made brevity and visual clarity especially important. It also gave us a second setting in which to observe how location, audience flow, and presentation format shaped the depth and duration of participation.
 
-![Adapting the Outreach Booth for Yuzhong Campus — Image 27](https://static.igem.wiki/teams/6079/wiki/education/images/image27.avif){ loading=lazy .hp-photo }
+![Adapting the Outreach Booth for Yuzhong Campus — Image 27](../assets/community-source/education/images/image27.avif){ loading=lazy .hp-photo }
 
-![Adapting the Outreach Booth for Yuzhong Campus — Image 28](https://static.igem.wiki/teams/6079/wiki/education/images/image28.avif){ loading=lazy .hp-photo }
+![Adapting the Outreach Booth for Yuzhong Campus — Image 28](../assets/community-source/education/images/image28.avif){ loading=lazy .hp-photo }
 
-![Adapting the Outreach Booth for Yuzhong Campus — Image 29](https://static.igem.wiki/teams/6079/wiki/education/images/image29.avif){ loading=lazy .hp-photo }
+![Adapting the Outreach Booth for Yuzhong Campus — Image 29](../assets/community-source/education/images/image29.avif){ loading=lazy .hp-photo }
 
 Compared with the Medical Campus booth, the outdoor setting produced a larger and faster-moving audience. We therefore used a three-level explanation structure: a thirty-second project summary, a three-minute visual introduction, and a longer mechanism discussion for participants who wished to continue.
 
@@ -522,9 +526,9 @@ At Lanzhou No. 1 High School, we used knowledge already familiar from senior-sec
 
 Questions concentrated on specificity and control: how the engineered bacterium would distinguish one signal from another, what would happen if the signal were weak and how growth could be limited. The session showed us that strong subject knowledge does not remove the need for careful explanation; it changes the level at which the explanation should begin.
 
-![Lanzhou No 1 High School — Image 30](https://static.igem.wiki/teams/6079/wiki/education/images/image30.avif){ loading=lazy .hp-photo }
+![Lanzhou No 1 High School — Image 30](../assets/community-source/education/images/image30.avif){ loading=lazy .hp-photo }
 
-![Lanzhou No 1 High School — Image 31](https://static.igem.wiki/teams/6079/wiki/education/images/image31.avif){ loading=lazy .hp-photo }
+![Lanzhou No 1 High School — Image 31](../assets/community-source/education/images/image31.avif){ loading=lazy .hp-photo }
 
 ##### Xianyang Experimental Middle School
 
@@ -532,11 +536,11 @@ At Xianyang Experimental Middle School, we placed greater emphasis on the transi
 
 Students responded particularly well to questions that asked them to make a design choice. When asked where a visible indication should appear or what information a safe system would need, they moved from listening to proposing. This encouraged us to preserve a short design challenge in later school sessions.
 
-![Xianyang Experimental Middle School — Image 32](https://static.igem.wiki/teams/6079/wiki/education/images/image32.avif){ loading=lazy .hp-photo }
+![Xianyang Experimental Middle School — Image 32](../assets/community-source/education/images/image32.avif){ loading=lazy .hp-photo }
 
-![Xianyang Experimental Middle School — Image 33](https://static.igem.wiki/teams/6079/wiki/education/images/image33.avif){ loading=lazy .hp-photo }
+![Xianyang Experimental Middle School — Image 33](../assets/community-source/education/images/image33.avif){ loading=lazy .hp-photo }
 
-![Xianyang Experimental Middle School — Image 34](https://static.igem.wiki/teams/6079/wiki/education/images/image34.avif){ loading=lazy .hp-photo }
+![Xianyang Experimental Middle School — Image 34](../assets/community-source/education/images/image34.avif){ loading=lazy .hp-photo }
 
 ##### The High School Affiliated to Central China Normal University
 
@@ -544,11 +548,11 @@ At the High School Affiliated to Central China Normal University in Wuhan, the l
 
 The students asked how researchers decide whether an unexpected result comes from the biological design or the experimental conditions. Their questions allowed us to discuss controls, reproducibility and the difference between a plausible mechanism and demonstrated performance. This session expanded the programme beyond project introduction into a more explicit account of how research reasoning works.
 
-![The High School Affiliated to Central China Normal University — Image 35](https://static.igem.wiki/teams/6079/wiki/education/images/image35.avif){ loading=lazy .hp-photo }
+![The High School Affiliated to Central China Normal University — Image 35](../assets/community-source/education/images/image35.avif){ loading=lazy .hp-photo }
 
-![The High School Affiliated to Central China Normal University — Image 36](https://static.igem.wiki/teams/6079/wiki/education/images/image36.avif){ loading=lazy .hp-photo }
+![The High School Affiliated to Central China Normal University — Image 36](../assets/community-source/education/images/image36.avif){ loading=lazy .hp-photo }
 
-![The High School Affiliated to Central China Normal University — Image 37](https://static.igem.wiki/teams/6079/wiki/education/images/image37.avif){ loading=lazy .hp-photo }
+![The High School Affiliated to Central China Normal University — Image 37](../assets/community-source/education/images/image37.avif){ loading=lazy .hp-photo }
 
 ##### Beihai Middle School
 
@@ -556,9 +560,9 @@ At Beihai Middle School, we used intestinal health as a familiar entry point and
 
 Questions often returned to whether all bacteria are harmful and whether engineered bacteria could change after entering the body. We therefore strengthened the explanation of beneficial microorganisms, biological variation and containment. The session demonstrated why public understanding of the chassis organism must come before a detailed account of the genetic circuit.
 
-![Beihai Middle School — Image 38](https://static.igem.wiki/teams/6079/wiki/education/images/image38.avif){ loading=lazy .hp-photo }
+![Beihai Middle School — Image 38](../assets/community-source/education/images/image38.avif){ loading=lazy .hp-photo }
 
-![Beihai Middle School — Image 39](https://static.igem.wiki/teams/6079/wiki/education/images/image39.avif){ loading=lazy .hp-photo }
+![Beihai Middle School — Image 39](../assets/community-source/education/images/image39.avif){ loading=lazy .hp-photo }
 
 ##### Liuzhou High School
 
@@ -588,7 +592,7 @@ A typical session combined a short introduction to student research, a problem-b
 
 Students asked whether engineered probiotics could affect beneficial gut bacteria, whether the system could respond to more than one pathogen, and how researchers would prevent uncontrolled growth. Feedback showed that the health problem made the topic relevant, while the distinction between ordinary genetic modification and an engineered biological system remained difficult in early sessions. We therefore added a side-by-side comparison diagram after the Northwest sessions, a dedicated biosafety panel before the South China sessions, and a short design challenge for the two Kunming schools.
 
-![Kunming No 8 High School — Image 40](https://static.igem.wiki/teams/6079/wiki/education/images/image40.avif){ loading=lazy .hp-photo }
+![Kunming No 8 High School — Image 40](../assets/community-source/education/images/image40.avif){ loading=lazy .hp-photo }
 
 #### Learning Through Academic Exchange
 
@@ -600,11 +604,11 @@ Preparing for the competition required us to compress the project into a form th
 
 We recorded these questions and used them to revise both project communication and school-facing material. Explanations of sensing were separated from explanations of response; clinical claims were narrowed; and the difference between a conceptual prototype and a validated medical product was made explicit.
 
-![Learning Through Academic Exchange — Image 41](https://static.igem.wiki/teams/6079/wiki/education/images/image41.avif){ loading=lazy .hp-photo }
+![Learning Through Academic Exchange — Image 41](../assets/community-source/education/images/image41.avif){ loading=lazy .hp-photo }
 
-![Learning Through Academic Exchange — Image 42](https://static.igem.wiki/teams/6079/wiki/education/images/image42.avif){ loading=lazy .hp-photo }
+![Learning Through Academic Exchange — Image 42](../assets/community-source/education/images/image42.avif){ loading=lazy .hp-photo }
 
-![Learning Through Academic Exchange — Image 43](https://static.igem.wiki/teams/6079/wiki/education/images/image43.avif){ loading=lazy .hp-photo }
+![Learning Through Academic Exchange — Image 43](../assets/community-source/education/images/image43.avif){ loading=lazy .hp-photo }
 
 **The First APIC Asia-Pacific Synthetic Biology Exchange Forum.** At the first APIC Asia-Pacific Synthetic Biology Exchange Forum, we introduced our project to a wider regional audience and compared educational approaches with teams working in different biological and social contexts. The forum allowed us to discuss responsible engineering, public understanding, biosafety, and the challenge of translating technical work into material that can be used by schools and communities.
 
@@ -612,29 +616,29 @@ The APIC forum placed our work in a wider Asia-Pacific conversation. Teams appro
 
 This comparison reinforced the importance of making educational resources adaptable. A presentation that works in one institution may rely on examples, prior knowledge or terminology that do not travel easily. We therefore treated the forum as a test of whether the central logic of our project could remain clear outside its original local context.
 
-![Learning Through Academic Exchange — Image 44](https://static.igem.wiki/teams/6079/wiki/education/images/image44.avif){ loading=lazy .hp-photo }
+![Learning Through Academic Exchange — Image 44](../assets/community-source/education/images/image44.avif){ loading=lazy .hp-photo }
 
-![Learning Through Academic Exchange — Image 45](https://static.igem.wiki/teams/6079/wiki/education/images/image45.avif){ loading=lazy .hp-photo }
+![Learning Through Academic Exchange — Image 45](../assets/community-source/education/images/image45.avif){ loading=lazy .hp-photo }
 
-![Learning Through Academic Exchange — Image 46](https://static.igem.wiki/teams/6079/wiki/education/images/image46.avif){ loading=lazy .hp-photo }
+![Learning Through Academic Exchange — Image 46](../assets/community-source/education/images/image46.avif){ loading=lazy .hp-photo }
 
-![Learning Through Academic Exchange — Image 47](https://static.igem.wiki/teams/6079/wiki/education/images/image47.avif){ loading=lazy .hp-photo }
+![Learning Through Academic Exchange — Image 47](../assets/community-source/education/images/image47.avif){ loading=lazy .hp-photo }
 
-![Learning Through Academic Exchange — Image 48](https://static.igem.wiki/teams/6079/wiki/education/images/image48.avif){ loading=lazy .hp-photo }
+![Learning Through Academic Exchange — Image 48](../assets/community-source/education/images/image48.avif){ loading=lazy .hp-photo }
 
-**Inter-University Online Exchange Meetings.** We also organized or joined a series of online exchange sessions with other university teams. Instead of delivering one-way project reports, the sessions included short presentations, reciprocal questioning, and focused discussion on experimental design, Human Practices, education, and team management. Sharing draft materials before and after the meetings allowed participants to continue the exchange beyond the live call.
+**Inter-University Online Exchange Meetings.** We also organized or joined a series of online exchange sessions with other university teams. Instead of delivering one-way project reports, the sessions included short presentations, reciprocal questioning, and focused discussion on experimental design, community engagement, education, and team management. Sharing draft materials before and after the meetings allowed participants to continue the exchange beyond the live call.
 
-Online inter-university meetings created a slower and more reciprocal form of exchange. Short presentations were followed by targeted questions on experimental design, Human Practices, educational structure and team organisation. Screenshots and shared slides documented the sessions, while written notes preserved questions that could be reconsidered after the meeting ended.
+Online inter-university meetings created a slower and more reciprocal form of exchange. Short presentations were followed by targeted questions on experimental design, community engagement, educational structure and team organisation. Screenshots and shared slides documented the sessions, while written notes preserved questions that could be reconsidered after the meeting ended.
 
 The online format also reduced geographical barriers. Teams did not need to travel in order to compare materials or continue a discussion. Draft slides, diagrams and activity ideas could be exchanged before or after the meeting, turning a single call into an ongoing process of review and adaptation.
 
 Together, these exchanges showed us that scientific education does not only move from experts to the public. Peer teams also educate one another by exposing assumptions, offering alternative designs, and identifying questions that an individual team may overlook. We used this feedback to strengthen our explanations of biosafety, project limitations, and the connection between technical design and social need.
 
-![Learning Through Academic Exchange — Image 49](https://static.igem.wiki/teams/6079/wiki/education/images/image49.avif){ loading=lazy .hp-photo }
+![Learning Through Academic Exchange — Image 49](../assets/community-source/education/images/image49.avif){ loading=lazy .hp-photo }
 
-![Learning Through Academic Exchange — Image 50](https://static.igem.wiki/teams/6079/wiki/education/images/image50.avif){ loading=lazy .hp-photo }
+![Learning Through Academic Exchange — Image 50](../assets/community-source/education/images/image50.avif){ loading=lazy .hp-photo }
 
-![Learning Through Academic Exchange — Image 51](https://static.igem.wiki/teams/6079/wiki/education/images/image51.avif){ loading=lazy .hp-photo }
+![Learning Through Academic Exchange — Image 51](../assets/community-source/education/images/image51.avif){ loading=lazy .hp-photo }
 
 #### From Gut Health to Synthetic Biology
 
@@ -937,9 +941,9 @@ For this reason, we began to treat every activity not only as an opportunity to 
 
 ---
 
-#### How Educational Dialogue Informed Human Practices
+#### How Educational Dialogue Informed Community Engagement
 
-The dialogue created through education also contributed to our Human Practices work, but the two served different purposes. Education focused on whether people could access the subject, understand the relevant science and participate in discussion. Human Practices followed the implications of what we heard: how concerns about safety, control, clinical boundaries, trust and access should influence the purpose, design and responsible development of the project.
+The dialogue created through education also contributed to our community engagement work, but the two served different purposes. Education focused on whether people could access the subject, understand the relevant science and participate in discussion. Community engagement followed the implications of what we heard: how concerns about safety, control, clinical boundaries, trust and access should influence the purpose, design and responsible development of the project.
 
 We therefore documented not only whether an activity was well received, but also which questions altered our explanations or required wider consideration by the team. Hospital questionnaires moved safety and clinical boundaries earlier in our public material. Community discussions made medication, cost and access more visible. School and university questions exposed gaps in our explanation of specificity, containment and system design. This created a traceable route from engagement to reflection and, where appropriate, to changes in both communication and project thinking.
 
@@ -1006,7 +1010,7 @@ Participants often asked a different set of questions:
 **How would it be controlled?**
 **Would people actually trust it?**
 
-![Participants Taught Us That Safety and Trust Matter as Much as Function — Image 52](https://static.igem.wiki/teams/6079/wiki/education/images/image52.avif){ loading=lazy .hp-photo }
+![Participants Taught Us That Safety and Trust Matter as Much as Function — Image 52](../assets/community-source/education/images/image52.avif){ loading=lazy .hp-photo }
 
 These questions were especially important when discussing engineered microorganisms and applications related to health.
 
@@ -1331,11 +1335,11 @@ The value of these resources lies not only in preserving what we created, but in
 
 Some of the most valuable educational materials produced during our programme were not created by the team, but by the participants themselves. During the “Micro-World on a Petri Dish: Laboratory Equipment Art Challenge,” pupils from the Primary School Affiliated to Lanzhou University transformed familiar pieces of laboratory equipment into spaces for scientific imagination. Petri dishes, glass slides and centrifuge tubes were no longer presented only as objects used by researchers; they became starting points from which children could represent microorganisms, cells, health and laboratory life in their own visual language.
 
-![Preparation, Rehearsal, and Post-Activity Review — Image 53](https://static.igem.wiki/teams/6079/wiki/education/images/image53.avif){ loading=lazy .hp-photo }
+![Preparation, Rehearsal, and Post-Activity Review — Image 53](../assets/community-source/education/images/image53.avif){ loading=lazy .hp-photo }
 
-![Preparation, Rehearsal, and Post-Activity Review — Image 54](https://static.igem.wiki/teams/6079/wiki/education/images/image54.avif){ loading=lazy .hp-photo }
+![Preparation, Rehearsal, and Post-Activity Review — Image 54](../assets/community-source/education/images/image54.avif){ loading=lazy .hp-photo }
 
-![Preparation, Rehearsal, and Post-Activity Review — Image 55](https://static.igem.wiki/teams/6079/wiki/education/images/image55.avif){ loading=lazy .hp-photo }
+![Preparation, Rehearsal, and Post-Activity Review — Image 55](../assets/community-source/education/images/image55.avif){ loading=lazy .hp-photo }
 
 The activity was designed to move children from observation to interpretation. Before beginning their work, the pupils were introduced to basic laboratory equipment and encouraged to consider what might exist in a microscopic world that cannot be seen directly with the unaided eye. Team members answered questions about microorganisms, explained that bacteria are not uniformly harmful and discussed how laboratory tools help researchers observe, separate and study biological materials. The pupils were then invited to develop their own compositions rather than reproduce a standard scientific illustration.
 
@@ -1345,25 +1349,25 @@ We therefore retained and organised the completed works as participant-generated
 
 Selected works are presented here with identifying information removed. Together, they form a visual account of the activity from the pupils’ perspective and complement the photographs of team members teaching or demonstrating. While the activity photographs show what we delivered, the artworks show what the participants chose to notice, reinterpret and create for themselves.
 
-![Preparation, Rehearsal, and Post-Activity Review — Image 56](https://static.igem.wiki/teams/6079/wiki/education/images/image56.avif){ loading=lazy .hp-photo }
+![Preparation, Rehearsal, and Post-Activity Review — Image 56](../assets/community-source/education/images/image56.avif){ loading=lazy .hp-photo }
 
-![Preparation, Rehearsal, and Post-Activity Review — Image 57](https://static.igem.wiki/teams/6079/wiki/education/images/image57.avif){ loading=lazy .hp-photo }
+![Preparation, Rehearsal, and Post-Activity Review — Image 57](../assets/community-source/education/images/image57.avif){ loading=lazy .hp-photo }
 
-![Preparation, Rehearsal, and Post-Activity Review — Image 58](https://static.igem.wiki/teams/6079/wiki/education/images/image58.avif){ loading=lazy .hp-photo }
+![Preparation, Rehearsal, and Post-Activity Review — Image 58](../assets/community-source/education/images/image58.avif){ loading=lazy .hp-photo }
 
 **Creative Products for Continuing Engagement**
 
 Education does not always continue through formal teaching materials alone. A visual symbol, a portable object or a familiar image can also help participants remember where they first encountered a scientific idea and provide an opportunity for later conversation. We therefore extended the visual language of LZU-CHINA beyond posters and presentation slides by developing a series of creative products connected with the identity and themes of our project.
 
-![Preparation, Rehearsal, and Post-Activity Review — Image 59](https://static.igem.wiki/teams/6079/wiki/education/images/image59.avif){ loading=lazy .hp-photo }
+![Preparation, Rehearsal, and Post-Activity Review — Image 59](../assets/community-source/education/images/image59.avif){ loading=lazy .hp-photo }
 
-![Preparation, Rehearsal, and Post-Activity Review — Image 60](https://static.igem.wiki/teams/6079/wiki/education/images/image60.avif){ loading=lazy .hp-photo }
+![Preparation, Rehearsal, and Post-Activity Review — Image 60](../assets/community-source/education/images/image60.avif){ loading=lazy .hp-photo }
 
-![Preparation, Rehearsal, and Post-Activity Review — Image 61](https://static.igem.wiki/teams/6079/wiki/education/images/image61.avif){ loading=lazy .hp-photo }
+![Preparation, Rehearsal, and Post-Activity Review — Image 61](../assets/community-source/education/images/image61.avif){ loading=lazy .hp-photo }
 
-![Preparation, Rehearsal, and Post-Activity Review — Image 62](https://static.igem.wiki/teams/6079/wiki/education/images/image62.avif){ loading=lazy .hp-photo }
+![Preparation, Rehearsal, and Post-Activity Review — Image 62](../assets/community-source/education/images/image62.avif){ loading=lazy .hp-photo }
 
-![Preparation, Rehearsal, and Post-Activity Review — Image 63](https://static.igem.wiki/teams/6079/wiki/education/images/image63.avif){ loading=lazy .hp-photo }
+![Preparation, Rehearsal, and Post-Activity Review — Image 63](../assets/community-source/education/images/image63.avif){ loading=lazy .hp-photo }
 
 The products translated elements of our work into forms that could circulate in everyday settings. Their design drew on the team’s visual identity and on concepts associated with microorganisms, intestinal health, laboratory research and synthetic biology. Rather than reproducing dense scientific explanations on small objects, we used concise visual elements that could be recognised quickly and connected with the educational material presented during the activity. Where space and format allowed, additional information or digital access points could direct participants towards more detailed project and science communication resources.
 
@@ -1375,11 +1379,11 @@ Their contribution was therefore complementary. They did not replace lectures, d
 
 The visual assets developed for these products were retained in editable form so that they could be revised, reproduced or adapted for future activities. This made the products part of a wider communication system rather than isolated souvenirs. Together with the multilingual trifolds, teaching slides, activity sheets and participant-created artworks, they demonstrate how educational communication can continue through a combination of formal resources, visual identity and objects designed for everyday use.
 
-![Preparation, Rehearsal, and Post-Activity Review — Image 64](https://static.igem.wiki/teams/6079/wiki/education/images/image64.avif){ loading=lazy .hp-photo }
+![Preparation, Rehearsal, and Post-Activity Review — Image 64](../assets/community-source/education/images/image64.avif){ loading=lazy .hp-photo }
 
-![Preparation, Rehearsal, and Post-Activity Review — Image 65](https://static.igem.wiki/teams/6079/wiki/education/images/image65.avif){ loading=lazy .hp-photo }
+![Preparation, Rehearsal, and Post-Activity Review — Image 65](../assets/community-source/education/images/image65.avif){ loading=lazy .hp-photo }
 
-![Preparation, Rehearsal, and Post-Activity Review — Image 66](https://static.igem.wiki/teams/6079/wiki/education/images/image66.avif){ loading=lazy .hp-photo }
+![Preparation, Rehearsal, and Post-Activity Review — Image 66](../assets/community-source/education/images/image66.avif){ loading=lazy .hp-photo }
 
 A teacher may adapt a classroom activity to a different age group.
 A future iDEC team may reuse a questionnaire or redesign a discussion module.

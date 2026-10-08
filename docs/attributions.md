@@ -8,7 +8,7 @@ eyebrow: People / Attributions
 
 ## The LZU-CHINA community
 
-The [team directory](team.md) introduces 68 people across research leadership, mentorship, student coordination and advisory groups. Names, professional biographies and portraits come from the supplied team material. General welcome messages have been edited for this iDEC website; role headings do not independently establish formal competition registration.
+The [people page](team.md) presents seven selected profiles from the supplied team material. Names, professional biographies and portraits retain their source attribution. General welcome messages have been edited for this iDEC website. The selected profiles do not establish the official competition roster or individual registered roles.
 
 ## Content responsibility and review
 
@@ -27,7 +27,7 @@ The GutSentry mark and signal-atlas illustration are original SVG artwork create
 
 ## Photographs, documents and reuse
 
-Activity photographs, member portraits and PDF documents retain their existing hosted addresses and attribution. The [resource library](human-practices/resources.md) provides access to reusable guides and planning documents. Historical photographs and downloadable source documents retain their original artwork and wording; page introductions explain their use in the current project.
+Activity photographs, member portraits and adapted PDF documents are hosted with this website; source attribution is retained. The [resource library](human-practices/resources.md) provides access to reusable guides and planning documents. Historical photographs retain their original content. Downloadable documents are labelled as iDEC adaptations for reference and planning; they do not establish completed activities, approvals or validated project claims. Original documents are retained separately in the local editorial archive.
 
 The supplied LZU-CHINA website content is licensed under [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/). We credit the **LZU-CHINA 2026 team** and retain the [source repository](https://gitlab.igem.org/2026/lzu-china) as the provenance record. Adaptations include iDEC-focused framing, navigation and presentation.
 

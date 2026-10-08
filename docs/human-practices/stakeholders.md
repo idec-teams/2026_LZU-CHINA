@@ -6,7 +6,7 @@ eyebrow: Community / Stakeholder dialogue
 
 <p class="page-deck">Read how healthcare and industry perspectives introduced practical constraints into the project conversation.</p>
 
-Our Entrepreneurship and Inclusivity records describe conversations with healthcare and industry stakeholders. Here we carry forward the Human Practices lessons: understanding practical needs, examining assumptions and recognising what responsible translation would require.
+Our Entrepreneurship and Inclusivity records describe conversations with healthcare and industry stakeholders. Here we carry forward the community engagement lessons: understanding practical needs, examining assumptions and recognising what responsible translation would require.
 
 ## Healthcare perspectives
 
@@ -15,8 +15,8 @@ ICU nursing staff highlighted sample-handling burdens and the difficulty of read
 These discussions informed prospective priorities: simpler workflows, clearer interpretation, complementary non-visual communication and attention to affordability. The inclusivity work gathered patient-oriented perspectives through professionals and representatives, rather than direct interviews with critically ill patients. See the [full dialogue and resource record](inclusivity.md).
 
 <div class="hp-gallery">
-<img src="https://static.igem.wiki/teams/6079/wiki/entrepreneurship/images/image009.avif" alt="Hospital visit and discussions with practising physicians, from the original Entrepreneurship material. — source image 009" loading="lazy" decoding="async">
-<img src="https://static.igem.wiki/teams/6079/wiki/entrepreneurship/images/image010.avif" alt="Hospital visit and discussions with practising physicians, from the original Entrepreneurship material. — source image 010" loading="lazy" decoding="async">
+<img src="../../assets/community-source/entrepreneurship/images/image009.avif" alt="Hospital visit and discussions with practising physicians, from the original Entrepreneurship material. — source image 009" loading="lazy" decoding="async">
+<img src="../../assets/community-source/entrepreneurship/images/image010.avif" alt="Hospital visit and discussions with practising physicians, from the original Entrepreneurship material. — source image 010" loading="lazy" decoding="async">
 </div>
 
 Hospital visit and discussions with practising physicians, from the original Entrepreneurship material.
@@ -28,7 +28,7 @@ Hospital visit and discussions with practising physicians, from the original Ent
 Our conversation with Mr. Liu Jinghong, Founder and General Manager, broadened the discussion from a scientific concept to the elements of a usable product. Formulation, product presentation, communication, intellectual property and coordination across teams all entered the conversation. The lesson for our planning was to connect scientific credibility with a coherent development process.
 
 <div class="hp-gallery">
-<img src="https://static.igem.wiki/teams/6079/wiki/entrepreneurship/images/image006.avif" alt="Industry interview with Mr. Liu Jinghong about product development, intellectual property and communication. — source image 006" loading="lazy" decoding="async">
+<img src="../../assets/community-source/entrepreneurship/images/image006.avif" alt="Industry interview with Mr. Liu Jinghong about product development, intellectual property and communication. — source image 006" loading="lazy" decoding="async">
 </div>
 
 Industry interview with Mr. Liu Jinghong about product development, intellectual property and communication.
@@ -38,7 +38,7 @@ Industry interview with Mr. Liu Jinghong about product development, intellectual
 Online discussions and introductions to company operations helped us consider how a design would move into organised production and delivery. We brought manufacturability and operational coordination into our planning questions.
 
 <div class="hp-gallery">
-<img src="https://static.igem.wiki/teams/6079/wiki/entrepreneurship/images/image007.avif" alt="Online exchange with Shanghai AWON Dental Technology Co., Ltd. — source image 007" loading="lazy" decoding="async">
+<img src="../../assets/community-source/entrepreneurship/images/image007.avif" alt="Online exchange with Shanghai AWON Dental Technology Co., Ltd. — source image 007" loading="lazy" decoding="async">
 </div>
 
 Online exchange with Shanghai AWON Dental Technology Co., Ltd.
@@ -48,7 +48,7 @@ Online exchange with Shanghai AWON Dental Technology Co., Ltd.
 This exchange drew our attention to production consistency and quality management. A promising concept still requires a dependable process. That insight encouraged earlier consideration of quality control and future scaling requirements.
 
 <div class="hp-gallery">
-<img src="https://static.igem.wiki/teams/6079/wiki/entrepreneurship/images/image008.avif" alt="Industry exchange with AWON (Shandong) Medical Technology Co., Ltd. — source image 008" loading="lazy" decoding="async">
+<img src="../../assets/community-source/entrepreneurship/images/image008.avif" alt="Industry exchange with AWON (Shandong) Medical Technology Co., Ltd. — source image 008" loading="lazy" decoding="async">
 </div>
 
 Industry exchange with AWON (Shandong) Medical Technology Co., Ltd.
@@ -69,8 +69,10 @@ These are our iDEC reflections on the documented conversations. They describe fu
 
 The original business plans provide additional background on the project’s commercial thinking. They are planning documents rather than evidence of a validated product, and their historical project descriptions are retained.
 
-- **Chinese business plan:** [Open PDF](https://static.igem.wiki/teams/6079/wiki/entrepreneurship/pdf/business-plan-cn.pdf) · [Download PDF](https://static.igem.wiki/teams/6079/wiki/entrepreneurship/pdf/business-plan-cn.pdf){ download }
-- **English business plan:** [Open PDF](https://static.igem.wiki/teams/6079/wiki/entrepreneurship/pdf/business-plan-en.pdf) · [Download PDF](https://static.igem.wiki/teams/6079/wiki/entrepreneurship/pdf/business-plan-en.pdf){ download }
+These are iDEC-adapted planning drafts, not final submission documents; scientific and commercial claims require team verification.
+
+- **Chinese business plan:** [Open PDF](../assets/community-source/entrepreneurship/pdf/business-plan-cn.pdf) · [Download PDF](../assets/community-source/entrepreneurship/pdf/business-plan-cn.pdf){ download }
+- **English business plan:** [Open PDF](../assets/community-source/entrepreneurship/pdf/business-plan-en.pdf) · [Download PDF](../assets/community-source/entrepreneurship/pdf/business-plan-en.pdf){ download }
 
 If a PDF does not display in your browser, open its link in a separate tab or use the browser’s Save/Download control.
 

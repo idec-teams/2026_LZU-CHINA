@@ -4,6 +4,10 @@ eyebrow: Community archive · Full record
 
 # Inclusivity: the complete practice record
 
+!!! note "Historical activity record"
+    This archive preserves earlier LZU-CHINA activities and original photographs. Event branding in the source material does not establish that an activity was organised by iDEC or that a partner was an iDEC team. Linked PDFs are now labelled iDEC adaptations for reference and planning, not final submission documents.
+
+
 People encounter different barriers to understanding and using science. Our work combines healthcare stakeholder dialogue with accessible communication, school outreach and reusable interview resources.
 
 For iDEC, we connect this community experience with a central question: how should a useful improvement be defined, measured and explained? The activities below document our outreach and exchanges; the closing section develops their relevance to directed-evolution education and responsible research.
@@ -53,11 +57,11 @@ Representatives from the Gansu Red Cross Society pointed out that simple blue‑
 
 Combining literature evidence and pre‑interview feedback, we defined clear targets for our subsequent inclusivity activities, which contain both clinical‑scenario stakeholder co‑design and diversified public‑oriented educational outreach.
 
-![1.2 "Stakeholder Pre‑interview" Real Pain Point Verification — Image 1](https://static.igem.wiki/teams/6079/wiki/inclusivity/images/image1.avif){ loading=lazy .hp-photo }
+![1.2 "Stakeholder Pre‑interview" Real Pain Point Verification — Image 1](../assets/community-source/inclusivity/images/image1.avif){ loading=lazy .hp-photo }
 
 Figure 1-1:On-site record of stakeholder pre-interview. All participants provided informed consent, and all personally identifiable information has been anonymized. We collected patient-oriented demands indirectly via medical workers and the Gansu Red Cross Society representatives, without interviewing patient directly.
 
-![1.2 "Stakeholder Pre‑interview" Real Pain Point Verification — Image 2](https://static.igem.wiki/teams/6079/wiki/inclusivity/images/image2.avif){ loading=lazy .hp-photo }
+![1.2 "Stakeholder Pre‑interview" Real Pain Point Verification — Image 2](../assets/community-source/inclusivity/images/image2.avif){ loading=lazy .hp-photo }
 
 Figure 1-2 :Problem framing based on stakeholder interviews. Key pain points from clinical and community contexts guide our prospective design implications without modifying the wet-lab prototype.
 
@@ -75,11 +79,11 @@ Internal thematic training: We held short study sessions focusing on healthcare 
 
 Internal inclusivity shapes our mindset and guides all of our external stakeholder‑engagement and educational work.
 
-![2.1 "Diverse Team" Internal Inclusivity Construction — Image 3](https://static.igem.wiki/teams/6079/wiki/inclusivity/images/image3.avif){ loading=lazy .hp-photo }
+![2.1 "Diverse Team" Internal Inclusivity Construction — Image 3](../assets/community-source/inclusivity/images/image3.avif){ loading=lazy .hp-photo }
 
 Figure 2-1: Screenshot of the opening session for our internal LZU-CHINA Inclusivity Workshop. Closed-captions were enabled during this online workshop to ensure accessible internal communication.
 
-![2.1 "Diverse Team" Internal Inclusivity Construction — Image 4](https://static.igem.wiki/teams/6079/wiki/inclusivity/images/image4.avif){ loading=lazy .hp-photo }
+![2.1 "Diverse Team" Internal Inclusivity Construction — Image 4](../assets/community-source/inclusivity/images/image4.avif){ loading=lazy .hp-photo }
 
 Figure 2-2：Training slide used in our internal inclusivity workshop. We constructed our internal inclusivity framework covering diverse team composition, accessible communication and thematic equity training, laying the mindset foundation for all our follow-up human-practices activities.
 
@@ -106,7 +110,7 @@ For visually-impaired end-users: We will reserve technical interfaces for supple
 
 For healthcare-equity-oriented translation: We included low-cost, grassroots-oriented kit variants as a long-term translational target, with the aim of reducing potential pricing barriers for resource-limited populations.
 
-![2.2 "Stakeholder Dialogue" Project Co‑design & Iteration — Image 5](https://static.igem.wiki/teams/6079/wiki/inclusivity/images/image5.avif){ loading=lazy .hp-photo }
+![2.2 "Stakeholder Dialogue" Project Co‑design & Iteration — Image 5](../assets/community-source/inclusivity/images/image5.avif){ loading=lazy .hp-photo }
 
 Figure 2-3: Stakeholder-Driven Co-Design & Iteration. No human experimentation and no wet-lab prototype modification were performed in this work. Feedback from ICU nurses, grassroots laboratory physicians and the Gansu Red Cross Society representatives informed four prospective clinical-translation directions for future translation. The [Community overview](index.md) connects these considerations to our community work.
 
@@ -120,15 +124,15 @@ We launched 4 offline popular‑science booth activities in urban community plaz
 
 Different from conventional public science promotion, we adopted differentiated explanation strategies for vulnerable groups during on‑site communication: we slowed down speaking speed, repeated key information for elderly audiences with weak listening and comprehension ability, and used real‑life clinical cases to replace abstract theories. We completed 2 one‑on‑site interactive consultations, effectively breaking the public’s information barrier to synthetic biology and intestinal disease diagnosis. All poster source files are fully open‑sourced for public secondary creation and grassroots science promotion reuse.
 
-![Booth and Poster Display Activities — Image 6](https://static.igem.wiki/teams/6079/wiki/inclusivity/images/image6.avif){ loading=lazy .hp-photo }
+![Booth and Poster Display Activities — Image 6](../assets/community-source/inclusivity/images/image6.avif){ loading=lazy .hp-photo }
 
 Figure 2-4: Collage of our offline community-popular-science poster materials. Plain-language posters without complex academic jargons were designed for community-oriented science outreach activities.
 
-![Booth and Poster Display Activities — Image 7](https://static.igem.wiki/teams/6079/wiki/inclusivity/images/image7.avif){ loading=lazy .hp-photo }
+![Booth and Poster Display Activities — Image 7](../assets/community-source/inclusivity/images/image7.avif){ loading=lazy .hp-photo }
 
 Figure 2-5: Full-version popular-science poster of our project. This printed poster was deployed in offline community booth outreach activities, adopting plain-language expressions and visualized illustrations for audiences without STEM background.
 
-![Booth and Poster Display Activities — Image 8](https://static.igem.wiki/teams/6079/wiki/inclusivity/images/image8.avif){ loading=lazy .hp-photo }
+![Booth and Poster Display Activities — Image 8](../assets/community-source/inclusivity/images/image8.avif){ loading=lazy .hp-photo }
 
 Figure 2-6: Collage of our offline community booth activities. We carried out popular-science booths in urban public plazas, interacting face-to-face with citizens and middle-aged & elderly audiences.
 
@@ -138,15 +142,15 @@ We organized 6 online and offline inclusive science exchange meetings, attractin
 
 During the meetings, we systematically shared the clinical pain points of intestinal infection diagnosis and the inclusive design concepts of our engineered bacteria project, and set up special discussion sessions on healthcare equity and medical accessibility. We collected 78 valid suggestions on popular‑science material optimization and inclusive science communication modes. More than 85% of participating students from county areas reported that this was their first systematic contact with synthetic biology and clinical translational biology knowledge. The feedback effectively guided the iterative upgrade of our subsequent popular‑science posters, audio materials and explanation scripts.
 
-![Themed Exchange Meetings — Image 9](https://static.igem.wiki/teams/6079/wiki/inclusivity/images/image9.avif){ loading=lazy .hp-photo }
+![Themed Exchange Meetings — Image 9](../assets/community-source/inclusivity/images/image9.avif){ loading=lazy .hp-photo }
 
 Figure 2-7: Group photo of our offline inclusive science-exchange meeting. This event gathered county-level students, medical interns and youth public-welfare practitioners to discuss healthcare-equity-related topics.
 
-![Themed Exchange Meetings — Image 10](https://static.igem.wiki/teams/6079/wiki/inclusivity/images/image10.avif){ loading=lazy .hp-photo }
+![Themed Exchange Meetings — Image 10](../assets/community-source/inclusivity/images/image10.avif){ loading=lazy .hp-photo }
 
 Figure 2-8: Screenshot of cross-team online exchange meeting LZU-CHINA & SYPHU-China Exchange Meeting. We shared our inclusive-science-communication experience with other research teams.
 
-![Themed Exchange Meetings — Image 11](https://static.igem.wiki/teams/6079/wiki/inclusivity/images/image11.avif){ loading=lazy .hp-photo }
+![Themed Exchange Meetings — Image 11](../assets/community-source/inclusivity/images/image11.avif){ loading=lazy .hp-photo }
 
 Figure 2-9: Promotional cover for our synthetic-biology popular-science session, introducing student research opportunities and synthetic-biology knowledge for resource-limited youth groups.
 
@@ -156,15 +160,15 @@ We held 5 themed inclusive education workshops, targeting zero‑foundation and 
 
 In view of the uneven knowledge reserve of participants, we adopted hierarchical teaching: we supplemented basic biological background knowledge for zero‑foundation audiences, and launched extended discussions on medical equity cases for audiences with certain cognition. The post‑workshop questionnaire feedback showed that 60% of participants completely eliminated their strangeness to synthetic biology, and 55% of student participants expressed their willingness to pay continuous attention to biomedical and synthetic biology fields. The workshop realized low‑threshold, inclusive popular science education for resource‑limited groups.
 
-![Specialized Educational Workshops — Image 12](https://static.igem.wiki/teams/6079/wiki/inclusivity/images/image12.avif){ loading=lazy .hp-photo }
+![Specialized Educational Workshops — Image 12](../assets/community-source/inclusivity/images/image12.avif){ loading=lazy .hp-photo }
 
 Figure 2-10: Pages from our synthetic-biology popular-science brochure, adopted in educational workshops to lower the learning threshold for zero-foundation participants.
 
-![Specialized Educational Workshops — Image 13](https://static.igem.wiki/teams/6079/wiki/inclusivity/images/image13.avif){ loading=lazy .hp-photo }
+![Specialized Educational Workshops — Image 13](../assets/community-source/inclusivity/images/image13.avif){ loading=lazy .hp-photo }
 
 Figure 2-11: Scene of our inclusive educational workshop. We adopted scenario-based teaching and simplified models for students from county-level and rural areas.
 
-![Specialized Educational Workshops — Image 14](https://static.igem.wiki/teams/6079/wiki/inclusivity/images/image14.avif){ loading=lazy .hp-photo }
+![Specialized Educational Workshops — Image 14](../assets/community-source/inclusivity/images/image14.avif){ loading=lazy .hp-photo }
 
 Figure 2-12: Illustration of hidden peri-operative intestinal crisis. This schematic diagram visualizes how surgery and broad-spectrum antibiotics disrupt gut microbiota and raise the risk of intestinal infection, as well as the limitation of conventional detection methods.
 
@@ -174,19 +178,19 @@ To bridge the urban‑rural science education gap and deliver systematic synthet
 
 The lecture team composed of our core project members delivered standardized, syllabus‑based popular science lectures. The lecture content focused on popularizing intestinal health and perioperative infection prevention, interpreting the innovative logic of our intelligent EcN diagnostic and therapeutic system, and introducing the application value of synthetic biology in solving real clinical and grassroots medical problems. Different from casual sharing, we prepared lecture manuscripts, PPT courseware and post-lecture interactive Q&A sessions to ensure the rigor, credibility and inclusivity of educational output, covering a total of 423 rural and county-level students.
 
-![Inclusive County‑Level Middle School Lectures — Image 15](https://static.igem.wiki/teams/6079/wiki/inclusivity/images/image15.avif){ loading=lazy .hp-photo }
+![Inclusive County‑Level Middle School Lectures — Image 15](../assets/community-source/inclusivity/images/image15.avif){ loading=lazy .hp-photo }
 
 Figure 2-13: Scene of our inclusive county-level middle school lecture. We developed custom popular science content and delivered lectures on synthetic biology applications for local adolescent students.
 
-![Inclusive County‑Level Middle School Lectures — Image 16](https://static.igem.wiki/teams/6079/wiki/inclusivity/images/image16.avif){ loading=lazy .hp-photo }
+![Inclusive County‑Level Middle School Lectures — Image 16](../assets/community-source/inclusivity/images/image16.avif){ loading=lazy .hp-photo }
 
 Figure 2-14: Q&A session during our county-level middle-school lecture. We introduced gut-health-related synthetic-biology applications for local teenagers.
 
-![Inclusive County‑Level Middle School Lectures — Image 17](https://static.igem.wiki/teams/6079/wiki/inclusivity/images/image17.avif){ loading=lazy .hp-photo }
+![Inclusive County‑Level Middle School Lectures — Image 17](../assets/community-source/inclusivity/images/image17.avif){ loading=lazy .hp-photo }
 
 Figure 2-15: Schematic overview of our envisioned EcN-based diagnostic-therapeutic probiotic solution. This diagram demonstrates four core functional modules: signal sensor, logic processor, diagnostic-therapeutic module and safety switch.
 
-![Inclusive County‑Level Middle School Lectures — Image 18](https://static.igem.wiki/teams/6079/wiki/inclusivity/images/image18.avif){ loading=lazy .hp-photo }
+![Inclusive County‑Level Middle School Lectures — Image 18](../assets/community-source/inclusivity/images/image18.avif){ loading=lazy .hp-photo }
 
 Figure 2-16: Dual-signal verification logic design. This diagram illustrates our “two-key” AND-gate mechanism, which requires both pathogen-density signal and intestinal-inflammation marker to activate our engineered probiotic system and reduce misjudgment risk.
 
@@ -204,11 +208,11 @@ All on-site shooting, material collection and participant-information handling f
 
 To make our inclusivity-practice outputs reusable for the whole synthetic-biology community, we have organized and sorted out a full set of practical documents and educational materials from our project:
 
-- **Healthcare stakeholder interview protocols** — [Open PDF](https://static.igem.wiki/teams/6079/wiki/inclusivity/documents/01-interview-protocols-for-healthcare-inclusivity-1.pdf) · [Download PDF](https://static.igem.wiki/teams/6079/wiki/inclusivity/documents/01-interview-protocols-for-healthcare-inclusivity-1.pdf){ download }
+- **Healthcare stakeholder interview protocols** — [Open PDF](../assets/community-source/inclusivity/documents/01-interview-protocols-for-healthcare-inclusivity-1.pdf) · [Download PDF](../assets/community-source/inclusivity/documents/01-interview-protocols-for-healthcare-inclusivity-1.pdf){ download }
 
-- **General stakeholder-investigation templates** — [Open PDF](https://static.igem.wiki/teams/6079/wiki/inclusivity/documents/02-stakeholder-investigation-templates.pdf) · [Download PDF](https://static.igem.wiki/teams/6079/wiki/inclusivity/documents/02-stakeholder-investigation-templates.pdf){ download }
+- **General stakeholder-investigation templates** — [Open PDF](../assets/community-source/inclusivity/documents/02-stakeholder-investigation-templates.pdf) · [Download PDF](../assets/community-source/inclusivity/documents/02-stakeholder-investigation-templates.pdf){ download }
 
-- **Inclusivity guidance for student biomedical research teams** — [Open PDF](https://static.igem.wiki/teams/6079/wiki/inclusivity/documents/03-guideline-for-biomedical-igem-inclusivity-work.pdf) · [Download PDF](https://static.igem.wiki/teams/6079/wiki/inclusivity/documents/03-guideline-for-biomedical-igem-inclusivity-work.pdf){ download }
+- **Inclusivity guidance for student biomedical research teams** — [Open PDF](../assets/community-source/inclusivity/documents/03-guideline-for-biomedical-idec-inclusivity-work.pdf) · [Download PDF](../assets/community-source/inclusivity/documents/03-guideline-for-biomedical-idec-inclusivity-work.pdf){ download }
 
 These supporting resources are available for adaptation by the iDEC community. Select a document above to view the complete PDF and adapt the materials for your own project.
 
@@ -232,19 +236,19 @@ Some representative feedback is summarized below:
 
 - Participant feedback helped us recognize both strengths and existing gaps within our work, paving the way for objective limitation analysis and subsequent iterative optimization.
 
-![3.1 "Feedback Collection" Voices From Participants — Image 19](https://static.igem.wiki/teams/6079/wiki/inclusivity/images/image19.avif){ loading=lazy .hp-photo }
+![3.1 "Feedback Collection" Voices From Participants — Image 19](../assets/community-source/inclusivity/images/image19.avif){ loading=lazy .hp-photo }
 
 Figure 3-1: Demographic distribution of questionnaire respondents. This ring chart shows the identity composition of participants who took part in our survey, covering students, in-service staff, retirees and other groups.
 
-![3.1 "Feedback Collection" Voices From Participants — Image 20](https://static.igem.wiki/teams/6079/wiki/inclusivity/images/image20.avif){ loading=lazy .hp-photo }
+![3.1 "Feedback Collection" Voices From Participants — Image 20](../assets/community-source/inclusivity/images/image20.avif){ loading=lazy .hp-photo }
 
 Figure 3-2: Respondents’ preferences for popular-science content styles. The ring chart illustrates which types of content participants value most for inclusive science communication activities. Percentages represent the share of respondents selecting each option.
 
-![3.1 "Feedback Collection" Voices From Participants — Image 21](https://static.igem.wiki/teams/6079/wiki/inclusivity/images/image21.avif){ loading=lazy .hp-photo }
+![3.1 "Feedback Collection" Voices From Participants — Image 21](../assets/community-source/inclusivity/images/image21.avif){ loading=lazy .hp-photo }
 
 Figure 3-3: Preferred science-communication channels among survey participants. Note: This is a multiple-choice question; percentages represent the share of respondents selecting each option, and the total sum may exceed 100%.
 
-![3.1 "Feedback Collection" Voices From Participants — Image 22](https://static.igem.wiki/teams/6079/wiki/inclusivity/images/image22.avif){ loading=lazy .hp-photo }
+![3.1 "Feedback Collection" Voices From Participants — Image 22](../assets/community-source/inclusivity/images/image22.avif){ loading=lazy .hp-photo }
 
 Figure 3-4: Word cloud generated from open-ended suggestions submitted by questionnaire participants. These textual feedbacks provide practical inspirations for optimizing our subsequent inclusive outreach activities.
 
