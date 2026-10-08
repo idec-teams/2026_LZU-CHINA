@@ -1,48 +1,37 @@
 ---
-title: GutSentry
+title: Evolution Atlas
 homepage: true
 hide:
   - navigation
   - toc
 ---
 
-<div class="gs-home">
-<section class="gs-hero" aria-labelledby="hero-title">
-<div>
-<div class="eyebrow"><span class="status-dot" aria-hidden="true"></span> LZU-CHINA / iDEC 2026</div>
-<h1 id="hero-title">Small signals.<br><em>Meaningful</em><br>questions.</h1>
-<p class="hero-copy">A living system is full of messages. GutSentry explores how to read them—and how to make the science understandable, testable and open to more people.</p>
-<div class="hero-actions"><a class="md-button md-button--primary" href="project/story/">Discover the story ↗</a><a class="md-button" href="learn/">Try the learning lab</a></div>
-<p class="hero-note">An in-vitro research concept. A community learning journey.<br>Evidence, proposals and illustrations are labelled throughout.</p>
-</div>
-<figure><img src="img/signal-atlas.svg" alt="An illustrated cell surrounded by two incoming signals, representing our question about sensing and response." width="660" height="600" fetchpriority="high"><figcaption>GutSentry signal atlas · Conceptual illustration</figcaption></figure>
+<div class="atlas-home">
+<section class="atlas-hero" aria-labelledby="atlas-title">
+<div class="atlas-hero-copy"><span class="atlas-label">LZU-CHINA / iDEC 2026 / GUTSENTRY</span><h1 id="atlas-title">Follow the<br><em>signal.</em><br>Explore what<br>changes.</h1><p>A journey through biological signals, the meaning of “better”, and the people who make science matter.</p><div class="atlas-actions"><a class="atlas-button" href="#signal">Start the journey <span>↓</span></a><a class="atlas-link" href="atlas/">Find your own path ↗</a></div><span class="atlas-small">Research concept · Open questions · Shared learning</span></div>
+<div class="atlas-hero-art"><img src="img/evolution-orbit.svg" width="640" height="640" alt="A cartoon microbe at the centre of branching signal orbits"><span class="orbit-note note-a">01 / SENSE</span><span class="orbit-note note-b">02 / COMPARE</span><span class="orbit-note note-c">03 / LEARN</span><div class="atlas-specimen">GUTSENTRY <span>Concept specimen / not microscopy</span></div></div>
+<div class="atlas-cover-bottom"><span>AN EVOLUTION ATLAS</span><span>Scroll to explore / 4 chapters ↓</span></div>
 </section>
-<div class="gs-index"><span>A field guide to our project</span><a href="#three-ways-in">01 / Understand</a><a href="#follow-the-evidence">02 / Investigate</a><a href="#science-with-people">03 / Connect</a></div>
-
-<section aria-labelledby="three-ways-in">
-<div class="section-heading"><div><span class="eyebrow">Choose your starting point</span><h2 id="three-ways-in">One project.<br>Three ways in.</h2></div><p>You do not need a biology background to begin. Follow the story, explore an idea, or examine the record.</p></div>
-<div class="route-grid">
-<a class="route-card" href="project/story/"><img class="route-icon" src="img/icons/signal.svg" width="48" height="48" alt="" loading="lazy"><span class="route-number">01 / THE CURIOUS VISITOR</span><div><h3>What is a<br>biological signal?</h3><p>Start with a simple question: when does a message become useful information?</p></div><span class="route-arrow">Read the story ↗</span></a>
-<a class="route-card" href="learn/"><img class="route-icon" src="img/icons/variation.svg" width="48" height="48" alt="" loading="lazy"><span class="route-number">02 / THE EXPLORER</span><div><h3>What does<br>“better” mean?</h3><p>Change a goal. Compare the outcomes. Discover why improvement needs a definition.</p></div><span class="route-arrow">Enter the learning lab ↗</span></a>
-<a class="route-card" href="project/evidence/"><img class="route-icon" src="img/icons/evidence.svg" width="48" height="48" alt="" loading="lazy"><span class="route-number">03 / THE CRITICAL READER</span><div><h3>What does<br>the evidence say?</h3><p>Trace the reported observations to figures, methods and their limits.</p></div><span class="route-arrow">Explore the evidence ↗</span></a>
-</div>
+<nav class="journey-rail" aria-label="Journey chapters"><a href="#signal" data-chapter-link="signal"><span>01</span> Signal</a><a href="#selection" data-chapter-link="selection"><span>02</span> Selection</a><a href="#evidence" data-chapter-link="evidence"><span>03</span> Evidence</a><a href="#together" data-chapter-link="together"><span>04</span> Together</a><a href="atlas/" class="rail-map">All paths ↗</a></nav>
+<section class="atlas-chapter atlas-signal" id="signal" data-chapter="signal">
+<div class="chapter-caption"><span>01 / A QUESTION OF CONTEXT</span><span>Understand the idea</span></div>
+<div class="atlas-split"><div><h2>A message is only<br>the <em>beginning.</em></h2><p class="atlas-deck">One alarm can be easy to trigger. Two pieces of information can ask a more specific question.</p><p>GutSentry explores a two-input biological sensing concept. Start with the intended logic, then look at what the laboratory observations can actually tell us.</p><a class="atlas-text-link" href="project/story/">Follow the project story <span>↗</span></a></div><figure class="atlas-image"><img src="img/cartoon/cartoon-signals.webp" width="1536" height="1024" loading="lazy" alt="Two cartoon microbes send different signals towards a third"><figcaption>Two inputs, one question. A conceptual cartoon.</figcaption></figure></div>
+<div class="atlas-three"><a href="project/background/"><b>01</b><strong>Why this question?</strong><span>Background and motivation ↗</span></a><a href="project/design/"><b>02</b><strong>How might it work?</strong><span>The intended design ↗</span></a><a href="project/results/"><b>03</b><strong>What was observed?</strong><span>Results and their limits ↗</span></a></div>
 </section>
-
-<section class="dark-panel" aria-labelledby="signal-question">
-<div><span class="eyebrow">The question behind GutSentry</span><h2 id="signal-question">A message is useful.<br>Its context matters.</h2><p>Our research concept combines two gut-associated inputs before producing a visible output. The aim is to ask a more specific question of a complex environment.</p><a href="project/story/#two-inputs-one-question">Explore the two-input idea ↗</a></div>
-<div class="signal-track"><div class="signal-step"><b>01</b><div><strong>Sense</strong><span>Consider more than one input from the environment.</span></div></div><div class="signal-step"><b>02</b><div><strong>Interpret</strong><span>Ask what a combination of signals can—and cannot—tell us.</span></div></div><div class="signal-step"><b>03</b><div><strong>Evaluate</strong><span>Compare the intended behaviour with the actual observations.</span></div></div></div>
+<section class="atlas-chapter atlas-selection" id="selection" data-chapter="selection">
+<div class="chapter-caption"><span>02 / THE EVOLUTION LENS</span><span>Explore an idea</span></div>
+<div class="selection-layout"><div class="selection-stage" aria-hidden="true"><div class="selection-orbit"><span class="specimen specimen-a">A</span><span class="specimen specimen-b">B</span><span class="specimen specimen-c">C</span><span class="specimen specimen-d">D</span><span class="selection-core">Better<br><em>for what?</em></span></div><span class="stage-caption">A visual metaphor for comparison</span></div><div class="selection-steps">
+<article data-selection-step="1"><span class="atlas-label">01 / VARIATION</span><h2>Difference opens<br>possibilities.</h2><p>There is more than one version to consider. The important question is what differs, and why that difference might matter.</p></article>
+<article data-selection-step="2"><span class="atlas-label">02 / EVALUATION</span><h2>Your goal changes<br>your choice.</h2><p>A fast option need not be the most consistent. Change the weights in our learning lab and see a different option lead.</p><a class="atlas-button" href="learn/">Try the interactive lab ↗</a></article>
+<article data-selection-step="3"><span class="atlas-label">03 / COMPARISON</span><h2>An improvement<br>needs a reference.</h2><p>Conditions, measurements and uncertainty matter. The available project files document engineering, not a complete directed-evolution campaign.</p><a class="atlas-text-link" href="project/evolution/">Understand our project scope ↗</a></article>
+</div></div>
 </section>
-
-<section aria-labelledby="follow-the-evidence">
-<div class="section-heading"><div><span class="eyebrow">An open research record</span><h2 id="follow-the-evidence">Curiosity needs evidence.</h2></div><p>Every conclusion has a scope. We make that scope visible so you can judge the story for yourself.</p></div>
-<div class="evidence-row"><span class="status-tag">Reported</span><div><strong>Laboratory observations</strong><p>Reporter expression, cross-induction, a biofilm assay and a cell-line assay, with the original supplied figures.</p></div><a href="project/results/">Inspect results ↗</a></div>
-<div class="evidence-row"><span class="status-tag">Documented</span><div><strong>Engineering and community records</strong><p>A retrospective engineering index and detailed outreach, inclusion and collaboration records.</p></div><a href="documentation/notebook/">Follow the record ↗</a></div>
-<div class="evidence-row"><span class="status-tag pending">Open question</span><div><strong>From design to directed evolution</strong><p>The available files do not establish a completed evolution campaign. We explain the distinction and the evidence still needed.</p></div><a href="project/evolution/">See the scope ↗</a></div>
+<section class="atlas-chapter atlas-evidence" id="evidence" data-chapter="evidence">
+<div class="chapter-caption"><span>03 / OPEN THE RECORD</span><span>Follow the evidence</span></div><div class="atlas-section-heading"><h2>Good questions.<br><em>Traceable answers.</em></h2><p>Choose the depth you need. A clear story should always lead back to its sources.</p></div>
+<div class="evidence-paths"><a href="project/evidence/"><span class="atlas-label">START HERE</span><strong>The evidence guide</strong><p>What is reported, what is proposed, and what remains open.</p><span class="path-arrow">↗</span></a><a href="research/"><span class="atlas-label">GO DEEPER</span><strong>The research desk</strong><p>Navigate the question, design, observations and limitations.</p><span class="path-arrow">↗</span></a><a href="library/"><span class="atlas-label">CHECK THE SOURCE</span><strong>The open library</strong><p>Methods, figures, complete activity records and reusable downloads.</p><span class="path-arrow">↗</span></a></div>
 </section>
-
-<section class="community-feature" aria-labelledby="science-with-people">
-<img src="https://static.igem.wiki/teams/6079/wiki/education/images/image19.avif" alt="A community education activity documented by the LZU-CHINA team" loading="lazy" width="600" height="400">
-<div><span class="eyebrow">From Lanzhou, with curiosity</span><h2 id="science-with-people">Science grows<br>through conversation.</h2><p>Children, students, community residents and healthcare professionals asked different questions. Listening to those questions changed the way we communicate science.</p><div class="stat-strip"><div><strong>7</strong><span>schools in the recorded county-level programme</span></div><div><strong>423</strong><span>students reached in that programme</span></div><div><strong>15</strong><span>languages described in the leaflet series</span></div></div><p class="hero-note">Figures are reported in the activity records and are not a combined unique-participant total.</p><a class="md-button" href="human-practices/">Meet our community work ↗</a></div>
+<section class="atlas-chapter atlas-together" id="together" data-chapter="together">
+<div class="chapter-caption"><span>04 / SCIENCE IS A SHARED PRACTICE</span><span>Build with us</span></div><div class="atlas-split"><figure class="atlas-image"><img src="img/cartoon/cartoon-diversity.webp" width="1536" height="1024" loading="lazy" alt="Different cartoon microbes share a branching tree"><figcaption>Diversity as a visual metaphor, not a reconstructed phylogeny.</figcaption></figure><div><h2>More perspectives.<br><em>Better questions.</em></h2><p class="atlas-deck">A student. A nurse. A fellow team. Each brings a question we would not have asked alone.</p><p>Explore our recorded exchanges and education work, or take a reusable resource into your own conversation.</p><div class="atlas-actions"><a class="atlas-button" href="community/">Enter the community commons ↗</a><a class="atlas-text-link" href="human-practices/">Follow the activity record ↗</a></div></div></div>
 </section>
-<div class="gs-index"><span>Continue the journey</span><a href="team/">The people</a><a href="human-practices/resources/">Shared resources</a><a href="responsible-research/">Responsible research</a></div>
+<section class="atlas-finale"><span class="atlas-label">YOUR NEXT QUESTION STARTS HERE</span><h2>One project.<br><em>Many ways to explore.</em></h2><div class="atlas-actions"><a class="atlas-button" href="atlas/">Open the complete atlas ↗</a><a class="atlas-link" href="team/">Meet the people ↗</a></div></section>
 </div>

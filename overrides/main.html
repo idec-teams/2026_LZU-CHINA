@@ -1,6 +1,8 @@
 {% extends "base.html" %}
 {% block content %}
+<div class="reading-progress" aria-hidden="true"></div>
 {% if not page.meta.homepage %}
+<div class="atlas-utility"><a href="{{ 'atlas/' | url }}">↗ All paths / Find your question</a><span>GutSentry · Evolution Atlas</span></div>
 <div class="chapter-heading">
   <span class="eyebrow">{{ page.meta.eyebrow | default("LZU-CHINA · iDEC 2026") }}</span>
   <span class="reading-time" aria-label="Estimated reading time"></span>
@@ -8,12 +10,24 @@
 {% endif %}
 {{ super() }}
 {% if not page.meta.homepage %}
-<aside class="chapter-end" aria-label="Continue exploring">
-  <span class="eyebrow">Keep exploring</span>
-  <p>Follow a question. Check the evidence. Meet the people behind it.</p>
-  <a href="{{ 'project/story/' | url }}">The project story <span aria-hidden="true">↗</span></a>
-  <a href="{{ 'project/evidence/' | url }}">Evidence guide <span aria-hidden="true">↗</span></a>
-  <a href="{{ 'human-practices/' | url }}">Our community <span aria-hidden="true">↗</span></a>
-</aside>
+{% set paths = {
+ 'project/story.md': [('Try the idea', 'Interactive learning lab', 'learn/'), ('Inspect the mechanism', 'System design', 'project/design/')],
+ 'learn/index.md': [('Connect concept to project', 'Evolution perspective', 'project/evolution/'), ('Share a learning activity', 'Community toolkit', 'community/toolkit/')],
+ 'project/background.md': [('From motivation to mechanism', 'System design', 'project/design/'), ('Read the short narrative', 'The project story', 'project/story/')],
+ 'project/design.md': [('From intention to observation', 'Experimental results', 'project/results/'), ('Inspect the underlying method', 'Methods', 'documentation/protocols/')],
+ 'project/results.md': [('Check the strength of the claims', 'Evidence guide', 'project/evidence/'), ('Trace the engineering record', 'Engineering index', 'documentation/notebook/')],
+ 'project/evidence.md': [('Follow the original sources', 'Data and references', 'resources/'), ('Browse the complete record', 'Open library', 'library/')],
+ 'project/evolution.md': [('Explore an abstract example', 'Interactive learning lab', 'learn/'), ('Distinguish claims and open questions', 'Evidence guide', 'project/evidence/')],
+ 'community/index.md': [('Take a resource into your community', 'Reusable toolkit', 'community/toolkit/'), ('Check what is documented', 'Contribution status', 'community/evidence/')],
+ 'community/toolkit.md': [('Track use and feedback', 'Contribution status', 'community/evidence/'), ('Explore the educational context', 'Education', 'human-practices/education/')],
+ 'community/evidence.md': [('Inspect the exchange record', 'Collaboration archive', 'human-practices/collaboration-record/'), ('Build on the resources', 'Reusable toolkit', 'community/toolkit/')],
+ 'team.md': [('See how contributions are credited', 'Attributions', 'attributions/'), ('Explore the collective work', 'Community commons', 'community/')]
+} %}
+{% set source = page.file.src_uri %}
+{% if source in paths %}{% set next = paths[source] %}
+{% elif source.startswith('human-practices/') %}{% set next = [('Trace the full activity record', 'Open library', 'library/'), ('Turn learning into a shared resource', 'Community commons', 'community/')] %}
+{% elif source.startswith('documentation/') or source == 'resources.md' %}{% set next = [('Read the interpretation', 'Evidence guide', 'project/evidence/'), ('Reconnect the research questions', 'Research desk', 'research/')] %}
+{% else %}{% set next = [('Follow the scientific questions', 'Research desk', 'research/'), ('Explore the shared practice', 'Community commons', 'community/')] %}{% endif %}
+<aside class="next-path" aria-label="Related reading"><span class="eyebrow">Continue the thread</span><p>Where does your question lead?</p><div class="next-path-grid">{% for reason, label, destination in next %}<a href="{{ destination | url }}"><small>{{ reason }}</small><strong>{{ label }} ↗</strong></a>{% endfor %}</div></aside>
 {% endif %}
 {% endblock %}

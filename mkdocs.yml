@@ -1,5 +1,5 @@
-site_name: GutSentry · LZU-CHINA
-site_description: Human Practices, community engagement, and research documentation for the GutSentry / Intestinal Barrier project.
+site_name: GutSentry · Evolution Atlas
+site_description: Explore signals, selection, evidence and shared learning with LZU-CHINA at iDEC 2026.
 site_url: https://idec-teams.github.io/2026_LZU-CHINA/
 
 theme:
@@ -37,9 +37,11 @@ markdown_extensions:
 extra_css:
   - stylesheets/extra.css
   - stylesheets/editorial.css
+  - stylesheets/atlas.css
 
 extra_javascript:
   - javascripts/experience.js
+  - javascripts/atlas.js
 
 edit_uri: edit/main/docs/
 repo_url: https://github.com/idec-teams/2026_LZU-CHINA
@@ -47,17 +49,18 @@ repo_url: https://github.com/idec-teams/2026_LZU-CHINA
 copyright: Copyright &copy; 2026 iDEC. CC-BY-4.0 | The International Directed Evolution Competition (iDEC) is a Scottish Charitable Incorporate Organisation (SCIO), registered in Scotland, with charity number SC050826.
 
 nav:
-  - Home: index.md
-  - Explore:
+  - Journey:
+      - Evolution Atlas: index.md
       - The project story: project/story.md
       - Interactive learning lab: learn/index.md
-      - Evidence guide: project/evidence.md
+      - Evolution perspective: project/evolution.md
   - Research:
+      - Research desk: research/index.md
       - Background: project/background.md
       - System design: project/design.md
       - Experimental results: project/results.md
-      - Evolution perspective: project/evolution.md
-  - Community:
+      - Evidence guide: project/evidence.md
+  - Commons:
       - Build together: community/index.md
       - Reusable toolkit: community/toolkit.md
       - Contribution status: community/evidence.md
@@ -69,17 +72,19 @@ nav:
       - Entrepreneurship: human-practices/entrepreneurship.md
       - Sustainability: human-practices/sustainability.md
       - Resource library: human-practices/resources.md
+  - Library:
+      - Open library: library/index.md
+      - Methods: documentation/protocols.md
+      - Engineering index: documentation/notebook.md
+      - Responsible research: responsible-research.md
+      - Data and references: resources.md
       - Complete activity records:
           - Education record: human-practices/education-record.md
           - Collaboration record: human-practices/collaboration-record.md
           - Inclusivity record: human-practices/inclusivity-record.md
           - Detailed planning: human-practices/entrepreneurship-record.md
           - SDG assessment: human-practices/sustainability-record.md
-  - Records:
-      - Methods: documentation/protocols.md
-      - Engineering index: documentation/notebook.md
-      - Responsible research: responsible-research.md
-      - Data and references: resources.md
   - People:
       - Members: team.md
       - Attributions: attributions.md
+  - All paths: atlas/index.md
