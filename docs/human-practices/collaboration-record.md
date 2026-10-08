@@ -4,9 +4,6 @@ eyebrow: Community archive · Full record
 
 # Collaboration: the complete exchange record
 
-!!! note "Historical activity record"
-    This archive preserves earlier LZU-CHINA activities and original photographs. Event branding in the source material does not establish that an activity was organised by iDEC or that a partner was an iDEC team.
-
 
 University teams, clinicians, public-health workers and local communities helped us ask better questions about communication, practical needs and responsible development. This chapter preserves the exchanges and photographs behind that process.
 

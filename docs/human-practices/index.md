@@ -1,66 +1,139 @@
 ---
-title: Community
-eyebrow: 04 / Science with people
+title: IHP
+eyebrow: Community / Integrated Human Practices
 ---
 
-# Community
+# Integrated Human Practices
 
-<p class="lead">A child asks what a bacterium is. A nurse asks who will read the result. A student asks whether “better” always means faster. Each question changes where the conversation starts.</p>
+<p class="lead">Listening shapes the question. Dialogue shapes the design. Shared learning helps the community grow.</p>
 
-Our community work connects education, inclusion, peer exchange and stakeholder dialogue in Lanzhou and beyond. For iDEC, we bring these experiences into a shared question: **how can research become more understandable, more accountable and more useful?**
+<nav class="ihp-topics" aria-label="Community sections"><a aria-current="page" href="./">IHP</a><a href="education/">Education</a><a href="entrepreneurship/">Entrepreneurship</a><a href="inclusivity/">Inclusivity</a><a href="sustainability/">Sustainability</a><a href="collaboration/">Collaboration</a></nav>
 
-<div class="photo-pair"><figure><img src="../assets/community-source/education/images/image19.avif" alt="Community education activity in the LZU-CHINA outreach record" loading="lazy"><figcaption>Local conversations provide a starting point for accessible science.</figcaption></figure><figure><img src="../assets/community-source/collaboration/images/image9.avif" alt="University peer-team exchange documented in the collaboration record" loading="lazy"><figcaption>Peer exchange makes assumptions and unanswered questions visible.</figcaption></figure></div>
+## Our contribution to the iDEC community
 
-## Four ways we listen
+We see Integrated Human Practices (IHP) as the work of making a research project responsible, understandable, accessible and useful to society. For LZU-CHINA, this means connecting our scientific questions with the people who would learn from, work with or eventually use the technology. Our contribution to the iDEC community brings together education, peer exchange, clinical and industry dialogue, inclusion and sustainability. This page follows how those conversations shaped our priorities across preparation, exploration and responsibility.
 
-<div class="card-grid">
-<a class="info-card" href="education/"><img class="section-icon" src="../img/icons/learning.svg" width="36" height="36" alt="" loading="lazy"><span class="card-kicker">01 / Understand</span><strong>Education</strong><span>Curiosity becomes explanation, participation and resources others can reuse.</span></a>
-<a class="info-card" href="inclusivity/"><img class="section-icon" src="../img/icons/people.svg" width="36" height="36" alt="" loading="lazy"><span class="card-kicker">02 / Include</span><strong>Access and participation</strong><span>Consider whose voice is missing and what makes participation difficult.</span></a>
-<a class="info-card" href="collaboration/"><img class="section-icon" src="../img/icons/share.svg" width="36" height="36" alt="" loading="lazy"><span class="card-kicker">03 / Exchange</span><strong>Learning with partners</strong><span>Questions from peers, healthcare professionals and communities inform our thinking.</span></a>
-<a class="info-card" href="entrepreneurship/"><img class="section-icon" src="../img/icons/compare.svg" width="36" height="36" alt="" loading="lazy"><span class="card-kicker">04 / Translate</span><strong>Practical value</strong><span>Connect a proposed improvement with usability, access and development constraints.</span></a>
-</div>
+### The project at a glance
 
-## From a voice to a response
+GutSentry is an engineered Escherichia coli Nissle 1917 (EcN-1917) research concept for sensing and responding to intestinal infection. Its proposed architecture connects in-situ sensing, dual-input logic, a colour-readable output, targeted antimicrobial intervention and programmed containment. The intended split-T7 AND gate combines a pathogen-associated AI-2 signal with tetrathionate, an inflammation-associated signal; a bile-responsive Hok/Sok module is intended to limit survival outside the host. The [system design](../project/design.md) and [experimental results](../project/results.md) describe the current laboratory evidence. Here we focus on how people and practical needs shaped the design objectives.
 
-| What we heard | What it changed in our thinking | Follow the record |
+### Three phases, five dimensions
+
+We organised our Human Practices into three connected phases. Each brings a different perspective into a continuing cycle of listening, discussion, design and review.
+
+Preparation Phase. Defining the problem and building the foundations — literature review, expert and front-line interviews, and fieldwork that turned clinical and social needs into engineering objectives.
+
+<figure class="ihp-figure"><img src="../assets/ihp/image1.webp" alt="Cover of the educational equity survey handbook (self-made by the team)" loading="lazy" decoding="async"><figcaption>Cover of the educational equity survey handbook (self-made by the team)</figcaption></figure>
+
+Exploration Phase. Bringing feedback into design — using dialogue with clinicians, peers and experts to refine priorities, and investigating educational equity.
+
+Responsibility Phase. Amplifying societal impact and value dissemination — advancing directed evolution across five dimensions: Education, Collaboration, Entrepreneurship, Inclusivity and Sustainability.
+
+The five dimensions mirror the responsibilities every researcher holds toward the field: growing its people and public understanding, building its collaborative network, paving its path from laboratory to market, making its benefits equitable and accessible, and ensuring its development is responsible and sustainable.
+
+### Community work at a glance
+
+The document brings together the following activity counts and resources. These figures describe different programmes and may include overlapping participants; they are not a combined count of unique people or proof that another iDEC team adopted a resource.
+
+| Area | Activities and resources reported | Purpose for the community |
 | --- | --- | --- |
-| Technical language can exclude newcomers | Begin with familiar questions, visual explanations and hands-on participation | [Education](education.md) |
-| A colour-only readout may exclude some users | Treat non-visual communication as an accessibility question from the outset | [Inclusivity](inclusivity.md) |
-| Equipment and workflow constraints affect usefulness | Record simplicity and readability as future design priorities | [Stakeholders](stakeholders.md) |
-| Specificity and stability need clearer evidence | Make assumptions, controls and limitations easier to discuss | [Collaboration](collaboration.md) |
+| Educational resources | 15-language trifold series, education toolkit and workshop materials | Support accessible explanations and reusable outreach |
+| University exchange | Six university teams and the first APIC Conference | Share technical questions and experience across institutions |
+| Education reach | 48 children aged 8–11; about 64 older adults aged 58–82; 423 students across seven schools; two campuses; six Lanzhou subdistricts | Engage different ages and settings |
+| Inclusive participation | Four booths: 286 participants; six exchanges: 128 participants and 78 suggestions; five workshops: 164 participants | Bring more perspectives into science communication |
+| Education-equity investigation | 168 questionnaires, 140 valid responses and 11 interviews | Understand barriers before designing activities |
+| Inclusivity feedback | 187 questionnaires, 154 valid responses | Inform accessibility and communication priorities |
+| Healthcare and industry dialogue | First Hospital of Lanzhou University; Gansu Provincial CDC; Jinghong; AWON Shanghai; AWON Shandong | Connect research questions with practical constraints |
+| Responsible practice | Consent and anonymisation described in the report; indirect collection of patient-centred needs | Respect participants and consider responsibility from the outset |
 
-<section class="visual-flow" aria-label="From listening to shared learning"><div class="flow-heading"><span class="eyebrow">Visual guide</span><strong>From listening to shared learning</strong></div><ol class="flow-grid">
-<li><div class="flow-symbol"><img src="../img/icons/listen.svg" alt="" width="40" height="40" loading="lazy"><span>01</span></div><h3>Listen</h3><p>Collect questions and identify barriers.</p></li>
-<li><div class="flow-symbol"><img src="../img/icons/learning.svg" alt="" width="40" height="40" loading="lazy"><span>02</span></div><h3>Design & engage</h3><p>Adapt explanations and invite participation.</p></li>
-<li><div class="flow-symbol"><img src="../img/icons/compare.svg" alt="" width="40" height="40" loading="lazy"><span>03</span></div><h3>Measure & improve</h3><p>Use feedback to revise the approach.</p></li>
-<li><div class="flow-symbol"><img src="../img/icons/share.svg" alt="" width="40" height="40" loading="lazy"><span>04</span></div><h3>Share</h3><p>Make useful resources available to others.</p></li></ol><p class="flow-note">A visual summary of the community approach. Reach, feedback and demonstrated learning are different kinds of evidence.</p></section>
+## Preparation · Listen and define
 
-## Our continuing cycle
+### Listening to the front line
 
-**Listen → Design → Engage → Measure → Improve → Share.**
+We began with literature review, expert interviews and front-line fieldwork. A tertiary-hospital gastroenterologist described two linked barriers: primary-care facilities may lack diagnostic instruments, and waiting two days for stool culture can be impractical. This feedback motivated a nitrocefin-based colour-readable approach, with a target of a result within half a day. Communications with the First Hospital of Lanzhou University sharpened our understanding of the interval between infection onset and definitive diagnosis. Consultations with the Gansu Provincial Center for Disease Control and Prevention broadened the discussion to surveillance, prevention and public acceptance. The target turnaround time guided planning; clinical performance remains a separate validation question.
 
-We distinguish people reached from learning demonstrated. We keep proposed activity extensions separate from completed events. Our new [learning lab](../learn/index.md) is a reusable teaching resource for the iDEC audience, not an additional outreach event claimed in the record.
+<figure class="ihp-figure"><img src="../assets/ihp/image2.webp" alt="Team members interviewing clinicians" loading="lazy" decoding="async"><figcaption>Team members interviewing clinicians</figcaption></figure>
 
-### Keep exploring
+### Clinical, industry and community engagement
 
-[Sustainability](sustainability.md) · [Resource library](resources.md) · [The people behind the work](../team.md)
+Healthcare. Dialogue with clinicians grounded the diagnostic and therapeutic concepts in ward constraints. ICU geriatric nurses and grassroots laboratory physicians added accessibility, sample handling and workflow concerns.
 
-## Build with the iDEC community
+<figure class="ihp-figure"><img src="../assets/ihp/image3.webp" alt="Team members participating in clinical investigations" loading="lazy" decoding="async"><figcaption>Team members participating in clinical investigations</figcaption></figure>
 
-Explore our [community hub](../community/index.md) and [bilingual starter toolkit](../community/toolkit.md): a no-lab learning activity, cross-team clarity review, contribution log and resource handoff. Prepared resources and verified external use are tracked separately.
+Industry. Conversations with Jinghong Health Products Ltd. (Mr. Liu Jinghong), Shanghai AWON Dental Technology and AWON (Shandong) Medical Technology taught us that a complete product requires formulation, presentation, intellectual-property protection and evidence-based communication — not technology alone.
 
-<section class="community-summary" markdown="1" aria-labelledby="community-summary">
+<figure class="ihp-figure"><img src="../assets/ihp/image4.webp" alt="Conducting an industry interview with Mr. Liu Jinghong to discuss product development, intellectual property rights and commercialization implementation." loading="lazy" decoding="async"><figcaption>Conducting an industry interview with Mr. Liu Jinghong to discuss product development, intellectual property rights and commercialization implementation.</figcaption></figure>
 
-## Looking forward: the iDEC community we want to build {#community-summary}
+Communities. We engaged six Lanzhou subdistricts, hospitals and primary schools to bring biotechnology beyond the campus and hear public concerns about engineered bacteria, disease detection and emerging research.
 
-Our education activities, peer exchanges and stakeholder conversations have shown us why a project needs perspectives beyond its own team. Different people notice different barriers, challenge different assumptions and ask questions that deserve to shape how science is explained and developed.
+### Building the collaboration network
 
-That is why we are committed to helping build an **open, inclusive and mutually supportive iDEC community**. We want newcomers to feel able to ask their first question, teams to share uncertainties as well as successes, and useful knowledge to remain accessible beyond a single competition season. For us, community building means making it easier for the next person to understand, participate and contribute.
+We built our network on a model of “on-campus resource integration + inter-university exchange and resource sharing + off-campus practical engagement.” We exchanged with six university teams — Hunan University (25 May, dual-input AND gate), Shenyang Pharmaceutical University (25 May, dual-signal selection), Southern Medical University (25 May, clinical translation and safety), Fudan University (26 May, integrated diagnosis–treatment), Shenzhen University (29 May, narrow-spectrum targeted therapy) and Huazhong Agricultural University (13 August, Hok/Sok biocontainment) — and presented at the 1st APIC Conference on Synthetic Biology Innovation and Application, where expert feedback on target specificity and in-vivo colonization informed our validation priorities. Our project was approved as a provincial-level innovation project under the 2026 Gansu Provincial College Students' Innovation Training Programme (No. 2026-12, score 76.93/100).
 
-Our contribution begins with the materials we can share: accessible explanations, bilingual learning activities, review prompts and transparent records. We hope these resources become starting points that other teams can adapt, question and improve. Their future use and impact should be documented through feedback, rather than assumed from publication alone.
+<figure class="ihp-figure"><img src="../assets/ihp/image6.webp" alt="Inter-university online exchange seminar, recorded by the team." loading="lazy" decoding="async"><figcaption>Inter-university online exchange seminar, recorded by the team.</figcaption></figure>
 
-**The community we hope to help form is one where learning travels between teams, participation is open to more people, and progress becomes something we build together.**
+## Exploration · Bring feedback into design
 
-[Explore the shared toolkit](../community/toolkit.md) · [Follow our contribution record](../community/evidence.md)
+### Connecting the modules
 
-</section>
+The proposed architecture links sensing, computation, intervention and containment. The intended dual-input rule aims to distinguish coincident signals from either signal alone. Colour-readable and antimicrobial outputs connect detection with a possible response, while the bile-responsive Hok/Sok design makes containment an early engineering question. Stakeholder feedback helps define the properties to evaluate — specificity, readability, stability and containment — rather than substituting for those evaluations.
+
+<figure class="ihp-figure"><img src="../assets/ihp/image7.webp" alt="Conceptual two-input AND logic and proposed output and containment modules. This schematic describes the design intention; it is not a measurement of biological performance." loading="lazy" decoding="async"><figcaption>Conceptual two-input AND logic and proposed output and containment modules. This schematic describes the design intention; it is not a measurement of biological performance.</figcaption></figure>
+
+### A closed feedback loop
+
+External voices changed the questions we asked, the way we explained the project and our priorities for future development. The table connects those insights with design responses. Accessibility features and in-vivo validation remain development priorities.
+
+| Stakeholder insight | Response in our planning | Question to carry forward |
+| --- | --- | --- |
+| Primary-care clinicians: cost and delays limit usefulness | Prioritise a nitrocefin-based, visually readable output and a half-day target | Can readability and turnaround be demonstrated in the intended setting? |
+| ICU nurses: dim lighting complicates colour interpretation | Consider high-contrast outputs | How reliable is interpretation under realistic lighting? |
+| Gansu Red Cross Society: colour-only output can exclude users | Explore complementary non-visual interfaces | Which formats are accessible and acceptable to intended users? |
+| Grassroots laboratory professionals: bulky instruments and long workflows | Plan simpler preparation and reduced instrument dependence | What equipment and steps are truly necessary? |
+| Huazhong Agricultural University peers: environmental release is a central risk | Include bile-responsive Hok/Sok containment in the design | How will containment be evaluated across conditions? |
+| APIC experts: colonisation stability matters before efficacy claims | Prioritise appropriate in-vivo validation in future work | What evidence would establish stability and safety? |
+| Jinghong and AWON: a product requires more than a technical idea | Incorporate formulation, quality, intellectual property and communication into the roadmap | What evidence is needed before each development stage? |
+
+### Investigating educational equity
+
+To ensure our education rested on evidence rather than assumption, we conducted an education-equity investigation with LZU-GANSU — 168 questionnaires (140 valid) and 11 interviews with teachers, students and parents, including Tibetan, Hui and Dongxiang communities. 87.14% of respondents perceived a gap in STEM access between urban and rural areas, and 83.57% called for low-cost, adaptable rural STEM courses and experiment kits. These findings validated and sharpened our commitment to hands-on, reusable and localized science education.
+
+<figure class="ihp-figure"><img src="../assets/ihp/image8.webp" alt="Survey on demands for educational equity" loading="lazy" decoding="async"><figcaption>Survey on demands for educational equity</figcaption></figure>
+
+## Responsibility · Five dimensions of practice
+
+### Education
+
+Our tiered education programme reached children, secondary-school students, university students, older adults, community residents and county-level youth. Activities included 48 pupils aged 8–11 in the “Micro-World on a Petri Dish” art challenge, about 64 older residents in Jiayuguan Road and Baiyin Road subdistricts, community participants in Weiyuan Road subdistrict, and two university campus audiences. A cross-regional secondary-school network connected Northwest, Central, South and Southwest China; seven rural and county-level schools received lectures reaching 423 students. The report describes a 15-language trifold series and an education toolkit intended for reuse. Participant feedback encouraged clearer comparisons between directed evolution and genetic engineering, and separate explanations of signal recognition and biological response. These formats provide starting points for other iDEC educators to adapt. [Explore Education →](education.md)
+
+<figure class="ihp-figure"><img src="../assets/ihp/image9.webp" alt="Communication and interaction with elderly residents in the community" loading="lazy" decoding="async"><figcaption>Communication and interaction with elderly residents in the community</figcaption></figure>
+
+### Collaboration
+
+Inter-university exchange, the APIC Conference, clinical and public-health dialogue, community outreach and institutional support connected different kinds of expertise. The Huazhong Agricultural University discussion reinforced the need to consider containment from the start. Clinicians brought practical needs; peers challenged circuit reasoning and safety assumptions; industry partners raised questions about development and communication. The value of this network lies in sharing questions and learning across disciplines. [Explore Collaboration →](collaboration.md)
+
+### Entrepreneurship
+
+We explored translation through business plans, industry reports, innovation forums, startup competitions and front-line conversations. Industry feedback reinforced product development, intellectual property and evidence-based communication. Our planning covers market analysis, competitive context, SWOT, Porter’s Five Forces and risk mitigation, guided by the vision “Sense Early. Decide Precisely. Act Locally. Stop Safely.” The business plan offers a framework for examining a possible route from laboratory concept to future healthcare use. Its market estimates and forecasts are planning assumptions. [Explore Entrepreneurship and its business plans →](entrepreneurship.md)
+
+<figure class="ihp-figure"><img src="../assets/ihp/image10.webp" alt="Market segmentation funnel from all intestinal infection cases to the first launch population. Levels: intestinal infection → bacterial intestinal infection → GutSentry-addressable pathogens → high-need patients requiring rapid diagnosis and precision intervention → first launch population (beachhead market). Population figures are team estimates, to be calibrated with epidemiological and procurement data." loading="lazy" decoding="async"><figcaption>Market segmentation funnel from all intestinal infection cases to the first launch population. Levels: intestinal infection → bacterial intestinal infection → GutSentry-addressable pathogens → high-need patients requiring rapid diagnosis and precision intervention → first launch population (beachhead market). Population figures are team estimates, to be calibrated with epidemiological and procurement data.</figcaption></figure>
+
+### Inclusivity
+
+Literature and proxy interviews with ICU geriatric nurses, grassroots laboratory physicians and the Gansu Red Cross Society identified barriers in sample handling, equipment availability, colour-only interpretation and cost. They informed prospective directions: high-contrast outputs, simpler workflows, complementary non-visual interfaces and affordable formats. The programme records four community booths (286 participants), six exchange meetings (128 participants and 78 suggestions), five themed workshops (164 participants), and seven county-level school lectures (423 students). The report states that more than 85% of county-level students were encountering directed evolution for the first time. It also describes audio scripts for visually impaired audiences. Of 187 questionnaires distributed, 154 were valid (82.4%). Interview protocols, investigation templates and an inclusivity guide are available for others to adapt. [Explore Inclusivity and its resources →](inclusivity.md)
+
+### Sustainability
+
+Our sustainability discussion focuses on SDGs 3, 4, 10, 12 and 17, with secondary links to SDGs 8 and 2. Education, accessible participation and partnerships connect directly with the documented community work. For the research concept, reduced reagent use, lower disposable-material burdens, renewable fermentation inputs and containment are questions for future assessment. They require measurement before an environmental benefit can be established. Treating these questions early helps connect responsible development with the long-term trust on which the iDEC community depends. [Explore Sustainability →](sustainability.md)
+
+## Responsible research
+
+The Human Practices report describes informed consent and anonymisation for questionnaires, interviews and public engagement. Patient-centred needs were gathered indirectly through professional and organisational representatives; the programme did not directly interview patients. Biosafety also shaped peer discussions and the proposed Hok/Sok containment architecture. The intended containment behaviour still requires experimental assessment under relevant conditions. Our [responsible research page](../responsible-research.md) connects the project with its review and safety responsibilities.
+
+## Building the iDEC community together {#community-summary}
+
+We want to help build an iDEC community in which scientific progress is accompanied by public understanding, open exchange and responsible development. Across three phases and five dimensions, our work connects the laboratory with classrooms, communities, healthcare settings and industry. Each setting brings a different question about what matters, who benefits and what should happen next.
+
+Clinicians grounded our priorities in practical needs. Grassroots practitioners and representatives made accessibility part of the discussion. Peer teams and conference experts challenged assumptions about circuits, containment and evidence. Industry partners broadened our view of how a research idea might become a usable product. Students and residents reminded us that clear explanations and space for questions matter to public trust.
+
+Our continuing commitment is to make this learning useful beyond one competition season: share educational approaches, keep interview and inclusivity resources accessible, and offer our planning framework for others to question and adapt. We hope to help form an open, inclusive and mutually supportive iDEC community, where teams can discuss uncertainty, learn from one another and build on previous work.

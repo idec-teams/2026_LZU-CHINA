@@ -4,9 +4,6 @@ eyebrow: Community archive · Full record
 
 # Inclusivity: the complete practice record
 
-!!! note "Historical activity record"
-    This archive preserves earlier LZU-CHINA activities and original photographs. Event branding in the source material does not establish that an activity was organised by iDEC or that a partner was an iDEC team. Linked PDFs are now labelled iDEC adaptations for reference and planning, not final submission documents.
-
 
 People encounter different barriers to understanding and using science. Our work combines healthcare stakeholder dialogue with accessible communication, school outreach and reusable interview resources.
 

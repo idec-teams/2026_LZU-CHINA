@@ -4,100 +4,100 @@ eyebrow: Records / Retrospective journal
 
 # Research journal — retrospective draft
 
-This journal organises the supplied **Engineering.docx** and **Manuscript.pdf** into reviewable entries. It was compiled on **9 October 2026**; that is the editorial date, not an experiment date. Entry numbers follow the engineering document's structure, not verified calendar days or directed-evolution rounds.
+We compiled this retrospective journal on **9 October 2026** to connect our engineering work with its observations and follow-up questions. This is the compilation date, not an experiment date. Entry numbers correspond to engineering cycles rather than calendar days or directed-evolution rounds.
 
-**Verification status:** experiment dates, experimenters and contemporaneous raw records have not been supplied. Every entry remains unverified against the original laboratory notebook. This draft does not replace the dated experiment log required for submission.
+**Record status:** experiment dates, experimenters and contemporaneous raw records are not yet available for verification. These retrospective entries do not replace our original dated laboratory notebook.
 
 ## Entry 01 — Source material and assay context
 
-**Source:** Engineering cycle 1. **Experiment date / experimenter:** not supplied.
+**Engineering cycle:** 1. **Experiment date / experimenter:** pending verification.
 
-The source narrative describes preparation and checks of the assay material. The corresponding original check images and record sheets are absent from the supplied files. This entry records the existence of the narrative, rather than independently confirming those checks.
+We prepared the assay material and assessed its suitability for subsequent experiments. The original check images and observation sheets remain unavailable, so the checks summarised here still require verification.
 
-**Record to attach:** dated source-material record, operator attribution and original check evidence.
+**Documentation pending:** dated source-material record, operator attribution and original check evidence.
 
 ## Entry 02 — Chassis characterisation
 
-**Source:** Engineering cycle 2. **Experiment date / experimenter:** not supplied.
+**Engineering cycle:** 2. **Experiment date / experimenter:** pending verification.
 
-The engineering account describes a chassis-tolerance assessment. The underlying measurements and plotted source data were not supplied, so the narrative cannot be independently reproduced from this journal.
+We assessed chassis tolerance to establish the culture context for later assays. The underlying measurements and plotted data remain unavailable for independent verification.
 
-**Record to attach:** original observation sheet, sample identifiers and figure or analysis-file mapping.
+**Documentation pending:** original observation sheet, sample identifiers and figure or analysis-file mapping.
 
 ## Entry 03 — Construct verification
 
-**Source:** Engineering cycle 3. **Experiment date / experimenter:** not supplied.
+**Engineering cycle:** 3. **Experiment date / experimenter:** pending verification.
 
-The source reports construct introduction and reporter-compatibility work. Clone-level verification records are absent. This entry does not establish that every construct used in later assays was independently verified.
+We examined construct introduction and reporter compatibility. Clone-level verification records remain unavailable; confirmation of the individual constructs used in later assays is still pending.
 
-**Record to attach:** dated construct-verification records and identifiers linking the tested samples to subsequent figures.
+**Documentation pending:** dated construct-verification records and identifiers linking the tested samples to subsequent figures.
 
 ## Entry 04 — Sequence documentation
 
-**Source:** Engineering cycle 4. **Experiment date / experimenter:** not supplied.
+**Engineering cycle:** 4. **Experiment date / experimenter:** pending verification.
 
-The narrative describes sequence design and sequencing checks. Actual sequence files and chromatograms are not included. The sequence-level claims therefore remain to be checked against the original files.
+We worked on sequence design and sequencing checks. Sequence files and chromatograms remain unavailable, so sequence identity and construct junctions still require verification.
 
-**Record to attach:** versioned sequence files, sequencing evidence and source attribution.
+**Documentation pending:** versioned sequence files, sequencing evidence and source attribution.
 
 ## Entry 05 — Interpreting a signal proxy
 
-**Source:** Engineering cycle 5. **Experiment date / experimenter:** not supplied.
+**Engineering cycle:** 5. **Experiment date / experimenter:** pending verification.
 
-The narrative reports a response associated with a culture-derived proxy. The source curve and raw values are missing. A proxy response does not establish a direct measurement of a single signalling molecule.
+We examined the response to a culture-derived proxy. The original response curve and raw measurements remain unavailable. This assay does not directly quantify a single signalling molecule.
 
-**Record to attach:** original measurements, sample labels and the source analysis supporting the reported response.
+**Documentation pending:** original measurements, sample labels and the analysis underlying the observed response.
 
 ## Entry 06 — Reporter observations
 
-**Source:** Engineering cycle 6; Manuscript Fig. 3. **Experiment date / experimenter:** not supplied.
+**Engineering cycle:** 6; Fig. 3. **Experiment date / experimenter:** pending verification.
 
-The supplied figure presents growth and reporter observations. The manuscript contains a unit inconsistency, which must be resolved from the original record rather than silently corrected by an editor. A reporter observation alone does not validate the complete proposed system.
+We compared growth and reporter expression across the tetrathionate gradient. Figure 3 presents these observations. The concentration-unit discrepancy in our documentation still requires reconciliation with the original record. Reporter expression alone does not validate the complete system.
 
-**Record to attach:** raw figure inputs and the author's documented resolution of the unit discrepancy. [Figure and interpretation](../project/results.md#1-tetrathionate-tolerance-and-reporter-expression).
+**Documentation pending:** raw figure inputs and our documented resolution of the unit discrepancy. [Figure and interpretation](../project/results.md#1-tetrathionate-tolerance-and-reporter-expression).
 
 ## Entry 07 — Assay matrix reconciliation
 
-**Source:** Engineering cycle 7; Manuscript Fig. 4A. **Experiment date / experimenter:** not supplied.
+**Engineering cycle:** 7; Fig. 4A. **Experiment date / experimenter:** pending verification.
 
-The described matrix and the stated number of groups disagree. The actual set of analysed samples cannot be established without the original record. This entry preserves the discrepancy instead of selecting a convenient group count.
+We assessed the combined-input response using a cross-induction matrix. The 7 × 4 design and a separate total of 21 groups in our documentation disagree. The actual analysed sample set remains to be confirmed against the original plate map.
 
-**Record to attach:** original sample layout, analysed-condition list and raw figure inputs. [Evidence discussion](../project/results.md#2-cross-induction-with-culture-filtrate-and-tetrathionate).
+**Documentation pending:** original sample layout, analysed-condition list and raw figure inputs. [Evidence discussion](../project/results.md#2-cross-induction-with-culture-filtrate-and-tetrathionate).
 
 ## Entry 08 — Readout timing
 
-**Source:** Engineering cycle 8; Manuscript Fig. 4A. **Experiment date / experimenter:** not supplied.
+**Engineering cycle:** 8; Fig. 4A. **Experiment date / experimenter:** pending verification.
 
-The introductory speed claim is inconsistent with the timing described elsewhere in the manuscript. The supplied material does not establish the faster claim. This entry and Entry 07 concern the same figure and must not be counted as separate independent replications.
+We evaluated the colour readout after 12 h of co-culture and 2 h of substrate development. These observations do not establish a one-hour response. This entry and Entry 07 concern the same figure and are not separate independent replications.
 
-**Record to attach:** original observation timestamps and the author's checked figure caption.
+**Documentation pending:** original observation timestamps and the checked figure caption.
 
 ## Entry 09 — Limits of an endpoint measurement
 
-**Source:** Engineering cycle 9; Manuscript Fig. 4B. **Experiment date / experimenter:** not supplied.
+**Engineering cycle:** 9; Fig. 4B. **Experiment date / experimenter:** pending verification.
 
-The manuscript reports differences in a stained-biomass endpoint. That readout does not independently establish viable organism counts, eradication, a particular mechanism or an in-host effect. No new interpretation beyond these limits is added here.
+We compared crystal-violet-stained biomass between the assay groups. The endpoint reflects retained biomass; it does not independently establish viable organism counts, eradication, a particular mechanism or an in-host effect.
 
-**Record to attach:** replicate-level measurements and the original statistical output. [Figure interpretation](../project/results.md#3-crystal-violet-biofilm-assay).
+**Documentation pending:** replicate-level measurements and the original statistical output. [Figure interpretation](../project/results.md#3-crystal-violet-biofilm-assay).
 
 ## Entry 10 — Containment evidence review
 
-**Source:** Engineering cycle 10. **Experiment date / experimenter:** not supplied.
+**Engineering cycle:** 10. **Experiment date / experimenter:** pending verification.
 
-The engineering text includes a containment claim, but no corresponding raw dataset or result figure was supplied. This journal therefore cannot validate the claimed performance or environmental safety.
+We proposed a bile-responsive Hok/Sok containment module. Quantitative performance remains unverified because the corresponding raw dataset and result figure are not yet available. We cannot infer environmental safety from the design alone.
 
-**Record to attach:** original supporting records, if they exist, and the responsible research documentation. [Current evidence boundary](../project/results.md#5-containment-claim).
+**Documentation pending:** original supporting records, if they exist, and the responsible research documentation. [Current evidence boundary](../project/results.md#5-containment-claim).
 
 ## Entry 11 — Cell-assay interpretation
 
-**Source:** Engineering cycle 11; Manuscript Fig. 5. **Experiment date / experimenter:** not supplied.
+**Engineering cycle:** 11; Fig. 5. **Experiment date / experimenter:** pending verification.
 
-The supplied figure reports a cell-line assay and no significant difference between two experimental groups. A non-significant difference is not proof of equivalence or safety; interpretation also requires the reference condition and original measurements.
+We assessed L-929 cell compatibility and observed no statistically significant difference between the two bacterial groups. Non-significance does not establish equivalence or safety; interpretation also depends on the medium-only reference and the underlying measurements.
 
-**Record to attach:** sample-level observations, exact replicate counts, analysis output and dated operator record. [Figure and limitations](../project/results.md#4-l-929-cell-assay).
+**Documentation pending:** sample-level observations, exact replicate counts, analysis output and dated operator record. [Figure and limitations](../project/results.md#4-l-929-cell-assay).
 
 ## Completing the original-record links
 
-For each entry, the team should supply the actual experiment date, researcher, original notebook identifier, protocol reference, sample identifiers, raw-file location, result and report-figure mapping. Any later correction should record who checked it and when. Missing observations should remain missing; an editorial reconstruction is not contemporaneous evidence.
+For each entry, we still need to link the actual experiment date, researcher, original notebook identifier, protocol, sample identifiers, raw files and corresponding figure. Corrections will need a named reviewer and verification date. Missing observations remain unresolved until checked against the original laboratory records.
 
 [Engineering-to-figure index](notebook.md) · [Data availability](../resources.md) · [Responsible research](../responsible-research.md)

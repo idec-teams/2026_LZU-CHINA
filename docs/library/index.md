@@ -9,9 +9,9 @@ hide:
 <p class="lead">Full records, research methods and reusable resources. Follow the original evidence without interrupting the main story.</p>
 
 <div class="hub-grid">
-<a href="../documentation/protocols/"><span>RESEARCH RECORDS</span><h2>Methods & engineering</h2><p>Read the supplied methods and trace figures through the engineering index.</p><b>Open methods ↗</b></a>
-<a href="../community/toolkit/"><span>TAKE SOMETHING WITH YOU</span><h2>The bilingual toolkit</h2><p>Learning activity, cross-team review, contribution log and handoff templates.</p><b>Get the toolkit ↗</b></a>
-<a href="../human-practices/resources/"><span>SHARED DOCUMENTS</span><h2>Guides & planning</h2><p>Existing interview guides, inclusivity resources and business planning PDFs.</p><b>Browse resources ↗</b></a>
+<a href="../documentation/protocols/"><span>RESEARCH RECORDS</span><h2>Methods & engineering</h2><p>Read our experimental methods and trace figures through the engineering index.</p><b>Open methods ↗</b></a>
+<a href="../human-practices/"><span>INTEGRATED HUMAN PRACTICES</span><h2>From listening to action</h2><p>Clinical, community and industry feedback across three phases of work.</p><b>Read IHP ↗</b></a>
+<a href="../human-practices/inclusivity/#interview-and-inclusivity-resources"><span>SHARED DOCUMENTS</span><h2>Interview & inclusion guides</h2><p>Reusable interview protocols, investigation templates and accessibility guidance.</p><b>Open the guides ↗</b></a>
 <a href="../resources/"><span>TRACE THE SOURCE</span><h2>Data & references</h2><p>Source documents, references and current data availability.</p><b>Check sources ↗</b></a>
 </div>
 

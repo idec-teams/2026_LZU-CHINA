@@ -1,4 +1,5 @@
 ---
+title: Entrepreneurship
 eyebrow: Community / Translation
 ---
 
@@ -10,7 +11,7 @@ Our entrepreneurship work examines the path between a research concept and possi
 
 ## Start with the intended setting
 
-Healthcare conversations raised questions about equipment, workflow, readability and affordability. Industry exchanges added product development, intellectual property, manufacturing consistency and quality management. [Explore the documented stakeholder conversations →](stakeholders.md)
+Healthcare conversations raised questions about equipment, workflow, readability and affordability. Industry exchanges added product development, intellectual property, manufacturing consistency and quality management. [Explore the documented stakeholder conversations →](index.md#clinical-industry-and-community-engagement)
 
 ## Four questions for an iDEC project
 
@@ -31,8 +32,15 @@ The stages are questions to resolve, not milestones already completed. The plann
 
 The [complete planning record](entrepreneurship-record.md) preserves **30 illustrations and 45 tables**, including stakeholder exploration, alternative approaches, proposed product concepts, market analysis and financial scenarios. It is available for readers who want to inspect those assumptions in detail.
 
-[Read the detailed plan](entrepreneurship-record.md) · [Open the Chinese and English PDF resources](resources.md#business-planning-resources)
+[Read the detailed plan](entrepreneurship-record.md) · [Open the Chinese and English PDF resources](#business-planning-resources)
 
 ## Share the reasoning
 
 The most reusable outcome of early translation work may be a better question. We propose using the framework above with future student teams, asking them to state what is known, what is assumed and what would change their decision. This makes a business narrative easier to challenge and a research direction easier to explain.
+
+## Business planning resources
+
+- Chinese business plan: [Open PDF](../assets/community-source/entrepreneurship/pdf/business-plan-cn.pdf) · [Download](../assets/community-source/entrepreneurship/pdf/business-plan-cn.pdf){ download }
+- English business plan: [Open PDF](../assets/community-source/entrepreneurship/pdf/business-plan-en.pdf) · [Download](../assets/community-source/entrepreneurship/pdf/business-plan-en.pdf){ download }
+
+If your browser does not display a PDF, open its link in a separate tab and use the browser’s Save/Download control.

@@ -1,4 +1,5 @@
 ---
+title: Inclusivity
 eyebrow: Community / Inclusivity
 ---
 
@@ -33,6 +34,23 @@ These responses are useful for improving the programme. They are not a controlle
 
 ## Resources for the next conversation
 
-Our [resource library](resources.md) provides three downloadable guides: healthcare stakeholder interview protocols, stakeholder-investigation templates and inclusivity guidance for biomedical teams. Each can be adapted to the audience and ethical context of a new project.
+The three downloadable guides below cover healthcare stakeholder interview protocols, stakeholder-investigation templates and inclusivity guidance for biomedical teams. Each can be adapted to the audience and ethical context of a new project.
 
 For this website, our contribution includes keyboard-operable learning activities, readable text, text alternatives and information that remains available without an animation or image.
+
+## Interview and inclusivity resources
+
+<div class="hp-gallery">
+<a href="../../assets/community-source/inclusivity/documents/01-interview-protocols-for-healthcare-inclusivity-1.pdf"><img src="../../assets/community-source/inclusivity/resource-covers/01-interview-protocols-cover.png" alt="Cover of the healthcare inclusivity interview protocols" loading="lazy"></a>
+<a href="../../assets/community-source/inclusivity/documents/02-stakeholder-investigation-templates.pdf"><img src="../../assets/community-source/inclusivity/resource-covers/02-stakeholder-templates-cover.png" alt="Cover of the stakeholder-investigation templates" loading="lazy"></a>
+<a href="../../assets/community-source/inclusivity/documents/03-guideline-for-biomedical-idec-inclusivity-work.pdf"><img src="../../assets/community-source/inclusivity/resource-covers/03-biomedical-inclusivity-guide-cover.png" alt="Cover of the biomedical inclusivity guide" loading="lazy"></a>
+</div>
+
+| Resource | Read | Save |
+| --- | --- | --- |
+| Healthcare stakeholder interview protocols | [Open PDF](../assets/community-source/inclusivity/documents/01-interview-protocols-for-healthcare-inclusivity-1.pdf) | [Download](../assets/community-source/inclusivity/documents/01-interview-protocols-for-healthcare-inclusivity-1.pdf){ download } |
+| General stakeholder-investigation templates | [Open PDF](../assets/community-source/inclusivity/documents/02-stakeholder-investigation-templates.pdf) | [Download](../assets/community-source/inclusivity/documents/02-stakeholder-investigation-templates.pdf){ download } |
+| Inclusivity guidance for student biomedical research teams | [Open PDF](../assets/community-source/inclusivity/documents/03-guideline-for-biomedical-idec-inclusivity-work.pdf) | [Download](../assets/community-source/inclusivity/documents/03-guideline-for-biomedical-idec-inclusivity-work.pdf){ download } |
+
+
+If a PDF does not display, use its Open or Download link.

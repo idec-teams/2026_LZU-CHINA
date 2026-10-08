@@ -4,21 +4,21 @@ eyebrow: Records / Data and references
 
 # Data and references
 
-<p class="page-deck">Follow the source material, inspect the bibliography and see which underlying data remain unavailable.</p>
+<p class="page-deck">Explore our research references and the availability of underlying data.</p>
 
 ## Data availability
 
-This wiki currently reproduces figures supplied in **Engineering.docx** and **Manuscript.pdf**. The supplied files do not include replicate-level spreadsheets, instrument exports, complete plasmid sequence files, sequencing chromatograms, image-analysis files, or dated notebook records. Those materials are needed to independently reproduce the reported summary values and resolve the discrepancies listed on the [Methods](documentation/protocols.md) and [Results](project/results.md) pages.
+Our figures are presented in **Engineering.docx** and **Manuscript.pdf**. Our public data record does not yet include replicate-level spreadsheets, instrument exports, complete plasmid sequence files, sequencing chromatograms, image-analysis files, or dated notebook records. Those materials are needed to independently reproduce our summary values and resolve the discrepancies listed on the [Methods](documentation/protocols.md) and [Results](project/results.md) pages.
 
-No new experimental data were generated while preparing this wiki. The source figures are included as provided; captions identify the reported assay and its limits.
+We retain the original experimental figures and explain each assay and its interpretation in the accompanying captions. Website preparation did not generate additional experimental observations.
 
 ## Source files
 
-- Engineering summary and figures: provided by the project team for this wiki draft.
-- Manuscript and figures: provided by the project team for this wiki draft.
-- Related project context: the LZU-CHINA project materials reviewed for this wiki.
+- Engineering summary and figures: LZU-CHINA research documentation.
+- Manuscript and figures: LZU-CHINA research documentation.
+- Related project context: LZU-CHINA project documentation.
 
-## References cited in the supplied manuscript
+## Research references
 
 1. Winter SE, Thiennimitr P, Winter MG, et al. Gut inflammation provides a respiratory electron acceptor for *Salmonella*. *Nature*. 2010;467:426–429.
 2. Stecher B, Robbiani R, Walker AW, et al. *Salmonella enterica* serovar Typhimurium exploits inflammation to compete with the intestinal microbiota. *PLoS Biology*. 2007;5:e244.
@@ -52,4 +52,4 @@ No new experimental data were generated while preparing this wiki. The source fi
 30. Silva-Rocha R, de Lorenzo V. Mining logic gates in mechanisms of inducible transcription in eubacteria. *FEBS Letters*. 2008;582:1237–1244.
 31. Chen Y, Wu H, Shen Z, et al. Engineering synthetic microbial systems for biomedical applications. *Nature Reviews Bioengineering*. 2023;1:258–275.
 
-Bibliographic details above follow the supplied manuscript and should be checked against the source publications before final submission.
+Bibliographic verification against the original publications remains pending.

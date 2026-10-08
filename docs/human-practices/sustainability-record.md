@@ -4,16 +4,11 @@ eyebrow: Community archive / SDGs
 
 # Sustainability: detailed SDG assessment
 
-!!! note "Historical activity record"
-    This archive preserves earlier LZU-CHINA activities and original photographs. Event branding in the source material does not establish that an activity was organised by iDEC or that a partner was an iDEC team.
-
 
 <p class="page-deck">The detailed SDG assessment and original activity illustrations remain available for closer inspection.</p>
 
 This assessment connects our iDEC project with sustainable-development questions through its full SDG discussion, activity photographs and bibliography. It complements our [sustainability overview](sustainability.md).
 
-!!! note "Scope of the source claims"
-    Statements about reduced antibiotic use, clinical benefit, environmental persistence or containment describe the original project rationale and intended outcomes. They should not be read as demonstrated clinical or environmental performance. This assessment distinguishes documented community engagement from anticipated technical benefits that still require evaluation.
 
 ## 1. Introduction
 

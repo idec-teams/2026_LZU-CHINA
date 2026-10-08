@@ -6,15 +6,15 @@ eyebrow: 01 / The project story
 
 <p class="lead">Imagine an alarm that responds to every sound. It would be easy to trigger, but difficult to trust. A useful alarm needs context.</p>
 
-GutSentry asks a related biological question: **could a living system consider two environmental inputs before producing a readable response?** The project materials call this concept both GutSentry and Intestinal Barrier. It is a laboratory research concept, not a diagnostic or treatment available for use.
+GutSentry asks a related biological question: **could a living system consider two environmental inputs before producing a readable response?** We refer to this concept as GutSentry, also known as Intestinal Barrier. It is a laboratory research concept, not a diagnostic or treatment available for use.
 
 <figure class="editorial-figure"><img src="../../img/cartoon/cartoon-signals.webp" width="1536" height="1024" alt="Cartoon microbes exchange two differently coloured streams of signals." loading="lazy" decoding="async"><figcaption><strong>Signals in context</strong><span>AI-generated cartoon illustrating communication. Shapes and colours are conceptual, not microscopy or measured molecules.</span></figcaption></figure>
 
 ## A crowded conversation
 
-Microorganisms interact with their surroundings through chemical signals. A signal can carry information, but its meaning depends on the environment and how it is measured. In our project, the available experimental report examines a culture-filtrate proxy and tetrathionate as two inputs. The proxy contains a mixture of soluble products; it is not a direct measurement of one purified signalling molecule.
+Microorganisms interact with their surroundings through chemical signals. A signal can carry information, but its meaning depends on the environment and how it is measured. In our project, we examined a culture-filtrate proxy and tetrathionate as two inputs. The proxy contains a mixture of soluble products; it is not a direct measurement of one purified signalling molecule.
 
-That distinction changes the question we can answer. The report describes responses under its test conditions, rather than proving that the system can identify a particular infection in a person.
+That distinction changes the question we can answer. Our experiments measured responses under laboratory conditions; they do not establish that the system can identify a particular infection in a person.
 
 ## Two inputs, one question
 
@@ -43,7 +43,7 @@ An **AND gate** is a simple rule: an output is active only when both inputs are 
 
 ## From a rule to a research question
 
-A diagram states an intention. An experiment tests how the system behaves. The [reported results](results.md) include a cross-induction figure, but also contain limitations and inconsistencies that matter to interpretation. Our [evidence guide](evidence.md) connects each observation to what it supports.
+A diagram states an intention. An experiment tests how the system behaves. The [experimental results](results.md) include a cross-induction figure, but also contain limitations and inconsistencies that matter to interpretation. Our [evidence guide](evidence.md) connects each observation to what it supports.
 
 The same approach matters in directed evolution. Before calling one version “better,” we need to specify the property, the comparison and the conditions. Our [learning lab](../learn/index.md) makes that question tangible with an abstract example.
 

@@ -1,4 +1,5 @@
 ---
+title: Collaboration
 eyebrow: Community / Collaboration
 ---
 
@@ -27,4 +28,4 @@ These are records of dialogue. They do not establish clinical effectiveness or e
 
 A useful exchange should make the proposed improvement inspectable: the objective, comparison, operating conditions and limits should be clear enough for a collaborator to challenge. This principle connects our existing peer discussions with the standards we want for future directed-evolution communication.
 
-[Stakeholder dialogue](stakeholders.md) · [Evidence guide](../project/evidence.md) · [Full collaboration record](collaboration-record.md)
+[Integrated Human Practices](index.md) · [Evidence guide](../project/evidence.md) · [Full collaboration record](collaboration-record.md)

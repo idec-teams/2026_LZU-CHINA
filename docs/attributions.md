@@ -27,7 +27,7 @@ The GutSentry mark and signal-atlas illustration are original SVG artwork create
 
 ## Photographs, documents and reuse
 
-Activity photographs, member portraits and adapted PDF documents are hosted with this website; source attribution is retained. The [resource library](human-practices/resources.md) provides access to reusable guides and planning documents. Historical photographs retain their original content. Downloadable documents are labelled as iDEC adaptations for reference and planning; they do not establish completed activities, approvals or validated project claims. Original documents are retained separately in the local editorial archive.
+Activity photographs, member portraits and adapted PDF documents are hosted with this website; source attribution is retained. The [Inclusivity](human-practices/inclusivity.md#interview-and-inclusivity-resources) and [Entrepreneurship](human-practices/entrepreneurship.md#business-planning-resources) chapters provide reusable guides and planning documents. Historical photographs retain their original content. Downloadable documents are labelled as iDEC adaptations for reference and planning; they do not establish completed activities, approvals or validated project claims. Original documents are retained separately in the local editorial archive.
 
 The supplied LZU-CHINA website content is licensed under [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/). We credit the **LZU-CHINA 2026 team** and retain the [source repository](https://gitlab.igem.org/2026/lzu-china) as the provenance record. Adaptations include iDEC-focused framing, navigation and presentation.
 
@@ -40,3 +40,5 @@ This credits the source design; the current iDEC pages use the existing site typ
 ## Cartoon illustrations
 
 Four AI-generated cartoon illustrations accompany the project story, learning lab, education and inclusivity introductions. Created using OpenAI’s built-in image generation tool, they use microbe mascots, environmental selection and branching diversity as conceptual teaching imagery. They do not represent experimental evidence, actual participants or a reconstructed phylogeny. Each has an adjacent caption and text alternative. Original outreach photographs are retained separately.
+
+The Integrated Human Practices page adapts the team-supplied “Building the iDEC Community: Advancing Directed Evolution Through Integrated Human Practices” report, including its activity counts, stakeholder feedback and selected illustrations. Conceptual diagrams describe intended designs, and market figures retain their planning status.

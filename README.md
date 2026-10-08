@@ -15,10 +15,10 @@ Pushing changes to `main` runs the GitHub Actions workflow and publishes the wik
 ## Website structure
 
 - `docs/index.md`: Evolution Atlas homepage, a four-chapter journey through signals, selection, evidence and shared practice.
-- `docs/atlas/index.md`: searchable, filterable directory of all 33 content pages.
+- `docs/atlas/index.md`: searchable, filterable directory of all project content pages.
 - `docs/research/index.md`, `docs/library/index.md`: research questions and complete-record hubs.
 - `docs/project/story.md`, `docs/learn/index.md`, `docs/project/evidence.md`: plain-language story, interactive learning and claim-to-evidence map.
-- `docs/human-practices/`: concise introductions plus complete `*-record.md` archives. Original photographs and tables remain available; referenced media are hosted locally.
+- `docs/human-practices/`: six Community sections (IHP, Education, Entrepreneurship, Inclusivity, Sustainability and Collaboration), plus complete `*-record.md` archives. Original photographs and tables remain available; referenced media are hosted locally.
 - `docs/stylesheets/atlas.css`: Evolution Atlas visual system and responsive layouts; `editorial.css` and `extra.css` retain learning, archive and member components.
 - `docs/javascripts/experience.js`: keyboard-accessible concept interactions, feedback and reading time. No external JavaScript dependencies.
 - `docs/javascripts/atlas.js`: chapter tracking, scroll-driven comparison illustration, reading progress and atlas filters; supports instant navigation and reduced motion.

@@ -4,9 +4,6 @@ eyebrow: Community archive · Full record
 
 # Education: the complete activity record
 
-!!! note "Historical activity record"
-    This archive preserves earlier LZU-CHINA activities and original photographs. Event branding in the source material does not establish that an activity was organised by iDEC or that a partner was an iDEC team.
-
 
 Our education programme connects children, school students, university peers and community residents through hands-on activities, dialogue and reusable learning materials. **Explore → Understand → Engage → Connect** provides a route through the full activity record below.
 

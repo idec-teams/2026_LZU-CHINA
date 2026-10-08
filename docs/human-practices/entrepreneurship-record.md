@@ -4,16 +4,11 @@ eyebrow: Community archive · Full record
 
 # Entrepreneurship: detailed planning assumptions
 
-!!! note "Historical activity record"
-    This archive preserves earlier LZU-CHINA activities and original photographs. Event branding in the source material does not establish that an activity was organised by iDEC or that a partner was an iDEC team. Linked PDFs are now labelled iDEC adaptations for reference and planning, not final submission documents.
-
 
 Our iDEC translation roadmap asks how a research idea could become useful beyond an initial demonstration. It brings together stakeholder exploration, proposed applications, market analysis, development risks and community resources. The planning record below provides the detailed assumptions and context behind that roadmap.
 
-!!! note "Reading the original plan"
-    This is a historical planning document. Product specifications, forecasts, milestones and prospective benefits are claims or assumptions in that plan, rather than new iDEC results or proof of a deployed product. Interview dates are identified in the source as awaiting confirmation. The separate inclusivity work used professional and organisational proxies; the single representative patient response described here belongs to this report’s own interview record.
 
-[Stakeholder dialogue and iDEC reflections](stakeholders.md) · [Reusable resources](resources.md)
+[Stakeholder dialogue and iDEC reflections](index.md#clinical-industry-and-community-engagement) · [Business planning resources](entrepreneurship.md#business-planning-resources)
 
 ## An iDEC lens on translation
 

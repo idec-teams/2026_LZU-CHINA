@@ -1,4 +1,5 @@
 ---
+title: Sustainability
 eyebrow: Community / Sustainability
 ---
 

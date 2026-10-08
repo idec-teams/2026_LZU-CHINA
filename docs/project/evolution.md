@@ -6,11 +6,11 @@ eyebrow: Research / Evolution scope
 
 <p class="page-deck">Engineering iterations and directed evolution are related ideas, but they require different evidence. This page makes the distinction explicit.</p>
 
-## What the supplied files document
+## Our current research scope
 
-The Engineering document labels eleven cycles as Design–Build–Test–Learn (DBTL) engineering work. They describe chassis characterization, sequence design, circuit assembly, and in-vitro assays. The manuscript also reports several endpoint measurements.
+We organised our work into eleven Design–Build–Test–Learn (DBTL) cycles covering chassis characterisation, sequence design, circuit assembly and in-vitro assays. The [results page](results.md) presents the associated endpoint measurements.
 
-The supplied evidence does **not** describe completed directed-evolution rounds. No diversified genotype library, selection or enrichment procedure, round-by-round population lineage, sequence tracking of selected variants, or head-to-head comparison showing an evolved variant outperforming its ancestor is included.
+Our current work does **not** establish completed directed-evolution rounds. No diversified genotype library, selection or enrichment procedure, round-by-round population lineage, sequence tracking of selected variants, or head-to-head comparison showing an evolved variant outperforming its ancestor is available in our research record.
 
 ## Why the distinction matters
 
@@ -18,12 +18,12 @@ An engineering iteration can improve a design through rational redesign and test
 
 ## Evidence required to report an evolution result
 
-| Evidence item | Present in the supplied files? |
+| Evidence item | Current status |
 | --- | --- |
-| Defined evolving component and target performance metric | No complete evolution target or selection criterion is reported. |
-| Starting ancestor and identifiable variant population | No library composition or lineage record is provided. |
-| Selection or screening procedure and round history | Not provided. |
-| Matched ancestor-versus-selected-variant measurements | Not provided. |
-| Sequences or other records connecting genotype to phenotype | No sequence files or selected-variant identifiers are supplied. |
+| Defined evolving component and target performance metric | No complete evolution target or selection criterion has been established. |
+| Starting ancestor and identifiable variant population | No library composition or lineage record is available. |
+| Selection or screening procedure and round history | Not yet available. |
+| Matched ancestor-versus-selected-variant measurements | Not yet available. |
+| Sequences or other records connecting genotype to phenotype | No sequence files or selected-variant identifiers are available. |
 
-This page records the current scope of the materials. It does not assign a competition track or claim an evolution award category.
+We distinguish our engineering progress from the additional evidence needed to establish a directed-evolution result.

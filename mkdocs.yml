@@ -61,17 +61,12 @@ nav:
       - Experimental results: project/results.md
       - Evidence guide: project/evidence.md
   - Community:
-      - Build together: community/index.md
-      - Reusable toolkit: community/toolkit.md
-      - Contribution status: community/evidence.md
-      - Community overview: human-practices/index.md
+      - IHP: human-practices/index.md
       - Education: human-practices/education.md
-      - Inclusivity: human-practices/inclusivity.md
-      - Collaboration: human-practices/collaboration.md
-      - Stakeholder dialogue: human-practices/stakeholders.md
       - Entrepreneurship: human-practices/entrepreneurship.md
+      - Inclusivity: human-practices/inclusivity.md
       - Sustainability: human-practices/sustainability.md
-      - Resource library: human-practices/resources.md
+      - Collaboration: human-practices/collaboration.md
   - Library:
       - Open library: library/index.md
       - Methods: documentation/protocols.md
