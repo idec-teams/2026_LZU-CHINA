@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 690" role="img" aria-labelledby="title desc">
+  <title id="title">GutSentry proposed signal-to-output design</title>
+  <desc id="desc">Two proposed inputs feed split T7 RNA polymerase and a reporter module. A separate bile-responsive Hok/Sok module is shown as a containment design. The promoter assignment of the AI-2 arm remains unresolved.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#f4fbfb"/><stop offset="1" stop-color="#edf4fa"/></linearGradient>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0 0 10 5 0 10z" fill="#426a79"/></marker>
+    <style>
+      text{font-family:Inter,Segoe UI,Arial,sans-serif;fill:#173842}.title{font-size:28px;font-weight:750}.sub{font-size:16px;fill:#54717a}.head{font-size:19px;font-weight:700}.body{font-size:15px}.small{font-size:13px;fill:#54717a}.pill{font-size:13px;font-weight:700;letter-spacing:.04em}.warn{font-size:14px;font-weight:650;fill:#824b12}.line{fill:none;stroke:#426a79;stroke-width:3;marker-end:url(#arrow)}.dash{fill:none;stroke:#bd7a32;stroke-width:2.5;stroke-dasharray:8 7;marker-end:url(#arrow)}
+    </style>
+  </defs>
+  <rect x="10" y="10" width="1180" height="670" rx="28" fill="url(#bg)" stroke="#cfdee2" stroke-width="2"/>
+  <text x="48" y="58" class="title">Proposed sensing and response architecture</text>
+  <text x="48" y="86" class="sub">Our proposed system architecture. Arrows show intended relationships, not proof that each module was validated.</text>
+
+  <rect x="45" y="120" width="300" height="145" rx="18" fill="#ffffff" stroke="#78a9b4" stroke-width="2"/>
+  <rect x="65" y="138" width="104" height="27" rx="13" fill="#e0f1f3"/>
+  <text x="80" y="157" class="pill">INPUT A</text>
+  <text x="66" y="195" class="head">Culture-filtrate proxy</text>
+  <text x="66" y="221" class="body">*Salmonella* supernatant;</text>
+  <text x="66" y="244" class="body">AI-2 not directly quantified</text>
+
+  <rect x="440" y="120" width="330" height="145" rx="18" fill="#fff9ec" stroke="#d6a451" stroke-width="2"/>
+  <text x="465" y="158" class="pill" fill="#824b12">PROMOTER ASSIGNMENT UNRESOLVED</text>
+  <text x="465" y="197" class="head">Candidate AI-2-responsive arm</text>
+  <text x="465" y="225" class="body">N-terminal T7 fragment</text>
+  <text x="465" y="248" class="small">Confirm promoter from final sequence</text>
+
+  <rect x="45" y="300" width="300" height="145" rx="18" fill="#ffffff" stroke="#78a9b4" stroke-width="2"/>
+  <rect x="65" y="318" width="104" height="27" rx="13" fill="#e0f1f3"/>
+  <text x="80" y="337" class="pill">INPUT B</text>
+  <text x="66" y="375" class="head">Tetrathionate</text>
+  <text x="66" y="402" class="body">Inflammation-associated cue</text>
+  <text x="66" y="425" class="small">Dose-response tested in vitro</text>
+
+  <rect x="440" y="300" width="330" height="145" rx="18" fill="#ffffff" stroke="#78a9b4" stroke-width="2"/>
+  <text x="465" y="340" class="pill">SENSING ARM</text>
+  <text x="465" y="379" class="head">TtrS / TtrR → PttrB</text>
+  <text x="465" y="407" class="body">C-terminal T7 fragment</text>
+  <text x="465" y="430" class="small">Observed expression peak: 0.6‰</text>
+
+  <rect x="865" y="200" width="285" height="185" rx="20" fill="#e8f4ee" stroke="#65a88d" stroke-width="2"/>
+  <text x="892" y="238" class="pill">PROPOSED OUTPUT</text>
+  <text x="892" y="277" class="head">Split T7 → P<tspan baseline-shift="sub" font-size="13">T7</tspan></text>
+  <text x="892" y="310" class="body">LacZ + X-Gal color readout</text>
+  <text x="892" y="339" class="body">Microcin J25-related payload</text>
+  <text x="892" y="365" class="small">Peptide secretion not directly measured</text>
+
+  <path d="M345 192 H432" class="dash"/>
+  <path d="M345 372 H432" class="line"/>
+  <path d="M770 192 H810 V244 H857" class="dash"/>
+  <path d="M770 372 H810 V340 H857" class="line"/>
+
+  <rect x="45" y="500" width="300" height="132" rx="18" fill="#ffffff" stroke="#78a9b4" stroke-width="2"/>
+  <text x="67" y="538" class="pill">SEPARATE CONTAINMENT DESIGN</text>
+  <text x="67" y="577" class="head">Bile-responsive P16090</text>
+  <text x="67" y="606" class="body">Hok / Sok toxin–antitoxin module</text>
+  <path d="M345 566 H432" class="line"/>
+
+  <rect x="440" y="500" width="330" height="132" rx="18" fill="#f0eef8" stroke="#9a8bbd" stroke-width="2"/>
+  <text x="466" y="540" class="pill">INTENDED SWITCH</text>
+  <text x="466" y="579" class="head">Bile cue regulates Sok</text>
+  <text x="466" y="608" class="body">Hok is the toxin component</text>
+  <path d="M770 566 H857" class="dash"/>
+
+  <rect x="865" y="480" width="285" height="152" rx="20" fill="#fff5ed" stroke="#d79a6b" stroke-width="2"/>
+  <text x="892" y="520" class="pill">VALIDATION PENDING</text>
+  <text x="892" y="559" class="head">Containment claim</text>
+  <text x="892" y="587" class="body">No raw escape counts or limit</text>
+  <text x="892" y="612" class="body">of detection yet available</text>
+</svg>
